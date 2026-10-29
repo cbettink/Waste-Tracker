@@ -1,0 +1,4693 @@
+{
+ "generated_at": "2026-10-29T19:02:04+00:00",
+ "generated_local": "Thu Oct 29, 2026, 3:02 PM EDT",
+ "hours": 24,
+ "since_local": "Wed Oct 28, 3:02 PM EDT",
+ "stats": {
+  "stories": 180,
+  "new": 180,
+  "company_stories": 24,
+  "chatter": 50,
+  "articles": 230,
+  "fetched": 1352
+ },
+ "sources": [
+  {
+   "name": "Trade publications (RSS)",
+   "requests": 11,
+   "failures": 0,
+   "items": 180,
+   "errors": []
+  },
+  {
+   "name": "SEC EDGAR filings",
+   "requests": 6,
+   "failures": 0,
+   "items": 1,
+   "errors": []
+  },
+  {
+   "name": "Federal Register (EPA)",
+   "requests": 6,
+   "failures": 0,
+   "items": 0,
+   "errors": []
+  },
+  {
+   "name": "Google News",
+   "requests": 72,
+   "failures": 0,
+   "items": 589,
+   "errors": []
+  },
+  {
+   "name": "Bing News",
+   "requests": 68,
+   "failures": 0,
+   "items": 582,
+   "errors": []
+  }
+ ],
+ "sections": [
+  {
+   "key": "WM",
+   "kind": "company",
+   "title": "Waste Management (WM)",
+   "group": "Core coverage",
+   "items": [
+    {
+     "id": "t:dbdfa845eaddc6ce",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Murfreesboro Mayor Shane McFarland on City Growth, Waste Management & MTSU Development",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQazR1NG5sM2NyRXJsV1pLckNSMkdvbXBqbGJVU2FKUHdoMWhCUDhCRVFCTXRNUTIwN0pUOVhmNFpvdkU4S2xxaTZPNWJXMzR5RndleFlNX2tTQWhidFVWSXp4QS1CQlJEN0R3dS1IdG56UHNQUk9YeXlKUzhhUWhqUTBtZ09PY0JGVmhONG92RkpXcWNxVlpncW1FRlA4cUhuZHZNWkNxRm85Q25WMHlvdnlQaEVKTS1rZVBsM0RYeFdZZVlTUHJB?oc=5",
+     "source": "WGNS Radio",
+     "published": "2026-10-29T15:30:15+00:00",
+     "published_local": "Oct 29, 11:30 AM",
+     "summary": "",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:348a6f80c1e9b4d5",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Management stock: Healthcare turnaround advances after Q3 call",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waste-management-stock-healthcare-turnaround-advances-after-q3-call/70429239",
+     "source": "Ad Hoc News",
+     "published": "2026-10-29T10:51:00+00:00",
+     "published_local": "Oct 29, 6:51 AM",
+     "summary": "Waste Management stock is in focus after the company's third-quarter earnings call on October 28, 2026 added new details beyond the results already reported. CEO Jim Fish said he will retire in early ...",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ec0820cc49d7ca70",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "WM Q3 earnings call highlights healthcare gains and volume pressure",
+     "url": "https://www.msn.com/en-us/money/other/wm-q3-earnings-call-highlights-healthcare-gains-and-volume-pressure/ar-AA2glR6P",
+     "source": "Zacks Investment Research on MSN",
+     "published": "2026-10-29T09:05:00+00:00",
+     "published_local": "Oct 29, 5:05 AM",
+     "summary": "Waste Management, Inc. WM emphasized improving healthcare profitability and firm pricing during its third-quarter 2026 earnings call, while acknowledging sluggish waste volumes and elevated fuel costs ...",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZllyUHpQZG5zTHdkOHQ1dDN3Z0w5WjUxVmFpRVd5TFc1MlctOG0yckJTblNOcURJRFkxbndoV2FLN3BvVDZiallaeVJQY0w0cC15NTNVUWE3XzVHX05RUkxjMmp1a29PS0dtZW5INGo0ZjNzOU9RQ1hzUDFMN0l5MGxEejI0cWpyajdVdDZPVkEtb3l6RGc?oc=5",
+       "headline": "WM Q3 Earnings Call Highlights Healthcare Gains and Volume Pressure",
+       "published_local": "Oct 29, 12:05 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:ee6fef045da65243",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Raymond James Adjusts Price Target on Waste Management to $251 From $254",
+     "url": "https://www.marketscreener.com/news/raymond-james-adjusts-price-target-on-waste-management-to-251-from-254-ce785fdad88af224",
+     "source": "MarketScreener",
+     "published": "2026-10-29T07:52:00+00:00",
+     "published_local": "Oct 29, 3:52 AM",
+     "summary": "BNP Paribas Adjusts Price Target on Waste Management to $245 From $248 MT 09:59am RBC Raises Price Target on Waste Management to $247 From $244, Keeps Sector Perform Rating MT 03:54am ...",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3f0c9541eb67c1ef",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "BNP Paribas Adjusts Price Target on Waste Management to $245 From $248",
+     "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-waste-management-to-245-from-248-ce785fdad980f224",
+     "source": "MarketScreener",
+     "published": "2026-10-29T07:21:00+00:00",
+     "published_local": "Oct 29, 3:21 AM",
+     "summary": "RBC Raises Price Target on Waste Management to $247 From $244, Keeps Sector Perform Rating MT 03:54am Clean Harbors Q3 Earnings, Revenue Rise; Names Eric Gerstenberg as CEO - Shares Up Pre-Bell MT Oct ...",
+     "companies": [
+      "WM",
+      "CLH"
+     ],
+     "company_names": [
+      "Waste Management (WM)",
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:d1839bea70179d8a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "WM SWOT Analysis: Strong Financial Growth and Sustainability Ini",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUJQaHN5b09PdU9KeG1KMXl2RWtmZU1mc2JjLWtXbFBDTmVOclRzZGxRQXcxNzZwT2xXeXhxdjltSmlKOFNoRU56NVl3bEYyOUkzbEtyVWtBTGpINk5qQWpFQUhxZ3FJbnpnYjhLOG1wSjdrMTNaaEhjNFEzR1RLb0V4ODNBWU1Db25ZWDJzWmVGd21RcWZFeVZ4VVJXRTg1UmtIcFhPX0RCOXA2QUdXN1JOaWtOMTczN0dFN2pTV2FLS2RUWG5Wb2tZMXVUUQ?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-29T05:56:32+00:00",
+     "published_local": "Oct 29, 1:56 AM",
+     "summary": "",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e7959c13d3c746fb",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Management meldet 6,85 Milliarden USD Umsatz: Was das f\u00fcr die Waste Management-Aktie bedeutet",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/waste-management-meldet-6-85-milliarden-usd-umsatz-was-das-fuer-die-waste-management-aktie-bedeutet/70427805",
+     "source": "AD HOC NEWS",
+     "published": "2026-10-29T05:43:00+00:00",
+     "published_local": "Oct 29, 1:43 AM",
+     "summary": "Die bereinigte operative EBITDA-Marge lag im dritten Quartal bei 31,00 Prozent. Die Waste Management-Aktie kostet am 29.10.2026 204,00 Euro.",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:edc597f7a4eb81e8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Management, Inc. (WM) Stock Forecasts",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOU5nTkJyQ0pYdGdra0hLSGprYmVqTjFkM0NnLWNZYXIzalctSkEwNEZlRHloTnBfNTRkWFNka3ZuRGd4cWdpSzJESlBFd0NiaG9ndnA4MmlCcWoxU3d6T1EyZE9TSDdkVUNfNE9LRXZmc1JUZjYwQlFWcHd4VjNtUURkT1NZS1l5NkNvREo4bUE?oc=5",
+     "source": "Yahoo! Finance Canada",
+     "published": "2026-10-29T05:09:14+00:00",
+     "published_local": "Oct 29, 1:09 AM",
+     "summary": "",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0gtQ2FVRFZkUEs3RnpsZm4yYVdRSDdWSkJFZkVSVFJ6NDgtb2ZMV3J0ZEhpM2pYZHAwSkVhOHB3YV9kWkkzSHB5V2tBSFJQTzFjMlpTRDhlemlKZU9FbFNuNHA4QkRSMjlCVng3MzdxRG1zeDBSVHFvUzBxZ3lEUDBqQUlqOXdIbnRUTw?oc=5",
+       "headline": "Waste Management, Inc. (WM) Stock Forecasts",
+       "published_local": "Oct 28, 7:36 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:325ae100ab9b3154",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Company news for Oct 29, 2026",
+     "url": "https://www.msn.com/en-us/money/other/company-news-for-oct-29-2026/ar-AA2gknEN",
+     "source": "Zacks Investment Research on MSN",
+     "published": "2026-10-29T01:27:00+00:00",
+     "published_local": "Oct 28, 9:27 PM",
+     "summary": "Waste Management Inc.\u2019s (WM) shares tumbled 4.5% after posting third-quarter 2026 adjusted earnings of $2.15 per share, missing the Zacks Consensus Estimate of $2.18 per share. Shares of Ultra Clean ...",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:dcba41ae166b6ea7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "What Waste Management (WM) Said on Its Q3 Earnings Call",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-said-q3-080425935.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T01:03:00+00:00",
+     "published_local": "Oct 28, 9:03 PM",
+     "summary": "Waste Management (NYSE:WM) reported third-quarter results that management said kept the company on track to meet its 2026 outlook, with revenue and free cash flow expected to finish at the high end of ...",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:0726250c7b74f6ef",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Is Waste Management Inc (WM) a Bargain After 4.5% Drop? GF Value Says Undervalued",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3ZkYkV4N21lNEFTM3hhVzhvSWxlMjNmNDE2OTBfOHhmbFlzTjhIekpVMXVHWWhFWEpzTjNSSlhydmZUM1VxeDdKMEYzeFVCNVVsZ2VaaWlkNm5ZUTVSTW9iXzc1cFQ1UXRibGsxbmJsUTc5Y1JQMU8wYVNvb3hGcG1iLWtrb3V0eDB1VW5zMzAyZXlOMkhmTWYxQWd2U2RXVDFucDNkV0txYVRMMnB1X3ktWlFVQQ?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-28T22:29:44+00:00",
+     "published_local": "Oct 28, 6:29 PM",
+     "summary": "",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:95ed6d9690cc2228",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Management: 3 key takeaways for long-term investors",
+     "url": "https://www.msn.com/en-us/news/other/waste-management-3-key-takeaways-for-long-term-investors/ar-AA2gjOFG",
+     "source": "The Motley Fool on MSN",
+     "published": "2026-10-28T21:58:54+00:00",
+     "published_local": "Oct 28, 5:58 PM",
+     "summary": "Technology and disciplined pricing are structurally lowering operating costs even as fuel expenses climb, protecting margins.",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [
+      "volumes_pricing",
+      "innovation"
+     ],
+     "topic_names": [
+      "Volumes & pricing",
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "The Globe and Mail",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlRkNUFsX0RTWTFWUExPZy1nYll3bnBUYXFJSDBCcjhpTXpaSlhCRDhwSnQ2YWhYUzFHbFlOeEcyVXZqY1lCV3NYUzRwVW42ZnJFZEJwQ2ZFTkVabWZENF83ZFFiSzduSUg5Z29ENmE0YU1FZ18wdkZ0cWZLd1JSZG01ZWtibER2WThlb1FGNVBUcFdoVFZwNkpJMmdhSk5tUXMtb1FNZlVraVppTmN0bFE4c2pZVVZpYzdjYXh1OXNVNkItUGNjaTRXZVZGcWJrOVdxSFJLLXo?oc=5",
+       "headline": "Waste Management: 3 Key Takeaways for Long-Term Investors",
+       "published_local": "Oct 29, 12:25 AM"
+      },
+      {
+       "source": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjRTcG1DczV2b3JDTEpXZEl4Vmpwd3V0c0JndUlhd3QxbWxwdVg0V1ZCSTNocEdoS1BSRHUzNjVRd3FCakJ5ZmV5SjBKbG9LbDhyVm05WW03UHE5LUVkTVZZaUVPdWhMeGxJbEVYdEtDb0pBTm9qVk91UHBSXzFlTU9BRW1OOVprOFJEZHJIbzFyN1d1SGFCVDN0SU91UQ?oc=5",
+       "headline": "Waste Management: 3 Key Takeaways for Long-Term Investors",
+       "published_local": "Oct 29, 12:18 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:edaaa13f1bb40d71",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Updated: WM profits rise in Q3",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaU5RaUdDS2YySnBTMlR5NHJZQkQxc2d3RjRmRTNJQm9zWDhKbFJWWm9FU2ktYTEwUHc1OTJpWHgybW0tSUFESXpMN0ZVOWlBWGZROWpLWkw4NFAybi1rVlF5dmE2UTlIV3g3M0RscG5KYmhXNnpKZm00Qnoxb05fZzNVdzFEVm4tT1lYZVN0WmkzZlEwc05mVWJNa3FHUXdx?oc=5",
+     "source": "Waste Today",
+     "published": "2026-10-28T19:52:23+00:00",
+     "published_local": "Oct 28, 3:52 PM",
+     "summary": "",
+     "companies": [
+      "WM"
+     ],
+     "company_names": [
+      "Waste Management (WM)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Construction & Demolition Recycling",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGlEbHpCM0lwZFk4MlZYTXdqd3NGRGd0VUZfMXRJQ3ZaRUEwcng5TmJJVlBsQ1lZSE9KbmpBZWVpZnk2SzNqYmk4T3ZibHJGRnhnQ1lqR1RCWUJoX3Vtclc1Q3VadEtobTZocFBfVW9qek9BS1VHbmQ3ZkoxOXlhOTVzV1hFdDhHbmx6RHNoZk1UWHZCbFE?oc=5",
+       "headline": "Updated: WM profits rise in Q3",
+       "published_local": "Oct 28, 3:39 PM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "RSG",
+   "kind": "company",
+   "title": "Republic Services (RSG)",
+   "group": "Core coverage",
+   "items": [
+    {
+     "id": "t:58d1c0954202b8f7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Republic Services earnings in focus as pricing meets soft volumes By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVpCR2tlM1ZlY3F1RDgxc2xxRjM4eG9IWXprV1JKRkM4SmF1M3dSZ2dIaS1ManJPVzVXck1nYVFFZjN6MTVPaTVtdFFLVzg1cmpqXzk1cF9WVUtOUFZZN0pOckhzeld2VERIV0o2MG9rdFF2YWpNcmlZQkVNMDRkeWRMWlhuSVQ5ZTdhdmVnREtZMGhEMEc4T3RaQWZNd1lpLXdwY3ZnYmZWWEU3cTFDc1ZSYWg2QkQwZEFac2NsSTRTeC1E?oc=5",
+     "source": "Investing.com Canada",
+     "published": "2026-10-29T15:16:20+00:00",
+     "published_local": "Oct 29, 11:16 AM",
+     "summary": "",
+     "companies": [
+      "RSG"
+     ],
+     "company_names": [
+      "Republic Services (RSG)"
+     ],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4ce0b34bb58d61e1",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Republic Services (RSG) Workers In Salinas Vote To Join Teamsters Local 350",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxxODIxdklGUGxVdS05a3YwanNTY2hCbGllVUUwVEU0XzlLdjhVUlRRYmtHRzlJSG5sZmdodEtuN0hJRnJxdEkxZV9GNERwa3dwcWlXU25BdnktMUtCUkpIc2JYaE1sbU03SnpucG5UM3c2QnJIaVhrMDZWNVpMSjFCckJ5N2x3bE9fNTZVMW84bkIwZFhEOTk0ZGFpQXlTMHFYMg?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T13:10:23+00:00",
+     "published_local": "Oct 29, 9:10 AM",
+     "summary": "",
+     "companies": [
+      "RSG"
+     ],
+     "company_names": [
+      "Republic Services (RSG)"
+     ],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Simply Wall St",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWVc0WFh3cngtTmREc0RaRS1HbXlCOGxYbEtKZDZLVjhiUEpiTTFoWWtGdmtSdkRZb1R5VmhyUjd1V0QtTDZYLURQMlE3V0ktTnYzLVJmcEstS0JpcmZoVENpZ2N6ejhYX28yTmxWV1FGYmZsREV6QWp5MXFfYjNjbVV2QWhzLV9uQlI2YURCTkRnVzFTYVRSVzFDOXVPeDZRNHNlcHYzNjU4M2NZcFRZenFrbFJ0TFRvaGRVU2RERFpOM2RMUXpxd2lYLURyd1FKRFo4dUdDM0xaNU4zRkxPTUV30gHiAUFVX3lxTE9ZVzRYWHdyeC1OZERzRFpFLUdteUI4bFhsS0pkNktWOGJQSmJNMWhZa0Z2a1J2RFlvVHlWaHJSN3VXRC1MNlgtRFAyUTdXSS1OdjMtUmZwSy1LQmlyZmhUQ2lnY3p6OFhfbzJObFZXUUZiZmxERXpBankxcV9iM2NtVXZBaHMtX25CUjZhREJORGdXMVNhVFJXMUM5dU94NlE0c2VwdjM2NTgzY1lwVFl6cWtsUnRMVG9oZFVTZEREWk4zZExRenF3aVgtRHJ3UUpEWjh1R0MzTFo1TjNGTE9NRXc?oc=5",
+       "headline": "Republic Services (RSG) Workers In Salinas Vote To Join Teamsters Local 350",
+       "published_local": "Oct 29, 7:52 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:c80c757cdde1b41a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental (GFL) vs. RSG and WCN: Is GFL\u2019s Landfill Network Undervalued Despite Execution Risks?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/gfl-environmental-gfl-vs-rsg-171806717.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T10:18:00+00:00",
+     "published_local": "Oct 29, 6:18 AM",
+     "summary": "Is GFL a good stock to buy? We came across a bullish thesis on GFL Environmental Inc. on TradersPro\u2019s Substack.",
+     "companies": [
+      "RSG",
+      "WCN",
+      "GFL"
+     ],
+     "company_names": [
+      "Republic Services (RSG)",
+      "Waste Connections (WCN)",
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "WCN",
+   "kind": "company",
+   "title": "Waste Connections (WCN)",
+   "group": "Core coverage",
+   "items": [
+    {
+     "id": "t:230badb185a01ecb",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "California AG Bonta sues Waste Connections over closed Chiquita landfill",
+     "url": "https://www.wastedive.com/news/landfill-waste-connections-chiquita-bonta-gfl-wisconsin/873188/",
+     "source": "Waste Dive",
+     "published": "2026-10-29T15:31:00+00:00",
+     "published_local": "Oct 29, 11:31 AM",
+     "summary": "State officials allege the company failed to properly manage hazardous material and leachate. In other news, a GFL expansion stalled in Wisconsin and a Casella-operated site in Maine got a favorable court ruling.",
+     "companies": [
+      "WCN",
+      "CWST",
+      "GFL"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)",
+      "Casella Waste Systems (CWST)",
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo",
+       "url": "https://www.yahoo.com/news/us/articles/california-ag-bonta-sues-waste-153100888.html",
+       "headline": "California AG Bonta sues Waste Connections over closed Chiquita landfill",
+       "published_local": "Oct 29, 4:31 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:24ccd46ec479881c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Connections (WCN) Edges Lower as Shares Pull Back Toward Familiar Support - Dealer Positioning",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck00V19HLUxlTDVmZ0lwR05WbEJFSklRRmFtT1FIdlJvOXNVY18wTTlUb1ZtcWJoYXpLb2puX1c1cWcxLWp6QXd2UHdtMnBnenJJTXp3a2hqY0F4Z3h6Vkkza0lXZ3FoV29aQ3YyZVBrRE1wXzdyMVpqcWVlRWFDUF9zTFphOVRTbXI1Ni1UZTdER0dPQTJSVXNRdlpFMWFfSFVDODEtTS1TaWd1OUhzSk9mLXdOeGF6cURZdmRR?oc=5",
+     "source": "https://www.siam.in/",
+     "published": "2026-10-29T10:43:28+00:00",
+     "published_local": "Oct 29, 6:43 AM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:0032dcc18688b041",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Connections, Inc. (WCN) Stock Forecasts",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlktMm02bWMwaF8tZEllOTNqbUtlZzN6ci1zdFZKUmxJTUhMWEozcERjTWVFRGxWcFdHNVZGdG1WUnQzLTJWdGZfMEcwaVFnM3lTRWVDY3VMU1dVSHJQLTBDQTNvMGZuMmlpNzh3M19oQTFDRlF0T1U0eThRS0RnamFwZkJSaWJONFVTZ1oycw?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T03:03:39+00:00",
+     "published_local": "Oct 28, 11:03 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b65f70b994b4c090",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Castaic's Chiquita Canyon landfill blamed for headaches, dizziness and wheezing, says state lawsuit",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1N5RUlobTNIbHI2dmVQMnE1bW5FcnBoXzlhNzBYS2VVRTV1ZW9oVkF1NnV4b0xIbHgyZFZYRVU2blZ4bTJUNm9aM3ZfelN1aV9tVmNJWWRXRWRfWWNvVUtadDJVWTF3VWREeW1tTGZycG1WUDZFMHFuMDVYQkliWW5LMjI5Q3c2YVQ1UTBNdHdSaV9vWkFkMEtPLTh1OTdBRXF2Uy0wUXIzYkRDTS1CblN6Y1hNdTh3dHhORUxn?oc=5",
+     "source": "Los Angeles Times",
+     "published": "2026-10-29T02:10:00+00:00",
+     "published_local": "Oct 28, 10:10 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b375598e82ce705a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Connections (WCN) Insider Sale: SR VP & Chief Accounting O",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXZYdkNpc09iYk1PZ1l5aXMtbi1abU51T3FQWWExZDR0R0RkQTUwWGNrcExVY3FxMzYzX0ZXQUdRb29ZRlIxaWdkWlpmMkt1U0ZyNXRCM2Rxamswb2l2QVlwQ0FOdnJiRHFScm95OWxtN2NSSmYwamlWN0k0VzR3NGgzMUc1RF9HYjVCVFNYX01feVhoVGRtY3FrS0Z4S2tVRlZ6bF9SQm9acEZWTHczdnlabnh1dXNpWTdPMXZWaWU4YmZXNnlPNGlEdF8?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-29T00:10:16+00:00",
+     "published_local": "Oct 28, 8:10 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ca6068c5fd703606",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Attorney General Bonta Files Lawsuit Against Chiquita Canyon Landfill To Force Accountability For Environmental Contamination",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTVybDRQLS1BOHEtQnFwNUpUeFNIdkhRa1hyU2xaNUFqczJad0ozT0tmX1hsRFJKbDBTR1NGeW1lM0JKeHhvTnhlaFhYaEVOVFdSbi1Od0VEenpBNjJRX1l2aElneGNlRUtCdXY5bmdpemFxbHdWeUNHSGtGeHQ2UmtaZ1Boc0t4RG5DY3hLbm5ZTVQ3TGszRUVIMHgwSmphUThfYmdXQjlfc2F1dlI2TTZCWHhVWGlfNTg3WmVzRlgwSmd4RlozSUJZMUM3bFVhdDNZeHZ0SlhVamxMZ3FYYXV1WTJscFc0VkdTcXVTaWMwRTN6MW9pYW1IdGdKUFc5bkdlbzlwcXpGRWtHOV9CRTUyaXdISmEyNFl3Ng?oc=5",
+     "source": "KHTS Radio",
+     "published": "2026-10-28T21:32:19+00:00",
+     "published_local": "Oct 28, 5:32 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [
+      "landfills",
+      "recycling"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement",
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:56274fa323c6d13c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Waste Connections Inc. stock falls Wednesday, underperforms market",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHQ3OGtOWGFCcHFGUzdSd1VvSUZ1ZFd2YUdwVW5iOWEzNmNYUnlhUDF5Zk9BRXhtclJzNVhxTlYtWHRTMkZZYWlrMGRqLXNjV0h2clI4TFgyZ0NiLVRoS2ZiLUdlaDJwWmI4MWpiZThMcWhpVzd6RXZ0RG1qdlQxb1M5NEgya2lIVjJVTlZoVVZfaVNsQy1kbWpDalNjNG9ucm1YN2NGdUtwOGllUHpyMklTWUFiZENiVjNValJjamxIbXYwbUhwY1Q4Sm42aWY4cmpXTWRMMFA4UQ?oc=5",
+     "source": "MarketWatch",
+     "published": "2026-10-28T20:36:00+00:00",
+     "published_local": "Oct 28, 4:36 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:eba4f726e9fdb134",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "A 1,000-share sale leaves Waste Connections (WCN) accounting chief Derek Tan holding 404 directly.",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFM1WkduRC1XN2Ffai1JTTV3YlFqWEI1bzZJWUpVQzZpZUNzdjVjdFdzeHpoMThvd0VjTnBObjhqWmt1Vy1EVnJaOWltdEN4a0ZDS1NLZTVIRVNZMWtXaFZhU0hORHJvTGh4MjMxWDEwTURtVEt0djdBOTM4dGd5VktIN0dqbU5fSHdrZU1MYmJBUXhfMG1GRlh3cmY0Vlp2bnc3ajROSWREWXdGenZoQXd5QUc?oc=5",
+     "source": "Stock Titan",
+     "published": "2026-10-28T20:15:34+00:00",
+     "published_local": "Oct 28, 4:15 PM",
+     "summary": "",
+     "companies": [
+      "WCN"
+     ],
+     "company_names": [
+      "Waste Connections (WCN)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "CWST",
+   "kind": "company",
+   "title": "Casella Waste Systems (CWST)",
+   "group": "Peers",
+   "items": [
+    {
+     "id": "t:4f2e5c7bd1577bc8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Casella Waste Systems Inc - Class A",
+     "url": "https://247wallst.com/companies/cwst/price-prediction/",
+     "source": "24/7 Wall St",
+     "published": "2026-10-29T10:36:00+00:00",
+     "published_local": "Oct 29, 6:36 AM",
+     "summary": "Looking ahead to 2030, our model projects CWST could trade at an average price of $182.35, with a potential range between $136.76 and $227.94. This represents a potential 104.2% return from today\u2019s ...",
+     "companies": [
+      "CWST"
+     ],
+     "company_names": [
+      "Casella Waste Systems (CWST)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:6a6c77b86a583238",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Casella Waste Systems Inc (CWST) Shares Fall 5.5% -- What GF Sco",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3VhTE13TlV3NGQ5M3V4ZHVOWm94bG1VM25xanVHbHFoT0V3amVfTXBBMVYzelhfdmh4ajdRMGFoOUQ2M09ySVN5T2V2Qk1SbzJYWVpRNVB3SU9RUmRoSHZ0NnNpQ01YZTJ5RHVXVzNNRlAwbzNKbmJ2YWNoeUJQX1hCa3E2T2pFVnJyWWlkajRlQUJaS3oyNi1OVk9oUUMwcXF5STVtV0tZLTV0dDZJVkZwcmtEVk8xT05RVA?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-28T22:49:40+00:00",
+     "published_local": "Oct 28, 6:49 PM",
+     "summary": "",
+     "companies": [
+      "CWST"
+     ],
+     "company_names": [
+      "Casella Waste Systems (CWST)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4e122e1cf02c4d6d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Around Town for October 29, 2026",
+     "url": "https://www.willistonobserver.com/news/williston/around_town/around-town-for-october-29-2026/article_4d66319b-dede-4aaf-a50d-2b09f44d6417.html",
+     "source": "willistonobserver",
+     "published": "2026-10-28T22:00:00+00:00",
+     "published_local": "Oct 28, 6:00 PM",
+     "summary": "Tire drop off is Thursday, October 29 and Friday, October 30, 2026 from 2-6 p.m. each day at Casella Waste, 28 Avenue B, Williston. Tires that pass our DMV inspection are free to donate.",
+     "companies": [
+      "CWST"
+     ],
+     "company_names": [
+      "Casella Waste Systems (CWST)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "GFL",
+   "kind": "company",
+   "title": "GFL Environmental (GFL)",
+   "group": "Peers",
+   "items": [
+    {
+     "id": "t:cb45b486f4e51045",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Lifts 2026 Outlook as Take-Private Deadline Nears",
+     "url": "https://www.waste360.com/industry-insights/gfl-lifts-2026-outlook-as-take-private-deadline-nears",
+     "source": "Waste360",
+     "published": "2026-10-29T18:36:58+00:00",
+     "published_local": "Oct 29, 2:36 PM",
+     "summary": "GFL Environmental raised its full-year guidance for the third time in 2026, with pricing gains, stronger organic growth and the addition of SECURE Waste Infrastructure driving its third-quarter results.",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "mna",
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "M&A and private equity",
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:d71b0f5e782b93cc",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL sets Nov. 9 deadline for take-private offers, touts strong quarter",
+     "url": "https://www.wastedive.com/news/gfl-sets-nov-9-deadline-for-take-private-offers-touts-strong-q3/873194/",
+     "source": "Waste Dive",
+     "published": "2026-10-29T16:19:00+00:00",
+     "published_local": "Oct 29, 12:19 PM",
+     "summary": "The publicly traded company has retained a special committee of independent directors and outside advisors to examine any potential deal. Meanwhile, it reported a strong quarter on Thursday.",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "mna"
+     ],
+     "topic_names": [
+      "M&A and private equity"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/gfl-sets-nov-9-deadline-161900286.html",
+       "headline": "GFL sets Nov. 9 deadline for take-private offers, touts strong quarter",
+       "published_local": "Oct 29, 5:19 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:2910c96fe86d37cf",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Earnings call transcript: GFL Environmental lifts 2026 outlook on strong Q3",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDMzeGVOaU1RWjA1dzlUaktDYmpTNW9xdjFqRzhNb2VkM2RRY2wyY01aNGJ1aU1DNUhrNzRtTVY3a0lyMGl5LVZfZnFpOHJoMHFWcTEwalhSRTlIbHZuMnRabm84aDVWWDN4cG54X2RhQS1CQ3hBN1NfVzlTRXZNN2hMazdHUVFROVB5elM2dHFKN2dwTEhJTldBVFJfbndHWkJITVBtaUZad2xwM2JjV1FteThkOTVreFl6eHVUV3BkR3g2V1pCMVBxR2RzYjhx?oc=5",
+     "source": "Investing.com UK",
+     "published": "2026-10-29T15:10:00+00:00",
+     "published_local": "Oct 29, 11:10 AM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Benzinga",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEMyd24zUFRObmR3OFBqZTlibklnT1VXd3p1WHZ2ZFRYb0RBZzQ1R2I2UDJaMnpMMVlWdndETWs5bHFodE1nSG1Ja1JpNGFIQXJVVC1KcGphcnV2Ml95QnR2RlFseTV6UDFHc2xqSG9laHhlbmVsOFVDci1Gb1dWS01tM056UmZHVXloYnJGTmpWS1NsME1BQ25DMA?oc=5",
+       "headline": "GFL Environmental Q3 2026 Earnings Call Transcript",
+       "published_local": "Oct 29, 10:04 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:b7e3db2d5b4d5686",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL: Raised FY2026 guidance and projected ~32% margins with CAD 1.3B+ free cash flow in 2027",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdkpXbGRiYXl3aTRwZnlFV1NfYl9uUzVRdl8waVJtOFZndDRxUW5uVndaUWM0Y2ItUUFQTS1zVjRQNFRuMnpXYmg1aGlNcjhOYmZOR2VEcngwMW5WcnpDRkV1eUpmeEVTMmU3Vi1VSTA3SHUtYmVxTWV5VDJPbFp4aGRxbzg2T19BTl9qNVBja0dIZTdYVDFtT2FlU095RzgtSWJJdWVJbWNFeTA2dFY5QXNBMDItTWdrQkFoQTcyWS12OWVxVmxYUG5qbGJ3X1NWQ3N5M1lTU0xFcUV1WlJ4aTljR1ZGU1plWm5JUVotZGhJdlNtWkhiangwYWFoV1NUTlRNcWln?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-29T15:07:49+00:00",
+     "published_local": "Oct 29, 11:07 AM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:025ed618ddd36758",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Sets Nov. 9 Date for Offers as Talks Enter Final Stretch",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2h5eUFDckV4Rno5VVAzN3VBLXJuLXFvUzlaUUhINXZGa1F0dHBSNUNUdHBRUXlMTUg0X1U1TkdhNHltQzZzM3RVNGNJVGw3dk8ydTN1Nkp4Mkc4ekp6a2lMOFA0VHRIVzI4LW5SVmE1OVk2a3Z4MnRBSHNsWm5QNE9tUW5ERk0xQm9HNU5UeVJFa3FjT3JERlQzd1AtVllkTndBZFlwZmpnN3loMVEydw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-29T14:55:31+00:00",
+     "published_local": "Oct 29, 10:55 AM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:1d643556017874ae",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "What Merriam residents need to know about new trash service",
+     "url": "https://www.msn.com/en-us/news/other/what-merriam-residents-need-to-know-about-new-trash-service/ar-AA2gmr9d",
+     "source": "KCTV Kansas City on MSN",
+     "published": "2026-10-29T11:22:36+00:00",
+     "published_local": "Oct 29, 7:22 AM",
+     "summary": "Merriam residents are getting a new trash service, GFL Environmental.",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "KCTV on MSN",
+       "url": "https://www.msn.com/en-us/news/other/what-merriam-residents-need-to-know-about-new-trash-service/ar-AA2gmr9d",
+       "headline": "What Merriam residents need to know about new trash service",
+       "published_local": "Oct 29, 7:22 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:235b545b0c217cbd",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL releases more information on Monday's blaze",
+     "url": "https://www.baytoday.ca/local-news/gfl-releases-more-information-on-mondays-blaze-12954980",
+     "source": "BayToday.ca",
+     "published": "2026-10-29T05:11:00+00:00",
+     "published_local": "Oct 29, 1:11 AM",
+     "summary": "Plumes of black smoke could be seen more than 20 kilometres away from a blaze that started around 3 p.m. on Monday, October 26, at the GFL recycling plant on Highway 17 West, less than five kilometres ...",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "labor_safety",
+      "recycling"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents",
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ace5df477e5be1db",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Reports Third Quarter 2026 Results and Raises Full Year 2026 Guidance",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelhHX2M0NTQtQ1NfZEVRaFIxRnRHRnAyYUczRDhsY1VabHlzQzdLejlINndpeU11SUoxQUtBNnZPOUliTU1xWDVMS0ZMSk9DMVVONmh2Tm5aSVVPNHBMWmZVZDYzNjFFcVppeFdSUlRnV21xTTQzaXdPcVF6WDJKZE5CRGV0NG9DZWtiMzZCbGJHY1pPLUE5LTZrSE5HNldEWmZaeG4yX3pCbk42a2N6QURxYVlpOE9CY2xONTZCR0tRNjNR?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-29T02:57:47+00:00",
+     "published_local": "Oct 28, 10:57 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Moomoo",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUkwekJZYzhoWXZMUzYycS1TNE5Bc01ibFAyc0lWbEFFTXZaRkdRdGpubkdtWnpBd3cwdVBIdGppVzJlX3p3bnBmMENobG9XdDVkR0VEYU81Q2JxSW1nQmI5QTVDZ0pZLXh6MnRtVHRtTUREV3Z3OGtucXAzWnZZWTBFZ2hHNTdPRTl6S0dGTjh1S3lJSG1hNnJTZW9PbkN6MEJ2VnRnN0hwZWRsb1NYYW5KcnU?oc=5",
+       "headline": "Press Release: GFL Environmental Reports Third Quarter 2026 Results and Raises Full Year 2026 Guidance",
+       "published_local": "Oct 28, 4:07 PM"
+      },
+      {
+       "source": "The Globe and Mail",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTXAtUkRFbUE1bU5TNkVFaGVQQVVTM3FkVEIzLTFnSHRyUms4djBGbVpZVWE0bmVkd3pnN0tIaEhxaUp1MkVGVlNVaWhWT1o2aVljTUlsTUp0emt0bHBpakkyTFNDaVk4MVZZUDQtWkR3UVltcUthUFJmVGhmbk5vWUxvaGZEVVVWUWhLYnUyU1NRZnpiT2x0b2QyOUE4ZjlOWDc2elBDMWR6aG5zTTFFNmE5QWNQeUV3aFRTVzlMelAxUzRnajRTWEFrNXQtaW9yUlRkMlg2cDZHY0U5Y0NaZVZnSm1naTJvSkVFS0hPWFNCZ2VubE5hSkdTT29nNldLVUlz?oc=5",
+       "headline": "GFL Environmental Reports Third Quarter 2026 Results and Raises Full Year 2026 Guidance",
+       "published_local": "Oct 28, 4:06 PM"
+      },
+      {
+       "source": "Morningstar",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPblpqQ0VtMkhjemM3QndzRmE3MWVOVjF2dS1HTTFNdjhyc0FHQm1YQlhlVFVTWHg0bXNfdVozSWFKazd6YXZfZkxtYzlKWm5rc2NRVGJFaXo2V29UUjk1S0JKaHVJZGw1YzZUMkJpSU4yYWxLd2RBOGl6dHo3OGFoN2pxQU5HQ2gzRWZhR1MwNXRTRDFaQXJaYnBsdEx4MG5fckxWTkhOUVlfSVhHZTRtamdTc3lLcFduVjBYR0c2VjUxQ2tOOVQ2SDJKWEo2eUprV1N0cVFJcTdzNTlnV1dESGVB?oc=5",
+       "headline": "GFL Environmental Reports Third Quarter 2026 Results and Raises Full Year 2026 Guidance",
+       "published_local": "Oct 28, 4:06 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:bb6415dfe807fbba",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Q3 Results: Sales up 27% to $2.155B, EPS misses",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0ZUbnhaU2ZMb2hYSmVqbm9PcldIa0hwbmtISl9OdGZMY0FLMmZaYjRCSk5Lb0JyYUNxaVYwd2pheW9kbEVaREdVOTNWdmlrbG9JNU9LZmpJbVQyQXMwa1FpSUtiaG5PQ3g3M2dGSHZpZ0lMYlQ1dzJ0X2ZxSEl0RXJtdEh2ajJ2LXctVjB0SUtwSzRCYVU3VTNaeHlrc1F2VWtxSnRQYkVNaDJLOU9hYXdUUTRQdw?oc=5",
+     "source": "scanx.trade",
+     "published": "2026-10-29T00:03:10+00:00",
+     "published_local": "Oct 28, 8:03 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:59db264df8bae146",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Sets November 9 Deadline for Final Bids Amid Q",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDM3ZDdoNjVkLVhjSEg0QlNoLWI3eENITlRKTzVQTlp4Z0ViSVgyeXRiYl9ZS0NOc1JvcE4xank1UTl5YTk0bFVPeklFN1JteXdtRmJ0T25xamN1VWVXUmtpVFBuX3BQaDZZVkNjNzBiaWpDekxseHI4MFFXdDFodWNhTXdMbVczVTBNeXZESks2RXI0T0NvQjNzYTM0QlF5UDJLRnV3TUVYbXQ2c3RqZUstODd4ZHRwYmtDZ25lXzE?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-28T23:23:12+00:00",
+     "published_local": "Oct 28, 7:23 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:dbf444080bf56483",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc (GFL) Stock Down 3.1% -- Now Undervalued? GF Score: 74/100",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEZFX21GSnhsSGpHNGVjeW5Ieko4VWVQbXp1cU9KZEFXU3doV0JoOFg2WFhzZHF3d0VxVlRjaFczNzFLZExEZ0M3VENTRnB5TEdyRmFFYVd2OFFWOTFEc1hRekh1eWZFakRPY21zREQ2VG55Y0YteWJJZjQ1UENpU1pWd0JCbWVhRmprdUduS3NFb2VySC1RNWoyWU5qUWtLdzhMX1d2aHBrWFFYT3c?oc=5",
+     "source": "GuruFocus",
+     "published": "2026-10-28T23:20:04+00:00",
+     "published_local": "Oct 28, 7:20 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:d89cd60a3807e084",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental raises FY26 sales guidance to CAD $8.075B",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE94cF9kdzNGaGZoRGNfeWYyNlNnNUF3NG9RcEwxeGY2dkdGWVhfaW0tY2NGWUVmSTQ2Wk5Wc1QtQXJzTlNtTmZLb3VYQlFUUGxjTW1kYTl0X0tYRGZPaTY4VENkbU5Ma0gyLVBBc3ZTMHhOQTlmQ2J2NnJHSVF3QjBJdDZaSUpFend3MTI1YlJLN2RCdDBtVTNrbDM2NnQ2eWR0R0JjV0FxM1FvcU1kZW5n?oc=5",
+     "source": "scanx.trade",
+     "published": "2026-10-28T23:04:04+00:00",
+     "published_local": "Oct 28, 7:04 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4dc44b272fa0709b",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc. (GFL) Lags Q3 Earnings Estimates",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlhsenJsMXlMRVJwODk3ZWZnMHB2NDN6WjJScjJfYlUxbFN2OUlDS2FEaFdMdXIyd0psMFozZndMV2Z6QlRnUkpaWlNqNk1vZnh3M2tYYV9TLXNROEpSVDc2WUxOWVlDNlc3U3hFZFRnbEY4YkpiMjA1SzVpM2QyV2h5MEVfSE5HVWFHeXE0YVRmOHFsU0JYQjAyTQ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-28T22:30:07+00:00",
+     "published_local": "Oct 28, 6:30 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3849b42016b18a9e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc. reports results for the quarter ended September 30 - Earnings Summary",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaG1XanBxMTkwQ2QwbFhZT3J0ZTRsZm5yMTIwZnhzVFpmYzZNeUtYZERJMGhqTmRfUkQ3TWNuMV9aWDc4RHpETnZoZXNTYUNRdFFLMmMxYUVnak9iZjJnLUpsa29YYjNUZjlyN0VSQ0MzQ1l0anhRNWxzNEN6Y2J2dHp2a1NVWWNDODNUb1d1RUJCZEk5YkFwdlRpNGxENG8tZE1paV81dGpXYkRKRWJVR3huSVVYcjBsV0NLbENqZVVVUmxqTDdGNmtiUHhBZkRsY2FHQWVjYUVNY0NuSFl5dkpKc2V2TnRnRXZ1WXdlS1A?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-28T21:56:54+00:00",
+     "published_local": "Oct 28, 5:56 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:56eabe7ed217ce0d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental surges on raised guidance above estimates",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWNqU1VIVV9iMVVqYmdqX2s5c2dRVUduakZDbXZacWptX2FNeFI0a2s3LVJUM0pIR25rX0xnTlVnZGFVUWhkM3F4TElyTGo4M05udzg2VXUwV2Z5V1BfWWhQZkxoX0RTNTc4Slp1Qi1zaWJHeUUzOHFRQWxLcWFrX1d5N3dacTdpZFdSUFl4QVJsWmVIZHZwT1JBc0pHb204eXFjbm9LS29SaHM?oc=5",
+     "source": "Investing.com",
+     "published": "2026-10-28T21:55:36+00:00",
+     "published_local": "Oct 28, 5:55 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:779a9321e917279c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc Q3 Adjusted Earnings, Revenue Rise; Shares Gain After Hours",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlRTMmg3REVaNE95eDNURzNubjJXMi0zUVNLMUYyR2IxeGNaZVc5cFNkOTdaM3Y1b1M4cFNnamFVV3NqNmxCQmNiQTJUd2ExS1VrT0poc01pZWVJNVBuUDV6Y2ZRMlFKcEFsekNWaWpLYXJFdXBxSmdVWDhUUXBGU1RIUWctUkhsRnJQUVFTQzJhdVlLMjl4em5wOXprUFV2ZFE2V0lPanNsd1hTam9xZUtwRWZVdUFJN21kaGRiMG1iVzk1emtBZzBvcFc?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-10-28T21:20:59+00:00",
+     "published_local": "Oct 28, 5:20 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:1a504af15b99b2f9",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental (GFL) Misses Q3 EPS by 9c ; Offers Guidance",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3BXM0lJVG1ma1VSckFLRjdaeHBRZ0MteTBFdnFYNjVQZ05zeVcyTzJ5NDBxdlROZjFsWXlUekNnRFZRcVRONzFIUDRiVDl6NG0xR3lNczctVUZ2eDNSb012MTg0dURBTjBPa2xKT0tpWDJHVHRTWVlSZjlxSTA4ei16dU5BVzh4cDN4SGZ3RVR4bUY4SFUydUhXS080VFYwbE5DYmItMDRXSmV2SmtlYmNwYnJVSkxkejc2cQ?oc=5",
+     "source": "StreetInsider",
+     "published": "2026-10-28T21:14:55+00:00",
+     "published_local": "Oct 28, 5:14 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ef004c0bc934711e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental (GFL) Stock Rises on Q3 2026 Earnings",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1MyZXJJZG1LbGdYTERDNkFQai1hUXQ3aGtYUGRqNVQybmhZcExoMFJ3YnFjNUpVeEl2U3J2N3JXYkhaa0JmZUtfQTMySzQxZlhCMHljSVhCd3VvLUktV0hXM0dPSEFzZVdhQlh2SVBmV2o4bDNOZWp4VXJfdFNCcVdUb3FoUTFJWTB4N0lrdlV3SEtoNkY0?oc=5",
+     "source": "Quiver Quantitative",
+     "published": "2026-10-28T21:04:00+00:00",
+     "published_local": "Oct 28, 5:04 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4391c7e99115fee4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental reports Q3 EPS (9c), consensus 28c",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUxCRGRWX3paWXlEVzZCOU1Nd0d0bmUybG1zMzdTTm53bXdvTF9lSkI2Q1M4cGxXQmR0Y0FvMUpiOUxiTE90aFZkNEI0SEk1U3JqaEZKRzRMMTBSaV9IZmZzRFkwOGRZM0Z1ZlVEMENVdzdMSlZ6bXpNRTVLOHk2R1NzaVpwd0dKeEt4QzB5WmxtN256clZaZko4TVRVWm5M?oc=5",
+     "source": "TipRanks",
+     "published": "2026-10-28T20:50:16+00:00",
+     "published_local": "Oct 28, 4:50 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9f710432e6c0ec43",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Q3 2026: Take-Private Deadline Overshadows a Revenue Beat",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFNJTGo0T01tc0l2R3JEZjItMWw1M0xVcGZvTHJxUEU4VjV6d2NEMUVVdEhTR0Z3djRnem1Xb1o2aE1feDQ5dTdSai1BdjRFc2ZDQTdqYlBrN3o1SmhPU1A4ajkySkVFWHJicndyMnhmbTVWc2h3V2dVcmV5ZjBmcW01MGpIME56OWYyekZnMkRrZjFpaUtrRw?oc=5",
+     "source": "24/7 Wall St.",
+     "published": "2026-10-28T20:41:29+00:00",
+     "published_local": "Oct 28, 4:41 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "mna"
+     ],
+     "topic_names": [
+      "M&A and private equity"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:bb5142bef0f13ebc",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Earnings Flash (GFL) GFL Environmental Inc. Reports Q3 Revenue CA$2.16B",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXFtbnpGdnFxUGllckUwbjJQYTJoR1F1SHN5YjBLdWpYYlZta015cGVfUmZ1Qk93MVk5dU5SQ3Bwa19uUkhYZ2pCU2EwcWdLYWJibzlXdXRMX1o5akp1UVJJWXBtZ3hpWnFISWQwSVVrQjM3c1RlWG03OGNnWmlYRGhzU2VCOTFzT0dKMkJuZzZqOEFETFhGVFlqdFh5cW1idmpuMUh2blAwQ3NITmNTVWZrWE84SzF4V1VzbkhB?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-10-28T20:37:20+00:00",
+     "published_local": "Oct 28, 4:37 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:2bd72633eb33705d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental beats Q3 expectations, raises 2026 guidance with strong revenue and cash flow growth",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalpXWjV4ckR3Z0VPbWozWjQzUzVEQjV3NVNDNjU0Yy01WnJjaE13anBnNFlWT0tVS3ZCeDZMdS1PZUxONWRfMHdwcHB0NzZPR3l1anVVWTNFbFVRVDAyRFdPRW5FUHlXOTRQUDBuSVRnOHNwbExRY2FUNEtpRnhqb1BxWmExbmdQdGQ2R2V0eWpfTEFRam10WklR?oc=5",
+     "source": "Pluang",
+     "published": "2026-10-28T20:37:15+00:00",
+     "published_local": "Oct 28, 4:37 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:dda30b3c7e8ac825",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Earnings Flash (GFL) GFL Environmental Inc. Posts Q3 Adjusted EPS CA$0.26 per Share",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3EyNmhSc1RnUktsaVBGZGp6TVVSeC1qYTJFbzEyMy1wX2tqV29fMElaN2kxMGhfa2ltbTNYcTV3NkVYRExKWGotTmhwSTY1a3oyb0RJSEhKaFRBTE5Za294d0NydmI1dG0tWkkxUzFqcG92R3ZqWTVSUFJhaTdSREN5Z1AtNXFJOTRsZFRPTHpfb3hTdXBuaVhiUFZDWjl2YWU0c2ZaMDZWdDBoaUJUUWNPQ0Y1aFh3cFlUclRiVk96NnZNQmdfR1Z3N2RvZw?oc=5",
+     "source": "marketscreener.com",
+     "published": "2026-10-28T20:34:04+00:00",
+     "published_local": "Oct 28, 4:34 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:c22e69408f049b43",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental bidders given Nov. 9 deadline for final bids - Bloomberg (GFL:NYSE)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE5UYXNjNXY1QnN0a05wQ2YwWm4xaW1yM2hCTGcwM0tGTzdIWXJXTWxHRmlQZUdLMXJRMDlHTmxTY3pld3hQelhET044Z0ZjY0dYeHNXdHdqUmVzYmw4elhlV1dkaE5zOERpLXZxbXlCUzRfem9nckRmckpsMDZRUVcwSzdOMHZua0hVQ25zUFE2T3Vqc0F2b2Zfb0xjWEItVXFyd0NZSDdXOHowM3RoMw?oc=5",
+     "source": "Seeking Alpha",
+     "published": "2026-10-28T20:32:16+00:00",
+     "published_local": "Oct 28, 4:32 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "TradingView",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS08zTTM3cnJFR19vRVBoWXJVY19waW5NS2FNeEtZQ0xhLXo0RTJkcTFBdUNwa3ZpZmtPQ1dvZER4Y2xrYXRZU3UzaEx5dGdRT0JjTWJhekxYUHdGcEpla0FzOHFwX2pQSlZOLWxqVlhOVnM2VkJ6U09KRWdzRERwLWtrSm9hWnBGdXJzcC0xQnpxcFFuVzBEN1hyMlZxdWV0NHd4WklkNlZpOEZRYkp2OTh6NFhBRy1ZUExBczcwWHZXRXdBRUhjY0xIWk5GYUU?oc=5",
+       "headline": "GFL Environmental bidders given Nov. 9 deadline for final bids - Bloomberg",
+       "published_local": "Oct 28, 4:32 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:189f9d5127200af8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL: Strong organic growth and cash generation drive a third FY26 guidance increase",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcHoxaW9CWF9MaWE2cTRTYmRKTEU5TmVFdG1RZ3dfVzZqVmFtNnp0eW5VNXVlTDdCZGFja3RwbTJoaXc2R3U2WjJmaHpucDIyX3lzajB5dTI5NzJ1bk9aOG1YRlUyUmhKZHVtZHZEUjFKTEFWckFuRWJUOTZuR1ZFWFkwSklYWlZoTGZpMnNJdWVOZFE2LWtiSGs3aXpNT3ZrSjdVOTJNX2JzbkRWRFVsYmhNOGJVNG53YUJfWGt4YTFVUlhGUWtTdjFwY3NINHZ4SDdnc2VKMGFZMkJfUGsxTzUxX1ZOWER3c2NsQ2VwdExEMlNDN2hidg?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-28T20:15:00+00:00",
+     "published_local": "Oct 28, 4:15 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:da94df5c4e73e342",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Unsolicited take-private proposals face a final deadline at GFL Environmental (GFL).",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTc3X3hFLTgyamRVemxCYUM0Tk4xVG5nMkNXLU5WMzlUbFZFdkpISGNfVjdwQk1ZRklxYkRLM2ZoSDNGS000d1l3UkF1c0hZeVlHUndjTlYtRENiOWxkM19CRmtrcEdYeHN4NUJUU1JXQ3BMQ0thUjluVnlNQTdmR0FPanpSa0pTNUs2Sy10WW5QTDdjUU1qMGw1UndJbThFZjdHYzFiSkVYMmM3X0NXbm9kVXhITkU?oc=5",
+     "source": "Stock Titan",
+     "published": "2026-10-28T20:11:14+00:00",
+     "published_local": "Oct 28, 4:11 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [
+      "mna"
+     ],
+     "topic_names": [
+      "M&A and private equity"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3f7346c3b061cc5d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL files 6-K",
+     "url": "https://www.sec.gov/Archives/edgar/data/1780232/000110465926119630/tm2626649d2_6k.htm",
+     "source": "SEC EDGAR",
+     "published": "2026-10-28T20:10:47+00:00",
+     "published_local": "Oct 28, 4:10 PM",
+     "summary": "GFL Environmental (GFL) filed a 6-K with the SEC.",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "SEC EDGAR",
+     "kind": "filing",
+     "others": []
+    },
+    {
+     "id": "t:802ad9667f47d267",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "BRIEF-GFL Environmental Q3 Revenue CAD 2,155.3 Million",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjVuWFpLZ1F3NzhzckJkTUZfQnBId25pbkh1UVlfMlh2SFd5UjhveU13UWM5MGVuVE42SHZHbTZkNWJhNl9LYzZUOGI0UGFYenVQaVlXZHFnRjdZU244WjBZS3dCX3NSLXRsSmdBeFdJbC1sU2ZjTkE1SVZnSVlxRkx5NkI4MWhzdEw3UGVHOThYbzVZNWlVUFNzYXhXa2JHYmtmU0tLazFhbWNZbHZ2VVNUUkFFMmZGZVE1WVM0OWl5eWtXUksxdFl3?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-28T20:08:29+00:00",
+     "published_local": "Oct 28, 4:08 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:5b481ffcc27a78f9",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc. to Appoint Joseph Lenz Will to the Board of Directors",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZNY2huMFk5V05WZDh0UmVBaVk0VHAxQ3Y1OU40aTcyanlWOXdEUU1nT3hVQ3AzQkR3ZmhGd1BFandCZlktWWZTUVI0SURpdmFWU3lXZU1Dekxjdmc3cWl3WDBkOEdBemVrWDRVeWFQbjdwMmZqc2ZBVlp1c3lWd0hndlBzVjRlZllMT3NMU0FONmlVZzN1UHBPdFBoNTM2dHhpUlNQYlFsMDItU1I2NC1YSlFncWZtV1pRdTgzem5LZ2tPaUl3?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-10-28T20:06:00+00:00",
+     "published_local": "Oct 28, 4:06 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:bb8e249cde8f8c45",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "GFL Environmental Inc. (GFL) Q3 Beat; Raises 2026 Guidance",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2hOZzNVZ1NpdE5QZG5ScDVydVNxdEpyT1d2cXE2c2VzcWcyYm9TWkR2dk1uYnp4Q1JIaGtfM1pPX242T3J4QjFydGJ4d0p1QU16QlVOMDU3REpCamVhdzY5aVAtQjdIZUh1Ri04UTNGbGZhZnMxS3dnTURDcDVYVlI3VGFaYzlaS21oNU9UU1VQLXh4VFdUa0JKdzZtN1lIblg0T1FlZE9xbUdqZjZIbkoza2NBX1k?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-28T20:06:00+00:00",
+     "published_local": "Oct 28, 4:06 PM",
+     "summary": "",
+     "companies": [
+      "GFL"
+     ],
+     "company_names": [
+      "GFL Environmental (GFL)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "CLH",
+   "kind": "company",
+   "title": "Clean Harbors (CLH)",
+   "group": "Peers",
+   "items": [
+    {
+     "id": "t:0548d4a1a8c9f50a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Truist reiterates Buy on Clean Harbors stock, keeps $365 target By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN09scXNhS3NNb3lvbnN1XzJpQzE4UzdRNkI5alhKZzU2MkRJeDc1Ym85eXRKNWJYWTJMU2pjX2FxNWFMcEQ0Mk92Q2J4UHduZWlITFFqUFNfSzhHRzMybWtnNTY2RG01NWRGcDlsb1RqampHN2tJb21XdEdTUUZsdG9JTmhDYmYyU21rZVZBa01uMW5LWHNkU1hRS3c2Zk5VVXFCUFpJcVJJd0YyZ3JWT2ZNVlB0NHh6cG93OUl2cw?oc=5",
+     "source": "Investing.com South Africa",
+     "published": "2026-10-29T14:41:30+00:00",
+     "published_local": "Oct 29, 10:41 AM",
+     "summary": "",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:63ef4e90eb6a018e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Stifel Maintains Clean Harbors(CLH.US) With Buy Rating, Maintains Target Price $364",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNREpHY3BWaTFyZld1cjhKSzd2b2pSU1gxcHJQWHFhOGt4Q2VJOEJrRDEyTGtrN096YnpzV21QNWMtaXA1akUxT2ZFZy1TelNtT05rLUVkUG94X21yaDFhVEtIQzJZcXU1SXRKTGFxUmJYei1Bc1F3ZWgxbXZCVm1QM0JnMkxTeUI3eko0b1lZVWJzZE9SRGRPSWJ1RlpnaFktSHM4Z1VnaTFjWnc5UTdEX0cwOA?oc=5",
+     "source": "Moomoo",
+     "published": "2026-10-29T14:24:35+00:00",
+     "published_local": "Oct 29, 10:24 AM",
+     "summary": "",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:71218145e95d22e6",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Oppenheimer Adjusts Price Target on Clean Harbors to $362 From $361, Maintains Outperform Rating",
+     "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-price-target-on-clean-harbors-to-362-from-361-maintains-outperform-rating-ce785fdad88af323",
+     "source": "MarketScreener",
+     "published": "2026-10-29T07:54:00+00:00",
+     "published_local": "Oct 29, 3:54 AM",
+     "summary": "Clean Harbors, Inc. Announces the Retirement of Mike Battles as Board Member, Effective December 31, 2026 CI Oct. 28 Earnings Flash (CLH) Clean Harbors Posts Q3 EPS $3.93, vs.",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "marketscreener.com",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXltN1ozOUphWE85ZzhFRUxUYUd1b3B2Y0NNQlNDSUIwVHo1RVc5ZmhFQmZEamRqaE1OQWdvTVZNZjY2UUJ3SE9jWmVobkx4amQ2d2s5dmd2dGw4bXdWa0FYaFowM25YMnVEN1oxNFQ0cVZmengxcy1LM21HYjJBRjVQaE1kZzM3OWJkWDRNYlp2ZVo3UVVhNEN0alpEVldyaU9PNjFINDk0MXRqZXgtSV9ZNXloNXFkOW85VUlvODlQWjl3N3ltaTRubnBtc2JXS25sVFpXRGJBU1pJdDZr?oc=5",
+       "headline": "Oppenheimer Adjusts Price Target on Clean Harbors to $362 From $361, Maintains Outperform Rating",
+       "published_local": "Oct 29, 10:48 AM"
+      },
+      {
+       "source": "TradingView",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSW5kVFpxMGl1ZXczMzVqQUkzWmd6Rnp0cjFRZ2dmZmRNSmhEcXlMbmpOa3hIdHdvcGZEa1Ftbk52YUZwLWVjRWo3U2xRT2hPNm5HRFIyLXRFd3c2LS1wQ3hWbFlSekFOT3ZBb1VmUUJDSENOZVN2cHU1UndlZkFFaS1TZE5zbWYtd1llalAxWXBYeDdtZHA3R0NDYU5WZDdUMVlrWmtmeFNFYTFkcnktV0FxRmIwTjhScV82U1d4aUdRLWdGS1BLdzVOTWp4YXRHcURDZ2RaLW9tRjlITkRBdg?oc=5",
+       "headline": "Oppenheimer maintains Clean Harbors at Outperform, raises price target to $362 from $361",
+       "published_local": "Oct 29, 9:12 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:5ab2b2de2d49c97d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Clean Harbors Delivers Record Q3 Results, Raises Guidance",
+     "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLH/pressreleases/8528427/clean-harbors-delivers-record-q3-results-raises-guidance/",
+     "source": "The Globe and Mail",
+     "published": "2026-10-29T06:00:00+00:00",
+     "published_local": "Oct 29, 2:00 AM",
+     "summary": "Clean Harbors ( ) just unveiled an update. Clean Harbors reported strong third-quarter 2026 results on October 28, 2026, with revenue rising 21% year over year to a record $1.87 b ...",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:68f1de7817d5f56c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Clean Harbors, Inc. (CLH) Stock Forecasts",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem9EeVNvT0dJeG5qSkdwazNwcVk3WkVLM3c4RVdnX2hPb2EyNk90eEdwZUVsWGFKRlYxTEFSMERYVlc0MXBQRkltaTN3Y3ZBaXFmdUljZGhVVzVZenh4VjlnQWRpMC1fUFVlSXdMQjlkeFNFek5KN0hyZUhZR25xN2tMUEFldWs2a2k0YjBWWQ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T03:04:16+00:00",
+     "published_local": "Oct 28, 11:04 PM",
+     "summary": "",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9ccaff8056e29f3e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Raymond James Reiterates Strong Buy Rating on Clean Harbors (CLH)",
+     "url": "https://www.streetinsider.com/Analyst+Comments/Raymond+James+Reiterates+Strong+Buy+Rating+on+Clean+Harbors+%28CLH%29/27251143.html",
+     "source": "StreetInsider.com",
+     "published": "2026-10-29T01:18:00+00:00",
+     "published_local": "Oct 28, 9:18 PM",
+     "summary": "Raymond James analyst Patrick Tyler Brown reiterated a Strong Buy rating and $375.00 price target on Clean Harbors (NYSE: CLH).The analyst comments \"We maintain our Strong ...",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:441348cf47f2e1c5",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "What Clean Harbors (CLH) Said on Its Q3 Earnings Call",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/clean-harbors-clh-said-q3-070423743.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T00:04:00+00:00",
+     "published_local": "Oct 28, 8:04 PM",
+     "summary": "Clean Harbors (NYSE:CLH) reported record third-quarter revenue and adjusted EBITDA, raising its full-year outlook as strong emergency-response activity, continued demand for environmental services and ...",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Simply Wall St",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0hOUk5GSTFramdMWkUtZHp0R0tNdE52M2VtYUNNbm9HZ3FWSUkyWHB5cmRRODdqMUhqM005aUFPcDdYQ0VPSVFpVmFIRXVDbk8tUDc1ZzNMeFdoeVhTaVhaZUVXUlBBbDQ3c3UyZ1BBWVNQSWU3SjRWX1VSeEZWR3h2dl9PV19hQ1hUdWpZUFNaX3A5REJYYXRiSWxocXVXTHZZblJsQ0F2T0ZadzlvZTFrLVlUb1VGOHBya3pDUnZBZTNFSVlkZHFrSmFYV1FRTE4tWU1ZMNIB3AFBVV95cUxQRzlEYUJmZ0ZJaXB6R1MxN0JZRjRraVdWQTlmeUVSTmlLSkJFM1o2eHI4anpNQlVIcHJBWlBDVHlXNGQzYTJlbW84UEF2NGtwQUF3SWdlU19CWTBGZE5XbG5uZWYxUFZuT2lTS2J0SUZRUDBHblNEemQzR0N1MkFlMDl4NkxtVkFMYjBlMDdtN1J5Wk1wdHFXWE9BTEN1ZXhxSHZlekExbFl1Q1F5dGV4MVNKWFJQdUtCRFdLS0FCb3VqMVAzSGtFUUYzWTM3clZKMS1oZkNUUUNKdXI4?oc=5",
+       "headline": "Clean Harbors (CLH) Stock Ignores Record Q3 Earnings Margin Surge",
+       "published_local": "Oct 28, 6:24 PM"
+      },
+      {
+       "source": "The Globe and Mail",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOazhKRGg3MHVjVzQ4cmRyYlpvZS1fb1FEYUFER2pJeTQ1R0ZaRHBVbnVocjFQRi1SYjRmdW85eElwb1d5X2V0ZEJ1OFJqd2FoV19kaTlBX3NTSXpQN0lSODAxdjNTRFJWOWVXUWZuQ0R0ak9CcUZKZ1Zqbk05V2VJdXlfTXcyWFFQSlFXUjRqWDZzbkd0M3lUaEpEWlJiMm9VVWZIbGZYMlBmVnktdTB2SlFYS1pSMUd2QzYyLWhiT3FkQ0ZVb25ubVNaTm84SHFhc0E?oc=5",
+       "headline": "Clean Harbors (CLH) Q3 2026 Earnings Call Transcript",
+       "published_local": "Oct 28, 4:59 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:cb56d8d6640aa8e3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Clean Harbors: 3 Key Takeaways for Long-Term Investors",
+     "url": "https://www.fool.com/earnings/takeaways/2026/10/28/clean-harbors-3-key-takeaways-for-long-term-investors/",
+     "source": "The Motley Fool",
+     "published": "2026-10-28T19:07:00+00:00",
+     "published_local": "Oct 28, 3:07 PM",
+     "summary": "Shifting toward higher-margin products while consolidating operations positions the company to sustain profitability when market conditions normalize.",
+     "companies": [
+      "CLH"
+     ],
+     "company_names": [
+      "Clean Harbors (CLH)"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNm5FVTlIWjB3TDVLajJzWjJZUTR5ZUpHM2Y0MG1XX3J4dmJpRm5QZnZwQmNRSzJPdDRGRE5VNmhxNC1HckdmdWhNeW5LTk1oWFpfZzI4UlNoeTMwTVpVT1NZS0hSQ0x2RFFXSXg3TWtacm14dW41ajBiX1VoNXNOUkI5Q2txd3ZGRjRrckxiQVh6alU5X0NCbE5B?oc=5",
+       "headline": "Clean Harbors: 3 Key Takeaways for Long-Term Investors",
+       "published_local": "Oct 28, 9:27 PM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "SRCL",
+   "kind": "company",
+   "title": "Stericycle (part of WM since Nov 2024)",
+   "group": "Peers",
+   "items": [
+    {
+     "id": "t:1ff684d0fbea046f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "10/29/2026: Board Upholds Restrictions on Use of Company IT Resources, Again",
+     "url": "https://www.nlrbedge.com/p/10292026-board-upholds-restrictions",
+     "source": "nlrbedge.com",
+     "published": "2026-10-29T05:30:00+00:00",
+     "published_local": "Oct 29, 1:30 AM",
+     "summary": "Stericycle, Inc., 372 NLRB No. 113 (2023): Established that a work rule is presumptively unlawful if it has a reasonable tendency to chill Section 7 rights, rebuttable by showing a narrowly tailored ...",
+     "companies": [
+      "SRCL"
+     ],
+     "company_names": [
+      "Stericycle (part of WM since Nov 2024)"
+     ],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "RUMPKE",
+   "kind": "company",
+   "title": "Rumpke",
+   "group": "Private players",
+   "items": [
+    {
+     "id": "t:a301c384fc782ab3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Theo Awards 2026: In Conversation with Rumpke Waste & Recycling",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXV3LXh4bTh6eHpncnNGdzBnR2JfTVZocGxmeHZMUC1nNHNTUktUSncxQnNKNGFqdVVUU2phNjhtZXFxdTB2SGJYNmVpZlBkb3Z0SEpSeC1ualJMeVR0d0lwR2tBeFBZeEZadFNLUDRGUnhobVFMaUlOVFpYenFNbl9IUWhkUG1SZmZDNVhUekR6MlZU?oc=5",
+     "source": "Risk & Insurance",
+     "published": "2026-10-29T17:21:25+00:00",
+     "published_local": "Oct 29, 1:21 PM",
+     "summary": "",
+     "companies": [
+      "RUMPKE"
+     ],
+     "company_names": [
+      "Rumpke"
+     ],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e5740c4bd30f1eda",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "City admin ask to renew Rumpke contract",
+     "url": "https://athensindependent.com/acc-261026-rumpke-2/",
+     "source": "Athens County Independent",
+     "published": "2026-10-29T09:15:00+00:00",
+     "published_local": "Oct 29, 5:15 AM",
+     "summary": "A council member suggested the city inquire with Athens-Hocking Solid Waste District about its interest in submitting a bid for the contract.",
+     "companies": [
+      "RUMPKE"
+     ],
+     "company_names": [
+      "Rumpke"
+     ],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "landfills",
+   "kind": "topic",
+   "title": "Landfills: litigation, permits, enforcement",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:58d19c40cc9c58f7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Smithtown residents remain strongly opposed to trucking station proposal at former landfill",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVVORVZXcTJNYUthVXRwVUFNalpDWkFRaVUyZWF2aGhOYjF2dkg1WVhCdHdoLUgtWTBUMkkzcUVrQzZLR0lLZElFUjh0X0VTLUlpR1ZDSE05YWxkSUh5Y2JZZnNLN3hEeDAwM3RkbWhESmF3dVpqeDR6NzkzN3Q1dFVtU3ZvdEhCYnRXdWpWS1lXUGF2cUNR?oc=5",
+     "source": "Newsday",
+     "published": "2026-10-29T15:21:02+00:00",
+     "published_local": "Oct 29, 11:21 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e0acf805325a16d5",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "ADEM proposes $38,600 penalty over alleged problems at Axis landfill",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN3pKQmhTWW95UEo4ek9WbUdPRXNQVDZNUkpwRzFDSmlIYmVLcmVXNHlTRG1ENmwtM1BvTks5dUlBeGM4akdzaDN1R0RhUHNmclpWX1hyMjVTbFNRVkRRSWlURE5veWJodldpVTVjQUlmcEh0YU02dWtPRElUQTlkQlhlNFNPbHRETUlLdzVTWkp5ZkNJOHhJSkFUa2Rodw?oc=5",
+     "source": "NBC 15 WPMI",
+     "published": "2026-10-29T14:14:25+00:00",
+     "published_local": "Oct 29, 10:14 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:7f9ff6b604eb5949",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Serdiana: The Regional Administrative Court (TAR) rejects the appeal against the expansion of the Su Siccesu landfill.",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLWYtZk8tRjRfNHZmNnJ5ejFEaG5yNmdVdTE4RWhPenpETUxIX1JkNFJEcWpWdDNIYVVSU2tMQTFkZ3c2X0R4WUpycHotYWt0NEU1dVlsc2FpRlJjQXpNV2JibDVUV1g2Y3BpWll2Q1VXWlFUNW51T2ZMRGJycHdtTG5BUkd3RGZMSE1XMWxjMGVrblhYb0R1aC1ORGN0RDJ6TzhWTHBadG00cEFrcEZiTV9lSk9UWE9tUEFFd3R1c3hObTlqUklGallkNkxYaUZLSnFfamJMNG9JT3Z4ZDg5X2F4bFdTcFdsWGlQSXVnT1hlbENn0gH8AUFVX3lxTE9JRXdDdHd3UXFxa2ZDQ0htanRKdE1hQWRDUmNsOGlpVDZpTzJwN1NvVC1rNFp6emRiNHF0eTF5eElnZ2NXX2hxVHcwSzkxdGc2NV9XMkdUeElzQUNTMERVM1BRNkJfc2w0QW05aExURTA3X1JhajZSV09NckVxZjBTa2x4ZDk2bzdMNWNITUJIT0hjRXlGTjRZVGVLTC1KQ21kNlViSG5jeWRJQTFvYmw5MzhPdl9uU1hNZjFLd2tfOC02a09WOUxhZ0hqQm5wXzc0WGF1UngyUDF5akxxVF93enljckxUeW9UdkxReUdOSGpDQUtyRUJDcmlrWg?oc=5",
+     "source": "L'Unione Sarda.it",
+     "published": "2026-10-29T12:18:21+00:00",
+     "published_local": "Oct 29, 8:18 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b35961830edce9e6",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Activists call for more city oversight on Church Street waste transfer station",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU1tVjJxV1YxWWJsUm5ZTi0zX3F6M1g1LUZ5WVJIb2h4bjFtTUlmS1owRHZIU1UtOEtkVWp0d2VmR2thQmM2a1NIaUdBTnRsOVM1b3c3UXZRbVBEaDFvaGV2WUc2QndWVGZCbUNNOFR0bFVUa0hSSVhCbDNwUzE5VEI2SHNiUWJoczZxLS1ySmVIdkRMMjlTcGlCd3p2cDBzYWlfNGdFa0txS080U1hTZF84SkFxc1lQcVNUNnBB?oc=5",
+     "source": "Evanston RoundTable",
+     "published": "2026-10-29T11:04:25+00:00",
+     "published_local": "Oct 29, 7:04 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3c67f2814f101282",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Residents look to take action over waste transfer station",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMk1oYXlxd0lEdU1mMzNjY2g0OGFwMTE1TDlHaENtQS03LXhyY3pra3g4TWRYT282cERiVVUyaGNtcFQ3WGIycHFCOE5STGNMRWJZQXdtUWExa3huSWJESlV4UGNLdTV0dVNScVJOOFMybFAtdExIZHcycEpVUjlWdEN3ZlgzZkFJQnc?oc=5",
+     "source": "Evanston Now",
+     "published": "2026-10-29T10:06:06+00:00",
+     "published_local": "Oct 29, 6:06 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:249c8fd43767bac3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Why did Bunnell reverse landfill approval? Here's what happened",
+     "url": "https://www.yahoo.com/news/us/articles/why-did-bunnell-reverse-landfill-163935629.html",
+     "source": "Yahoo",
+     "published": "2026-10-29T09:39:00+00:00",
+     "published_local": "Oct 29, 5:39 AM",
+     "summary": "The Oct. 28 City Commission meeting heard the applicant's presentation for the first time and several appeals to the project. Here's how it unfolded.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "FlaglerLive",
+       "url": "https://flaglerlive.com/rogers-landfill/",
+       "headline": "A Trash Mountain Not in the Best Interest of Bunnell: Why The Commission Rejected the Landfill",
+       "published_local": "Oct 29, 5:19 AM"
+      },
+      {
+       "source": "Daytona Beach News-Journal",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTBvMjZZQVBkdm5qeW5aUlNTaGstRFJsZFplVE1IbHlMa0x4MGcwbk5TQmg0Vmd6R2NleTJsUENNU21HSFdKanJwaFFXMmc0ZTMta1k4U0ZVS3M0R1VFRHZOdWNUWE91QVRHV0ZjR05KTUxhVGJTeWt2SF9kOGJENHA4MnBfeFFpUXFOckFYeDcyYnpzSXR4VWIxcUlkdUZQdjVGNGhPNFpvbzE5LVM5VUp2am5icW83a0lkbzVzcnR1VWk1Q1ctZnhR?oc=5",
+       "headline": "Why did Bunnell reverse landfill approval? Here's what happened",
+       "published_local": "Oct 29, 12:42 PM"
+      },
+      {
+       "source": "WNDB - News Daytona Beach",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZUa2dCSm9fLUMwVGpKQVJlLVF0d2FpeGU1dzBqWU9Ic0p1TnpjM1hqS3dKelZuVmZWQndrcVdnMFNFc0QxX2dPcVBsbE94SWJESXBJU1MwSXVWb240Nk1xZ3JBMi1wOGNjT0lxZFBsYlpUZS02RnNpNVRsSUhKOXpScUstYVZXdFB2QWZSOXd5ZWpRZktZQS10UVBPM3pWZW5ZMXNKM2U0QQ?oc=5",
+       "headline": "Bunnell Rejects Landfill Development Application on Appeal",
+       "published_local": "Oct 29, 11:51 AM"
+      },
+      {
+       "source": "Spectrum News 13",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT05wQ3JIdDluc3R6ZDZ2dlFsZHY1NEI4OUtSU1NUMUJMWm5ranZSQm5BcGF3NWxNM2IxSFFpbklhbUgtYjdxTkYyWXM1ZVU3Yl9EUjlTaVVYdU1nUWRzNkFzVU1aODc4bVdyVUJLb09ZZXA3MFNReUhTWXhFQ2VoeXdXanBSNzllMkFjN1kzVEdwdVJsVkNRS1p4dkZwd0ptYm5DYnpGZWd3SmtkaFJHRXNsOU1JREJXekhhOEd4eGJYN09CQXZ5VXZHTUNrUnVT?oc=5",
+       "headline": "Bunnell commissioners unanimously deny special exception for Project Butterfly landfill",
+       "published_local": "Oct 29, 10:42 AM"
+      },
+      {
+       "source": "WKMG",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR25sVEJlSS03Qzdyc3c1MXRWRHlJMXBMTnhOUDVqaVBDZS1WMlAzUXFjbUo0TFd2M3prSWd3U01uelJVYzlrVzdZWFNONFY3ck5vY3JWT1NEcmtORXF3QTlIR1dvRjl1cmxaWGdZVmZXM21RdWgycFh4NVlhcHlkSjhDYUNfXzVCTlY5MVFDd1BEOHhxTjY2b2Z3NW9JellGNDQ5Rk42WTVudGlIcV9pZlV2eldiTW5DMGpmRXJ1TU8tV2FCQW5nck8zT3FJSkZMTVE?oc=5",
+       "headline": "Bunnell city commission unanimously rejects controversial Project Butterfly landfill",
+       "published_local": "Oct 29, 8:51 AM"
+      },
+      {
+       "source": "Coral Springs News",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUGlOR1RHazBEdXY4X0dBVEI2RFJIRkNCMWo1V2N1WWtIUmc1ZFZTRDQtOHlCcjQwN1ZZaGdVeDdGa1VJREdjaENPOTRGa1FiQ2pPNDlteVNZOUhQX3JnSzRtczdpbzIzM1NEYWJR?oc=5",
+       "headline": "Bunnell unanimously denies controversial Butterfly landfill",
+       "published_local": "Oct 29, 12:52 AM"
+      },
+      {
+       "source": "Observer Local News",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEtuNHpTbGFJOGhCcE51SE1XUEYxSHFzSkRON0JYUENlMmRYaXY5RU1GOUNkMlE2UVAzYlg3cmhZWVI4dGtWZGg3cFBhelgwTVdvaHVGRGdqa0RqSUJnWU0tbUxjZ0pTeVhkSFNFR2RqYTBVa2tBRXVJM1dyWi1Rd3lFTG5wdGZMQ1ptdTJGRmVyQWNPZDZFU2xJbXpRQkFmaUtnTnNJNHotdURvemo2RlFBdzJZcGdEZHZGWVIzNmo2VEtRZ0ljbHU3WE56Y3ZSYWhxU0FR?oc=5",
+       "headline": "After nearly 11-hour hearing, Bunnell commissioners unanimously reject proposed landfill",
+       "published_local": "Oct 28, 10:20 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:437b0edb4e5d2baa",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Lake County moves forward with lawsuit over Mount Dora-area landfill odor",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2lRcWctelV5SUpmNmU3enFFZThuaFpyYkJDOVZ0SmkwOGJhdTZsOWFPY014VjBsSm4tQlAwRWk4Mi00SVprckVHeTF4eURvMThKSFhHam4zd3dtSEIwRzlBMWgxT3YtaWM1OTJmeTN2ZFR2a0hhMll4eXRQdVVoejhUc1JLaWZtcG1BaThzM3dpZm92UXY4bl9fVVBXamg1QkJIekRzRVFqamN6TFhobC1jZXY3WFlpdGItWWI2eVV4ajQ?oc=5",
+     "source": "WKMG",
+     "published": "2026-10-29T09:08:19+00:00",
+     "published_local": "Oct 29, 5:08 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:2dd3ac1456becc76",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Missouri DNR hosts public hearing on proposed Jefferson City landfill expansion",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkFFTmluR3lzNnFFYThQajhPdnZObWhYRGtrZl9FYVBCd0NxN29HUzhCVHFTenZhVnFnMHh6eFUxR3lWQTN2bUJneHZKc1ctNGZIVVNmRTNkVThFSU8wTkNCbzBrN05pSkdiRFM2T2gyYWxhVkMtdi01QkFPM1RWaFk1OVFFc0lVeGhjZm5qZzM4d1RPQnc?oc=5",
+     "source": "News Tribune",
+     "published": "2026-10-29T09:00:45+00:00",
+     "published_local": "Oct 29, 5:00 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "KOMU 8",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZzRJRnJUVTV3bWowSzM3bENtZTk4TzBOc29lWmNYZ2FKNU5uWFotS19CUDdwSnFWNVdYX21DS2RBZldJVWdEQWRXSExXNWttcE5CWGdMU2ZBMVFLWkFzSzB3aFJuUEk4ZDZQVFprdlEzUDVzdW4zSnVXWkc4UmV3VUdfNVRzOGMxdVlBcm55bDUxNk5JcjlMVW5Rdl9ERjZPNEZKNFRMcEFiS09VS0pXY2NpTmxsYVppNkdoZGNSajNHblRCTzdtdmdMcFA2N3AwejJiV2ZBQjQzQ3UwN2hTSi1zcFJxalpvX0E?oc=5",
+       "headline": "Jefferson City landfill nearing capacity as officials consider 15-acre expansion",
+       "published_local": "Oct 29, 12:22 AM"
+      },
+      {
+       "source": "ABC17NEWS",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWEycXVsZzM0WGl0SVI1TUdzaVJHbEZwanJLaThELTAwM0djVzNpOW9UY3dPNUZXeTZhU2ZnNU5JdTNNdnZrNXBvYVlnYzBIQ3ZqaEhiRTFqWUUwVzB1bG9ucU8zTEYtN09MODN1UU5QVUJPU3cwbHdQOXBYaGF1cUFkWEJBbFZaTmhUV2NUZE5qYzBhejg5SWRtZHRVcFVrNUdmQTJsS2I2Wlc2cF9NVEdaLWc5TUtlc3BfUEpOT2hKaEhHc1Nn?oc=5",
+       "headline": "Jefferson City landfill expansion could add nearly two decades of capacity",
+       "published_local": "Oct 28, 9:34 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:9aba90ea5864c2f2",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "One intervenor for proposed Moose Creek landfill gas pipeline",
+     "url": "https://www.cornwallnewswatch.com/2026/10/29/one-intervenor-for-proposed-moose-creek-landfill-gas-pipeline/",
+     "source": "Cornwall Newswatch",
+     "published": "2026-10-29T02:00:00+00:00",
+     "published_local": "Oct 28, 10:00 PM",
+     "summary": "An environmental advocacy group has been granted intervenor status in Enbridge\u2019s plan for a pipeline to service the Moose Creek landfill. The Ontario Energy Board (OEB) says ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills",
+      "renewable_energy"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement",
+      "Renewable energy: RNG, landfill gas, RINs"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:2cc8a1363979dc33",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Denali says depackaging aids food waste diversion",
+     "url": "https://www.wastetodaymagazine.com/denali-depackaging-grocery-store-food-waste-landfill-diversion",
+     "source": "Waste Today",
+     "published": "2026-10-29T00:23:00+00:00",
+     "published_local": "Oct 28, 8:23 PM",
+     "summary": "The company has calculated a 70 percent average increase in landfill diversion at grocery stores that tap into depackaging technology.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills",
+      "innovation"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement",
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:15fe2d3d1e27ca63",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Ontario should burn more garbage, build more landfills, environment minister says",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWh0YWZPMXNzb3gxQ2lQbXhtRzV3VzdLMVBDTlhqRkUzMXRMWmpwRWFLcXFwUjBNQlBZRDdOSWlhTVpxa3FwSXRKN1FhMlliVmJJTFBlN1EzbFhkSkNoOG1KeFN3VnMxUnByVUZsek91Xzg2ei1FZExaUG1VOWlkVGg3RUtWY2E5cGhBd2VUTQ?oc=5",
+     "source": "CBC",
+     "published": "2026-10-28T23:24:55+00:00",
+     "published_local": "Oct 28, 7:24 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "The Trillium",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMjNoSG1UdVE4eGxJOFdjOVRXM0IwLVdGVHpsQUlNbGdKVlZGSGEzY2NEX01tZmpseklUNXY4Q01jQmNEZ0g5TnJPa1RRVEdXQWd5SndfLW56MHBxQ3p4UlBZbjJwREppNGVGTldOdGpfbnA1SmRzYzF4Z1FaX0NFQ1VjYkIyWmI2UjRWbEZ5NWlyMmR0Qm5oV05pY2hWZXJIa2xFQzVYc25iS2I5SnkwdC0xUkFrREdoTk1GWWNZeEZFal9zTjlDME9iSjNRNWUxemh0ZFh1XzYtb0RF?oc=5",
+       "headline": "Ontario environment minister hopes to burn more garbage, build more landfills",
+       "published_local": "Oct 28, 3:59 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:8c372d0a936aa05b",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Ford government proposes new landfills and garbage incinerators",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWIxRzEtbDV4Mm9DZXl0Z3dJS0k3c1JfR3EySG1Ma3EwdW8tYWM4UGU2VHhIcllpX2dzeFFveENsYVdOWUN0c0JVVks0RGozekhGMVBvNDZscEtaSkpfb3lYVDJRMlZKbUpqNmZzemhDYVZKdHYyT0FocG93VzY5YlR1TnMwU1I1X0dtdWN2NU1UUk1BZU03RUN5b25heU0tUk9jZjNKWFc4TXdoVmc?oc=5",
+     "source": "CityNews Toronto",
+     "published": "2026-10-28T23:01:00+00:00",
+     "published_local": "Oct 28, 7:01 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills",
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement",
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3734a9be7c5965fb",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Ford government hopes to burn more garbage, build more landfills",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2tVQlZOc19zaExvZ201a3VLSndoek9xTDltclZRNTNwaENXUjJnZ19Vb2UtV0RoYmRoS3NXbXI2c1RYTEk1a011c0doRlBZVUQ5UGVETFdLSXRFakhLOU8ybU1BVm53bU9YRGY3OEJuc08wcmFTRVhXTTNSZ3Uzamt0R25UbEFxZ0tCWmEwVVgzRF9IRWZpSUJEeHJnTms2R0R0MHo5eXc?oc=5",
+     "source": "CityNews Kitchener",
+     "published": "2026-10-28T22:22:45+00:00",
+     "published_local": "Oct 28, 6:22 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:92c8d7302b072bda",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Sumter County may expand its lawsuit against odor-plagued landfill",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVFpel9RaUR6a2xDZ09VbWhzTXJKZ1U3N2czZkoyVEQxakU5b19CMnAwT0NKZjF1VC1HQXhibHF5Y2F6SVQyalNkbGFFMkVWakt1M1JKNkxIMTBlNnFyZkY3V0hOVm5sNHp6dWVaZkJhNXVjek5BeXJaWm1rcVFKNm05S3JqeTNpZkhrX05RRjk2NUFnZGpyWktwdXZ5bjVlSXdNSkk0bXBnTnBp?oc=5",
+     "source": "Villages-News.com",
+     "published": "2026-10-28T22:00:52+00:00",
+     "published_local": "Oct 28, 6:00 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3ee1ac52ab75ebc8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Dumpster catches on fire at VB city landfill",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkphQnhULXZHQmNCS1QxbnN1aWEyN1FvZjFZOUVMNkUzX3ZnRk9TU3UtYnJzc01ESko0M05PN3ZqVVBaR1NzMHhoOEdvRWRkUUdlZWhnUWNGR25TRkdnbmoxZ25PdFBXY3JBS2M4b184M2NGSmMtNDA1MGpqVFFBTHFpRFF2aHRN?oc=5",
+     "source": "WAVY.com",
+     "published": "2026-10-28T21:41:07+00:00",
+     "published_local": "Oct 28, 5:41 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills",
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement",
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:8dc77ec9e2ebee36",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Ontario backtracks on imposing landfills on municipalities as garbage crunch looms",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDR2VFJXdTluNXpUWHgxRDZraWt2bmVqNE94Z2VhNnpWNHluSE0tYnBOaW92VHQyUTNEejFteTNMLXUzT0xvakExbHZQaVJxRzI3UUFYOXB1Wjd0R3ZIVnJONkRlVTJuWmlORUYxNTBySTdEMWtvemRDT1F4bzBVYXYtTE1kSWYxemt4b2ZiOWhVelc1R3RaZzNWUGJqdlRuMzVBclpGVXRGcUEtU1pqSU95UVVzSV9qaDFUdm04b0U3V0JXV29MQnpwa2x0M0VCSE1yY0tXaGdwNlF5TXFtS1hVRTlfX3EzVWg0TWZSa2VUOTBFcjktelJWNElENVp0TTZlT2tHbw?oc=5",
+     "source": "Toronto Star",
+     "published": "2026-10-28T21:30:00+00:00",
+     "published_local": "Oct 28, 5:30 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:64401f67711d4495",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Solar or nuclear: Weighing in on energy projects at old landfill",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeW0tVGd1MUI3Q1BHMTlmbzYzbVNhdlBZaUpvSzJpUVFGZUE0MTczNkZ1QnE3NkMyRmEtdWRqN01QaXNSRkZGRVV6SmRsRmNZaTdhZi15aGtpbTVoZW9lRXFabjNyVVA0cVJQcEpGenlUUEdyR243cUp4bHVYV2lCaHZxbHAtVnhJdnRuVUtzdnBKcU3SAacBQVVfeXFMUElFMzRJQkJiUGJMV1ROV0hySThMMExqbWpWS0pualZjaWFUb2RYbHhUMm82b0pjSUM4Ylc2cGtJMHYwcmNLTUg0eDk0WVg5ajAzbmp3NUxjc1laZzRIV3djY01GNE5SQXRvOFBVWktOVmxpOGc5ckdUZ1ZaLTJNakpyZzRJNTItaG9LRkN5dE9sVW5xNHhrY0l2YXBEN1B1dU1Fc1E5c0U?oc=5",
+     "source": "WWNY",
+     "published": "2026-10-28T20:16:00+00:00",
+     "published_local": "Oct 28, 4:16 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "landfills"
+     ],
+     "topic_names": [
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "recycling",
+   "kind": "topic",
+   "title": "Recycling: commodities, MRFs, EPR",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:59ca8ba813d45803",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "EPR at work: Sask adds foam densifier",
+     "url": "https://resource-recycling.com/plastics/2026/10/29/epr-at-work-sask-adds-foam-densifier/",
+     "source": "Resource Recycling",
+     "published": "2026-10-29T18:38:05+00:00",
+     "published_local": "Oct 29, 2:38 PM",
+     "summary": "Transporting rigid packaging foams is challenging due to being lightweight and bulky, but the new densifier compacts the material at up to a 50:1 ratio.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:f42e8179eda3d4c5",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Recycling Center of Quarter named",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UaHQtSm8ycDRDUFJZWkp3c0FxYWhzZ2ZCMmYwWTlmdVlDdUVJdFppTnc2ZWF2OEVpUnkzVk9pUGlCR2dUV0FfZlZxS3hnOXNBY3V2ME9LcW0wRHZYcU8wZDhobHJNUjhTUUdr?oc=5",
+     "source": "North Myrtle Beach Times",
+     "published": "2026-10-29T17:54:12+00:00",
+     "published_local": "Oct 29, 1:54 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4b366ab2e77a950e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Glacier launches DataMap for real-time MRF monitoring",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0FJWlZEZnBObW1Qb3V4d2d4blFFUzRYbWp0VDdzeXg2aHBmaHZmdGZSYUU3bVNONXZvanBoNFVqa05hcGVfQk9ZM3ZpTHc2cDNTdEs3MUpoX0NBYnZ4dUpkTmxIX1E0SXJieGpVVWhBV0JvVDAyY0ZYeGtEZUVmZXl5WTBZaDV0ZzZPU0k4cjdPMTJaNGVZa1N3UXlnZl84YVM2Nmd2UXNSY25hbmFxLWdTVDR6bWVUN3pxM2labGI0WW05VDVKTnhDTTRrdw?oc=5",
+     "source": "Recycling Product News",
+     "published": "2026-10-29T15:34:56+00:00",
+     "published_local": "Oct 29, 11:34 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ae5b785def0d2357",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "International Paper talks cost challenges ahead of DS Smith split",
+     "url": "https://www.packagingdive.com/news/international-paper-q3-2026-packaging-earnings/873038/",
+     "source": "Packaging Dive",
+     "published": "2026-10-29T15:00:00+00:00",
+     "published_local": "Oct 29, 11:00 AM",
+     "summary": "The company noted inflated costs for energy, fuel and recovered fiber, amounting to a $55 million impact. An investor day next week will focus on the separation of its European business.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:5e8b2b5e0dbc8400",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Vehicle recycling at VW: dismantling line opens in Zwickau",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGlxZlBZRlJBSUY0d1VRMTBPZjhWdThCM3lxRGFudm9qd1lOcEt1ZUJXS2RaTHR5RUJ5a3hxNlBzVEtfT0RRTnN1dlZxb1FvdWVMWlhiUVRjYjNDb0FxYktqcW5hUU1WU2RxMmNxanNUY1hzczFEYUlBQndxUmxab3I2bHBIeWRLQnFvZVlVaExTanUtbExHdWs2MA?oc=5",
+     "source": "electrive.com",
+     "published": "2026-10-29T14:00:00+00:00",
+     "published_local": "Oct 29, 10:00 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:6ed153a2e0c24625",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "New York States recycling and donation program pertaining to supermarkets extended through 2031",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdktjX3k5X0FtV2c1MF96OGpNclpfazVxMDd3SHpmbkZtS25iMzJaS0FWRFZQZ25lY2YyOHlSVkhGN21pRVZ3NE5UelJaR2JrVVMtUWxVcU9nNHhuX2VLM1NqQlhkWmlzaUJ4X3Z0TXlOVUNOMWlrV3FpZ2RNVlBqcFRKYnA1Z3AwX1RXSlU4d0c5bWRDeUR1c3dCbG9DT3RqMzF1b1hCWl9uMmlfb3ZNQ1pWa3R2NmNzd2pBandJRl9PUnhxYkk2ZndIcm1yeDRQMGc?oc=5",
+     "source": "The River Reporter",
+     "published": "2026-10-29T13:48:35+00:00",
+     "published_local": "Oct 29, 9:48 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ea17a1fafed89bb4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "SRC Group Earns EPD Certification for Recycled Aggregates and Soils - News and Statistics",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHpJM3lIX1RweXN3V2tPcVJRdWd1UGxPLTg1ZXlUY1R3cjVfMnp3bDFIenplQi1fV3FiZjBwb3lZeTA5VUpmNDctVTJpQ2tJcjZmcmRidkdLcTRQZ0Y0VE8yWlNid3JSYjVwVWRxakVRR0xUYTFPMDFONklkRjRUdG40cndGV3hZOGNObEdwSlAzdw?oc=5",
+     "source": "IndexBox",
+     "published": "2026-10-29T12:50:49+00:00",
+     "published_local": "Oct 29, 8:50 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:998d6f22a1864913",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Advanced Technology Recycling chosen for electronics recycling and IT asset recovery program",
+     "url": "https://www.recyclingtoday.com/advanced-technology-recycling-chosen-for-electronics-recycling-and-it-asset-recovery-program",
+     "source": "Recycling Today",
+     "published": "2026-10-29T12:00:00+00:00",
+     "published_local": "Oct 29, 8:00 AM",
+     "summary": "Laredo Independent School District chose the company as a vendor for its 19,500 students across 33 educational institutions.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "innovation"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:fa45a965701a00fa",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Recycling Center Conditions Draw Complaint To Smithfield Mayor, Council",
+     "url": "https://jocoreport.com/recycling-center-conditions-draw-complaint-to-smithfield-mayor-council/",
+     "source": "JoCo Report",
+     "published": "2026-10-29T11:24:00+00:00",
+     "published_local": "Oct 29, 7:24 AM",
+     "summary": "A Smithfield attorney and his wife are asking town leaders to clean up the town-operated Recycling Center on Hospital Road, calling the property an \u201ceyesore and potential health hazard\u201d and ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:8879916594e335a7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Baldwin County Solid Waste Authority Hosts America Recycles Day At Three Locations",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1c3N1NjUVU1TU5PWlpFQkJsRXJPT1IxN1NkTHNMcHJnempSNk9GUUpKZks3Qjk4QTJuZ05uN0JyTGY3akhEMjBFZHFyY0NFbWlKQTdPbGlacXF5UklvSUs4Y2RQQ1Q4aVFXc1BESU1YVXNoTEQ2ek5qOWtCcEl6VmhkNHpBMnFTdGJqYk1qbUdXUlE4elNCZWwtd2h6dzI5Rk9ySXlUVThyS0JWSEE?oc=5",
+     "source": "OBA News",
+     "published": "2026-10-29T10:30:11+00:00",
+     "published_local": "Oct 29, 6:30 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:91b86d5b7155f524",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "No plastic bags: Recycling campaign tells Hampton Roads what goes in the bin",
+     "url": "https://www.yahoo.com/news/articles/no-plastic-bags-recycling-campaign-171100529.html",
+     "source": "Yahoo",
+     "published": "2026-10-29T10:12:00+00:00",
+     "published_local": "Oct 29, 6:12 AM",
+     "summary": "Hampton Roads residents aren\u2019t against recycling \u2014 some just don\u2019t know how to properly dispose of waste. Inspectors rooted through about 32,000 homes\u2019 recycling carts last spring across James City ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Virginian  Pilot on MSN",
+       "url": "https://www.msn.com/en-us/news/other/no-plastic-bags-recycling-campaign-tells-hampton-roads-what-goes-in-the-bin/ar-AA2glQNW",
+       "headline": "No plastic bags: Recycling campaign tells Hampton Roads what goes in the bin",
+       "published_local": "Oct 29, 6:12 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:848b18398ee4b01f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "JLT Recycling Selects Van Dyk to Build Advanced Materials Recovery Facility",
+     "url": "https://www.waste360.com/waste-recycling/jlt-recycling-selects-van-dyk-to-build-advanced-materials-recovery-facility",
+     "source": "Waste360",
+     "published": "2026-10-29T10:00:00+00:00",
+     "published_local": "Oct 29, 6:00 AM",
+     "summary": "$30 million investment will expand regional recycling capacity and support local jobs",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ff9dca3a9bcde4f4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "SC Johnson Lobbies On Extended Producer Responsibility",
+     "url": "https://legis1.com/news/epr-lobbying-sc-johnson-lobbies-on-as-spending",
+     "source": "legis1",
+     "published": "2026-10-29T09:37:00+00:00",
+     "published_local": "Oct 29, 5:37 AM",
+     "summary": "SC Johnson reported EPR lobbying in its 2026 third-quarter filing, with spending holding at $120,000. Read the breakdown and what it signals for producers.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Legis1",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bnBBN1VwUmEwQzZzTFZ2Wk0zYkcxN0F5bFExNy1PS1dzdkRmVDQ3OWJIQ1prZmxJSzZzN2pfX2tPbklpYTlPM0JTYV9UUlJMckhuMVNDNWRxQ1QwLWNLZDRpUzdIWkd2WF9uMTFPc3pIODM1dmtjZXRR?oc=5",
+       "headline": "SC Johnson Lobbies On Extended Producer Responsibility",
+       "published_local": "Oct 29, 12:40 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:4ba021631ecb8abc",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Stop making common recycling mistake or bins won't be collected this week",
+     "url": "https://www.msn.com/en-gb/news/other/stop-making-common-recycling-mistake-or-bins-wont-be-collected-this-week/ar-AA2glEdO",
+     "source": "Liverpool Echo on MSN",
+     "published": "2026-10-29T08:35:00+00:00",
+     "published_local": "Oct 29, 4:35 AM",
+     "summary": "Ashley, who works as a binman, has issued clear guidance on your recycling collection this week as making one common mistake could leave you frustrated ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "AOL.com",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1YjlseTBQbTRpSkVLcnZlajNoWjlxTGdMWmxXMXBmU1lGX0hKRUFWcjZRQlhrTnVfUlhiQ0d1LVF4T3UyZklTSTBQLU9VcFJDa1VHWktKcnBfM2tlRFNqZDJ1Ni1UVWhJY2xwUE5rcWc2cmFSQmx6X2Fvdms1Zw?oc=5",
+       "headline": "Homes must stop making common recycling mistake or bins won't be collected",
+       "published_local": "Oct 29, 12:13 PM"
+      },
+      {
+       "source": "Cambridge News",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWVZd09yOGUzOFV3NlBHOU5Xd3NibU9wNnNtUlVsaFdzbVJZYmpoRGVWTlhCNXNlLXpSaDZYUjZmWTVnSnJIZloySDJMRDEtUm0zUzFsM3UwUVd2VkpqakU0ZWo2N0NFQ0UxWHp2Szg4LWQweDFXU2lYdXE5V0RTRXNyd2VhOTAxRmtyTkcydmYxRDFDTno4?oc=5",
+       "headline": "Stop making common recycling mistake or bins won't be collected this week",
+       "published_local": "Oct 29, 11:35 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:f687adc84a183cdc",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Phillipsburg, Parsippany businesses and Roxbury community initiative earn New Jersey recycling awards",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWtaVm0tTS0zUXJ5WU5HQzdGeVF4S3UzdGp1NW9DZXVRZzB3RGRSdTR6S1NrU3NtWmhrNXM4SW56SXJTSzBOXy10a0FncFhaTGkzaXFXRkxjNy1PRHBqN0ZRTURwdXZZbG5VTklWYkdHajc0aElRSzAwWmtlSlNLWWg0ZUF0dEIybDFFZUlZamo1VTRfb0JJUkZ3cVlGSTh3X2RocG1NWjhuVW9mTWtMa1ZOS1pXdTZaNWpnMlVuUlE?oc=5",
+     "source": "WRNJ Radio",
+     "published": "2026-10-29T08:12:19+00:00",
+     "published_local": "Oct 29, 4:12 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e435116b5313c8b3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Post-Consumer Recycled Plastics Market Size, Share, Trends, and Growth Forecast, 2026-2033 | Circular Packaging Demand Drives a $30 Billion Opportunity",
+     "url": "https://finance.yahoo.com/markets/commodities/articles/post-consumer-recycled-plastics-market-150700331.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T08:07:00+00:00",
+     "published_local": "Oct 29, 4:07 AM",
+     "summary": "Drive ROI by targeting circular economy opportunities across packaging, textiles, end-use industries, regions, and recycled plastic types.Dublin, Oct. (GLOBE NEWSWIRE) -- \"Post-Consumer Recycled ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4ccb689fb966f557",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Recycled PET Flakes - Global Strategic Business Report: Capitalize on $12.7 Billion in Market Expansion as Alpek, ALPLA, Indorama Ventures and Loop Industries Disrupt Supply Chains",
+     "url": "https://finance.yahoo.com/markets/commodities/articles/recycled-pet-flakes-global-strategic-145900144.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T07:59:00+00:00",
+     "published_local": "Oct 29, 3:59 AM",
+     "summary": "Unlock growth through high-purity recycling, food-grade rPET, closed-loop systems and traceable supply chains as sustainability mandates accelerate adoption.Dublin, Oct. (GLOBE NEWSWIRE) -- \"Recycled ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:850d368bbcb7ff06",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Recycle, reuse or regret: clock ticks on solar waste",
+     "url": "https://www.msn.com/en-au/science/environmental-science/recycle-reuse-or-regret-clock-ticks-on-solar-waste/ar-AA2girp4",
+     "source": "Australian Associated Press on MSN",
+     "published": "2026-10-29T06:32:00+00:00",
+     "published_local": "Oct 29, 2:32 AM",
+     "summary": "Australia needs to act quickly to address the growing number of end-of-life solar panels before a wave of waste hits in the 2030s.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:598b81fe693e0028",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Murfreesboro eyes recycling program amid landfill fight",
+     "url": "https://www.msn.com/en-us/news/other/murfreesboro-eyes-recycling-program-amid-landfill-fight/ar-AA2gkyUE",
+     "source": "WZTV Fox 17 on MSN",
+     "published": "2026-10-29T05:30:17+00:00",
+     "published_local": "Oct 29, 1:30 AM",
+     "summary": "Murfreesboro is working toward a new option for handling some household trash, with the goal of recycling or converting much of that waste into a renewable reso ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "landfills"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "WZTV Fox 17",
+       "url": "https://fox17.com/news/local/murfreesboro-eyes-recycling-amid-landfill-fight",
+       "headline": "Murfreesboro eyes recycling program amid landfill fight",
+       "published_local": "Oct 29, 1:30 AM"
+      },
+      {
+       "source": "WZTV",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcEFubEhSdXJEZjA2YVgteU5ZUUdRd203U3Vady1VeVN2NmluNTNielk5cW9LTHRCQmhTR1p3NDdPcWRBZGxKODRCR1BpNkYzTDNveFJBZGFmck1ObVhOQlcxNldXaU9MeTJiSEtiYy1PT0h5WVFsS01wYWl4anA0MjZn?oc=5",
+       "headline": "Murfreesboro eyes recycling program amid landfill fight",
+       "published_local": "Oct 29, 8:33 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:1d1c0c8e0e0ea0a1",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "New Jersey\u2019s Sherrill Administration Honors Recycling Leaders for Commitment to Sustainability",
+     "url": "https://wasteadvantagemag.com/new-jerseys-sherrill-administration-honors-recycling-leaders-for-commitment-to-sustainability/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T04:26:09+00:00",
+     "published_local": "Oct 29, 12:26 AM",
+     "summary": "The Sherrill Administration recognized six businesses and organizations for their recycling efforts during the annual DEP Recycling Awards program. The awards ceremony at the Forsgate Country Club in Monroe was [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:6742debea2619606",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Registration Opens for Textiles Recycling Expo USA 2027",
+     "url": "https://wasteadvantagemag.com/registration-opens-for-textiles-recycling-expo-usa-2027/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T04:18:23+00:00",
+     "published_local": "Oct 29, 12:18 AM",
+     "summary": "Registration is now officially open for Textiles Recycling Expo USA 2027, North America\u2019s dedicated exhibition and conference focused on textile recycling and circularity. Taking place on April 7-8, 2027, at the Charlotte Convention Center, North [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e9d08396ebc3f5e1",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Closed Loop Partners Backs Renegade Plastics to Scale Recyclable Polypropylene Alternative for Coated Industrial Fabrics, Strengthening Recycled Resin Markets",
+     "url": "https://wasteadvantagemag.com/closed-loop-partners-backs-renegade-plastics-to-scale-recyclable-polypropylene-alternative-for-coated-industrial-fabrics-strengthening-recycled-resin-markets/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T04:00:37+00:00",
+     "published_local": "Oct 29, 12:00 AM",
+     "summary": "Closed Loop Partners announced that its Catalytic Capital & Private Credit group provided a loan to Renegade Plastics, a Colorado-based startup commercializing a mono-material polypropylene (PP)-coated textile that can be recycled and [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "innovation"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9d6829a77283648c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Ogle County holiday light recycling starts Nov. 16",
+     "url": "https://www.shawlocal.com/ogle-county-news/2026/10/29/ogle-county-holiday-light-recycling-starts-nov-16/",
+     "source": "Shaw Local",
+     "published": "2026-10-29T04:00:00+00:00",
+     "published_local": "Oct 29, 12:00 AM",
+     "summary": "The Ogle County Solid Waste Management Department is again partnering with local fire departments and villages to offer several drop-off boxes so those nonfunctional holiday light strands can be ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:efee9322f9a8b56f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Garbage, yard waste and debris pickup after Milton",
+     "url": "https://mynews13.com/fl/orlando/news/2024/10/07/hurricane-milton-affecting-public-services-and-transportation",
+     "source": "News 13",
+     "published": "2026-10-29T03:45:00+00:00",
+     "published_local": "Oct 28, 11:45 PM",
+     "summary": "Thursday residential garbage customers who were due service Oct. 10 will be serviced on Monday, Oct. 14. Thursday residential recycle and carted/containerized yard waste customers will be serviced on ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:28adf7e64c041956",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Verdis completes recapitalization program",
+     "url": "https://www.wastetodaymagazine.com/verdis-denmark-waste-recycling-financing-backers-united-kingdom-cube-railpen",
+     "source": "Waste Today",
+     "published": "2026-10-29T03:11:00+00:00",
+     "published_local": "Oct 28, 11:11 PM",
+     "summary": "Backers of the Denmark-based waste and recycling services provider say they have completed a $475 million refinancing arrangement.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Recycling Today",
+       "url": "https://www.recyclingtoday.com/verdis-denmark-waste-recycling-financing-backers-united-kingdom-cube-railpen",
+       "headline": "Verdis completes recapitalization program",
+       "published_local": "Oct 28, 11:11 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:df01ff283d77fecf",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "No garbage, recycling collection on Veterans Day",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQUF2d3R2MHJRZWh0N1hkM3ZBb3ZjeDg0S0V5cl9vbVo0WUQ2TmZ2V29qR2dYWGV6Yy10dWw3WEpPbmlLeTVwWjE0eTBXWjhIcVpwZU5MVmRMQ0lmZHZnSUNYZkdfeTMteFQ3TXhkV1ZhYW5NNHZNR2Z6dVM2T2FFck5wT2haZWNlSUR0WXZJR2M?oc=5",
+     "source": "Jamestown Sun",
+     "published": "2026-10-29T02:30:12+00:00",
+     "published_local": "Oct 28, 10:30 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:95d43ae939ca8ae0",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Majestic Corporation: why this critical minerals recycler could have further to run",
+     "url": "https://ukinvestormagazine.co.uk/majestic-corporation-why-this-critical-minerals-recycler-could-have-further-to-run/",
+     "source": "UK Investor Magazine",
+     "published": "2026-10-29T02:14:00+00:00",
+     "published_local": "Oct 28, 10:14 PM",
+     "summary": "Majestic Corporation\u2019s revenue has doubled, pre-tax profit is up more than fivefold, and a new processing plant still isn\u2019t at full capacity. Governments and organisations are seeking new sources of ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:258c4bae55b8daad",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Commission releases $350k pledged toward recycling center",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmVsdkJ6TEgwUzVJYTdBS1hJcGdEMWRQQktlOG1TTm41WDNPRksyY0pCX2NLNFJYTHlsNFh4MUhpdzh4WXJ5ZkZNWkstWklqTnR6c1ZacjFNQm1oX094RmRSSGx2S3JmSjdObnZlSDd2WG9HLUV0VE9KZDRDa0o2NHJsbmNMTjdrd01ycjEydDBJcXdUVDN3anJudmNEWm5qNk1ray03a2Rndm4zN204Tk53SFJ1ZTNkZmlMMVhTS0NBV2l6MWloQ2JpejhnZw?oc=5",
+     "source": "thecr.com",
+     "published": "2026-10-29T02:12:00+00:00",
+     "published_local": "Oct 28, 10:12 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b5d668dd5048a158",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "One working machine, millions in rebuild costs: What\u2019s next for Columbia\u2019s recycling facility?",
+     "url": "https://www.komu.com/news/columbia/one-working-machine-millions-in-rebuild-costs-what-s-next-for-columbia-s-recycling-facility/article_d310238e-fefc-4676-be03-ddad99bd6b6f.html",
+     "source": "KOMU 8",
+     "published": "2026-10-29T02:00:00+00:00",
+     "published_local": "Oct 28, 10:00 PM",
+     "summary": "Nearly 18 months after a tornado destroyed Columbia\u2019s recycling facility, crews continue processing materials as the city plans a multimillion dollar rebuild.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:2ae53496bb09a0de",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Borno Seeks Private Investment In Waste Recycling",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3pHUTN0WjVvVE5GZXFiRlo1c0R4MExEUlVmR1k1N1U2RklrZFlkbDlKUGNnSjVveVJVNFdwVzZlRnBUWTI0c0FiTUtsbmUzMEJIZy1haE5hOFI1cEtJVTVxRUNJUXdocnJNNTEyUnR6TmpZVGNxTHZZblRWbHk0MjZUVGI?oc=5",
+     "source": "New National Star",
+     "published": "2026-10-28T23:31:48+00:00",
+     "published_local": "Oct 28, 7:31 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b24565d12b1c8395",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Lewis County Master Recyclers to hold leaf exchange events in Centralia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWtzR2dsWnVYc2Vta2Vjcms2ZGpWeVdLNVN3cWJ3MjJ6aHVhLVREZHEzcEFpUGdrRkdPZmxwZFVmYy1SeWwwRENhUzh6cDhCdHBjSkZFTS1WTDBXcWJZRjZGOVZ1enRHQS1CbDJ2eXZQc1pwVFg3MVdyVkZ2b21rV2Y2OTJJUGowdU5MUUxZSXhnclozN0ZXTTVJbEV3WE8xSVB5bDN5cHZYRWI5VVpZazVR?oc=5",
+     "source": "The Daily Chronicle",
+     "published": "2026-10-28T23:27:44+00:00",
+     "published_local": "Oct 28, 7:27 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:8e580d203b0ec2c9",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "State doles out grants to Westfield and Southwick as reward for recycling efforts",
+     "url": "https://www.masslive.com/westfieldnews/2026/10/state-doles-out-grants-to-westfield-and-southwick-as-reward-for-recycling-efforts.html",
+     "source": "MassLive",
+     "published": "2026-10-28T23:00:00+00:00",
+     "published_local": "Oct 28, 7:00 PM",
+     "summary": "While the grant amounts are modest, every dollar directly offsets the cost of operating the municipal recycling programs in Westfield and Southwick.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4a53a9bb1e9c94f8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "\u201cPeak Greenwashing\u201d: Two Bills in Congress Endorse Misleading Recycling Claims",
+     "url": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+     "source": "ProPublica",
+     "published": "2026-10-28T22:00:00+00:00",
+     "published_local": "Oct 28, 6:00 PM",
+     "summary": "On the surface, the legislation promises transparency for consumers by establishing national standards for recycling. But it would keep states from setting stricter requirements for companies.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "recycling",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Recycling: commodities, MRFs, EPR",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "renewable_energy",
+   "kind": "topic",
+   "title": "Renewable energy: RNG, landfill gas, RINs",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:cf5e78551e0131a6",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Fl\u00e4ktGroup Reports Q3 Progress on Renewable Electricity, Product Transparency and Zero-Waste Goals",
+     "url": "https://news.europawire.eu/flaktgroup-reports-q3-progress-on-renewable-electricity-product-transparency-and-zero-waste-goals/eu-press-release/2026/10/29/16/44/04/185078/",
+     "source": "EuropaWire",
+     "published": "2026-10-29T08:44:00+00:00",
+     "published_local": "Oct 29, 4:44 AM",
+     "summary": "Fl\u00e4ktGroup\u2019s manufacturing operation in Istanbul has acquired 800 MWh of Renewable Energy Certificates (RECs). The certificates verify that the facility\u2019s electricity consumption is matched with ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "renewable_energy",
+      "mna"
+     ],
+     "topic_names": [
+      "Renewable energy: RNG, landfill gas, RINs",
+      "M&A and private equity"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:3883afcbe5102b5a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Petronet LNG, Gruner Bet Rs 1,200 Cr on Biogas Expansion",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGtGZE5KQmZ2WElGM0tUM0swNnZQV2JuSk1OamNyNTI2aWc0WnRRZGhRMlBQcy1XbTdfOUJyaUF5TzJ2UE1iOGpCV3hqNEg4Q1VJRnVXTzBkekFvVGZWVHpOc1VXN2Z2bDh0RHQ1S0Jibm1BZGxETGQ0YnFma2pEWW1jaEUzNEpvZmdrRFZlcWpRMkZlNmVLS1J3NHRXOHMxSnBNOGl0N2tXVFhfcVZWdFRR?oc=5",
+     "source": "TradingView",
+     "published": "2026-10-29T06:01:00+00:00",
+     "published_local": "Oct 29, 2:01 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "renewable_energy"
+     ],
+     "topic_names": [
+      "Renewable energy: RNG, landfill gas, RINs"
+     ],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:05843b2e75d854c4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Worldwide Holdings Recognised As Best Waste-To-Energy Developer",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTF9aV19XSTVjTjlhMUlLOUlqQ2JiWHYwTmJ6SE9uM0hFNnFBT1psRkhuT1NNQUdBb1ZPeGE2UjhjNUhQT25aOGNSVHctRzBaSTZTb3pVRk9NMUllR1gzaThhZVkzbUpTeDg1eXp6Sm1FTTcwRXlFUGJKNFgxRk5yMHhkZ2ltam1D?oc=5",
+     "source": "SME & Entrepreneurship Magazine",
+     "published": "2026-10-29T04:48:25+00:00",
+     "published_local": "Oct 29, 12:48 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "renewable_energy"
+     ],
+     "topic_names": [
+      "Renewable energy: RNG, landfill gas, RINs"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:fd26c5c09cce016f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Louisiana Company Converts Wood Waste Into Renewable Energy",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFBtQ24tMkR1Z2JUTkxfUEt5bHFsdkFKZkpqOXVGWkdLRFk3bmlBZkNac08tRm9XU190bWFIeUV0STJ3Y1l1M3ltT3gyNnR4WWs3b2JmSmJ1VEVvQUxHeDJJYVFZLVNNNzBvSFlZaEpNYkgyMjlRcmRWLThIQWd4YVdnM3BmYkxR?oc=5",
+     "source": "RFD-TV",
+     "published": "2026-10-29T01:37:10+00:00",
+     "published_local": "Oct 28, 9:37 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "renewable_energy"
+     ],
+     "topic_names": [
+      "Renewable energy: RNG, landfill gas, RINs"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "volumes_pricing",
+   "kind": "topic",
+   "title": "Volumes & pricing",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:2ea45a931434390d",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Longmont Council Advances Plan to Lower Composting Fees Through Trash Rates",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0dqWDdpUlRrcmNtTTZPaG1idEc1UHVtUGtIcWRxSHdvRi1PeU9ENmdLZWFLVWwwUUpvRFpFRGphZVZoYnBkS1RFSC01V1N3UlBCSU5Nc3RzY3IwdHJJLVVSbmt3YmRCSGttai0xdk8xZTJWV3VWd0ZKNl9pNENNckcyU0tkSGxQaU40RHpjUWRKVmhpbTk2d1RGUlR5cFc1dV9ULUptSTZLcFZmNFNfTHdzREowVWtVRVh5V0NCeXBESjJqS1pZYlZobFY?oc=5",
+     "source": "www.longmontleader.com",
+     "published": "2026-10-29T18:00:00+00:00",
+     "published_local": "Oct 29, 2:00 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ba1adcd6db8fd14e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Montague considers raising trash sticker price",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEViZXBFS1N4N2Uza1VhWTJ4MmZCdWpVNUJ2cllBRFpTTjJqWVh4WTA1VW9YaVZhcFBNR0FndzZrTTlaWmdMUm5LLW9xU0NQRU5nZlc5MTRFLUdfTzNPVUprTHJYam01UEpEbXNzb3puVExoOGl3NDY1ZF9lV1ZUTVI3TlFPTElYdDRUSnNiLTVJVGc?oc=5",
+     "source": "Franklin County Now",
+     "published": "2026-10-29T13:20:48+00:00",
+     "published_local": "Oct 29, 9:20 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e3df8aba16505ab7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Spotsylvania seeks alternative to annual $50 solid waste fee",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVhhQS1aZngzdXJLZVhRT3o3d0NRTGxQcWo5NXplT2p2WEhZaVVTTnI5VFhZbEsxYVp5Mm9lZGdBQzU5REpyZWIxTjJxSVpiZVhiTEdmZTZkcy1UVnNlZFJvZG1wbmxITEo0MGFmSlM2Q1d5Z1BlbVlQeUgwVXJnMkVJM0hSUFJUbjV4Rk45eUk?oc=5",
+     "source": "Fredericksburg.com",
+     "published": "2026-10-29T10:30:00+00:00",
+     "published_local": "Oct 29, 6:30 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:780364470c09fa5a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Towanda Borough reviews trash bid that drops sticker system",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb2c1UnhPY1M3aHY3VlVsbEtTRjJUaW5DS1pVTWtScWhBd0QzVHRYcUtFUFZSdTh2QzhnaXZzM3lVY1dMWmViNnFidVFtWnJxSDd3MnpNVGJOUkVaSWRxSlBsSU4yRWVVSjVSZXhUM3R5bksyNVhaLTZtemplY3pvT2JyYVhlZnpOUFVLWlJCY2hSN3o3NGRGNWl3NTQzTTVzUlFIaWUyNkx1T0Y3cmV3by1xbHo5Q1dwa2pqbUlmX2J6Ykk2ZlBQV0FQWnExYkVhdFFoY0NfN19lZUhwTk92RjVqSWFGdw?oc=5",
+     "source": "The Daily Review",
+     "published": "2026-10-29T09:00:00+00:00",
+     "published_local": "Oct 29, 5:00 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Volumes & pricing",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:f53df393faa7f48f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Franklin approves new annual fee and sticker system to fund trash pickup services",
+     "url": "https://www.concordmonitor.com/2026/10/29/franklin-approves-trash-sticker-fees/",
+     "source": "Concord Monitor",
+     "published": "2026-10-29T07:55:00+00:00",
+     "published_local": "Oct 29, 3:55 AM",
+     "summary": "Sign up for the Concord Monitor\u2019s morning newsletter for daily news, and opt in to our contests and promotions list for giveaways and special offers.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Volumes & pricing",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:bc502ee9c17cb503",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "County resending 44,000 San Diego property tax bills after city trash fee error",
+     "url": "https://www.msn.com/en-us/news/other/county-resending-44-000-san-diego-property-tax-bills-after-city-trash-fee-error/vi-AA2glh7v",
+     "source": "KGW-TV Portland on MSN",
+     "published": "2026-10-29T05:03:12+00:00",
+     "published_local": "Oct 29, 1:03 AM",
+     "summary": "The county is resending about 44,000 property tax bills after a city trash fee error. Here's how to check yours, get a refund and avoid the Dec. 10 penalty.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "cbs8.com",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUmhaU2ZmNmJsX2ptUm1ZUXVGZE1FSUtlZGNBcUFRM2tJam9tT1duSVlma3VRem5NSmpwTkJyZ0o5YWpPS1VFR1ZyTm1JekVFdHlWcmtsUG9XZzJ2Y1VpQUFhLTVOcnh0LVNKM0ZMRGZxV0FOUl9ZZDRaSkJEcC1IeWV0WnlRaUxITlc0N3FndUhVc2g4VHE5MDBZdjhublBCOVRYYzBuOXFtX1BtS2hWakJuN2tQcWlrN3phUlc1R3I0UUpTQXNQRktOSHA1N3R3MlRXcHJwSGMtY2pvdWRLU3haVmpYU3hSb0NYdzczNlcwUjZCbmxvVTFNdVIyUkU?oc=5",
+       "headline": "San Diego County resending 44,000 property tax bills after city trash fee error",
+       "published_local": "Oct 28, 9:00 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:48bf5c308d1d1d57",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "John Day City Council approves garbage rate increase",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlVXZWdtWEFRS1MwaHRwV0FvU295VWpZUGFZYUQ5bHFvUUJFa1Q4VGlnamdMX055ZnpaZ2FWRGhGZWRUbFBmVEhVSUtpU1FjMHU5SGtsSjNaT2piUTZURnpFaEp4RGlEXzJmcEZBX25tdXowU1dXT2dPZEtSNWVETU81T0xCdUs5VllZNDJTcXVpTE51djFwbGp3?oc=5",
+     "source": "Blue Mountain Eagle",
+     "published": "2026-10-28T21:00:28+00:00",
+     "published_local": "Oct 28, 5:00 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "volumes_pricing",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Volumes & pricing",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "regulation_policy",
+   "kind": "topic",
+   "title": "Regulation, policy & municipal contracts",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:2ae3cc50ae49b139",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Major change coming to Brooklyn trash collection",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcklQNmN4WEhIX3dhVWpWd0F2ZGJSODNCVXltb2RiOHFIakJjZHhfZHZGcks4THMwMkdXN1U1dWVtNk1BanA1LUdSazlTdzk5ajB5V2t6dWxZc01ROXJNdlprRi1SRTlsRWNxM2Y0RVQ3em1Rb2QzbWtNUTRWXzNPbHp0WW9FRzhI0gGQAUFVX3lxTE9Vc0RMVmtiS0ZzdEp1WjZFLVJsbmt0eFpDeDlOLUJ2andxYXlDNkd3YUJYdUhRYlRuQjFWY0hSZ3ZTY0txb0VMUml4UmxaX3IzUG9aNTB1VGFtUzNRWTFiNGVhME1zdUc2VHFNNFN0MWZrczRBZjhNczFad1ZOUlBZTUhVREsxMEdXTGo5NFVZdg?oc=5",
+     "source": "NBC New York",
+     "published": "2026-10-29T10:14:01+00:00",
+     "published_local": "Oct 29, 6:14 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:d0e706c34110d50f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "A Small Hauler's Perspective on Reuse",
+     "url": "https://www.waste360.com/residential-waste/a-small-hauler-s-perspective-on-reuse",
+     "source": "Waste360",
+     "published": "2026-10-29T10:00:00+00:00",
+     "published_local": "Oct 29, 6:00 AM",
+     "summary": "Keeping usable household items out of landfills sounds simple enough. But for independent junk haulers, finding a second home for furniture, appliances and other goods often comes with added costs and the challenge of finding organizations willing to accept them.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy",
+      "landfills"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts",
+      "Landfills: litigation, permits, enforcement"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:d9ed190f64f8f9af",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "3 stocks to buy from the booming waste removal services market",
+     "url": "https://www.msn.com/en-us/money/general/3-stocks-to-buy-from-the-booming-waste-removal-services-market/ar-AA2gmnKR",
+     "source": "Zacks Investment Research on MSN",
+     "published": "2026-10-29T07:37:00+00:00",
+     "published_local": "Oct 29, 3:37 AM",
+     "summary": "The Waste Management industry is experiencing positive trends in government regulations, adoption of advanced technologies and an increasing awareness of environmental issues. Despite rising operating ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXljMFAtZU5KN3YyVkhZV2M5ZGxJZHl5YjVidVA5VzFxaUNFdDZoV3VIZzZGejZweHluQk9XdTBBbS1NTTVQZ3EyY1Q0eS1abjdxM3dfZG5oMzFDSlJ4Ui0wODdJemdCZlNTOUFYN0JSamF1UlFndV81eVItVzRoUlMxLUNZLURsVFJ1NjFVWm1xdFRtdHc?oc=5",
+       "headline": "3 Stocks to Buy From the Booming Waste Removal Services Market",
+       "published_local": "Oct 29, 10:37 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:f89dc3e839c96d03",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Garbage and Politics",
+     "url": "https://eugeneweekly.com/2026/10/29/garbage-and-politics/",
+     "source": "Eugene Weekly",
+     "published": "2026-10-29T00:00:00+00:00",
+     "published_local": "Oct 28, 8:00 PM",
+     "summary": "Lane County\u2019s top executive took the extraordinary step of publicly accusing a local news outlet of inaccurate reporting that could influence a key county commission election that\u2019s only days away.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:073326ba5f49e982",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Town of Greece considers refuse districts to lower garbage collection costs",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEFlYzJ0SnNzYVdteDFxYndJOWtjQTJPTEIxaExmTENuMmVwc2ctbTZkMXdMOUtTN3lJYjcxS095Z1VDejAydGFOLXVqN1F0MDdCckFiQzZJRzYwY0NIeXNnX0NCVEJ6U1paRXdGRWhPWTA1TWxXWDZqVk8tQnMwOWVadTBoQTdlTzdzbUhhTnh2d21qbkJOQmNSVW1IdkU4SHppd3RmbkRxXzczbUxfTlpibW3SAboBQVVfeXFMUHB1Ylp2R05qYThpT3otTFMxSVBPMHh2VmpWZEVUaHBFTllJdDU0VDgzeTlHS282QWt1VjJPTFdNZXlsSmd1bWhPUmI3OFkycnBQc29lWWdQZTVmQkI2UjdoUzZ0R0NpaTlBZU9IZ0o0QWJQUVBfNUsyMjNxTkpGV3B5R1EzUTRTRmtnbFF1aHZOU1dNUG1ZcUhaZnBsTnBwcDZLRVc5MHdPc04wR0lvRFd3VmsxampOSWJn?oc=5",
+     "source": "RochesterFirst",
+     "published": "2026-10-28T23:05:58+00:00",
+     "published_local": "Oct 28, 7:05 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9daad133b31ad7a4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Residential Garbage Collection Update",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GS2t3akhOUUpfLTdURWV3cHJGR0pDdlFfSWlCRE91R3kydnNzNE9SanFwYUN3WFk2alh5WGN3eTZ4cDNDU3RtUk5UMjNqUnhTdFVGd21vTXFlUGc?oc=5",
+     "source": "Town of Hinton",
+     "published": "2026-10-28T20:07:24+00:00",
+     "published_local": "Oct 28, 4:07 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "mna",
+   "kind": "topic",
+   "title": "M&A and private equity",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:a86375a04b2d9d2b",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Clarios Announces Plans to Acquire Ecobat",
+     "url": "https://www.aftermarketnews.com/clarios-announces-plans-to-acquire-ecobat/",
+     "source": "aftermarketNews",
+     "published": "2026-10-29T06:27:00+00:00",
+     "published_local": "Oct 29, 2:27 AM",
+     "summary": "The proposed deal includes three U.S. recycling facilities that process more than 40 million batteries annually.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "mna",
+      "recycling"
+     ],
+     "topic_names": [
+      "M&A and private equity",
+      "Recycling: commodities, MRFs, EPR"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "innovation",
+   "kind": "topic",
+   "title": "Innovation & technology",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:76b2ae1b0ffb15b8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Exclusive: Waste startup TrashLab raises $12M",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREJrODl1RC1ERE1RZEotVjd1Zy1GVlZtdGUxMmVtcHU5cm0zM1JLR0NjUURBUUNGQkxfVjA5czFqTGU4ZFN3S1EzQmlLMTRwSkdlZEZKQy1FNmwwLWZ6dkQ2N2tYZ0RtS0s5dnd1MGg3bzVpS2VCd0kwbzY5b1ZMWGpoQ29PYlhKUWtrdWs4TUdSdVQ4MFZ0R0xhNTBic2JuU19BcWh3?oc=5",
+     "source": "Axios",
+     "published": "2026-10-29T11:53:03+00:00",
+     "published_local": "Oct 29, 7:53 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation"
+     ],
+     "topic_names": [
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9f856c58ffce88a7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Flash Hydrogen Secures Plastic-to-Fuel License, While Navigating Early Hurdles in Soft Market",
+     "url": "https://www.waste360.com/industry-insights/flash-hydrogen-secures-plastic-to-fuel-license-while-navigating-early-hurdles-in-soft-market",
+     "source": "Waste360",
+     "published": "2026-10-29T10:00:00+00:00",
+     "published_local": "Oct 29, 6:00 AM",
+     "summary": "Imagine if the most stubborn, unrecyclable plastics one day became the raw feedstock needed to power a zero-carbon economy. That is the hopeful, game-changing outcome of a waste-to-hydrogen technology licensed to Flash Hydrogen in Texas.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation"
+     ],
+     "topic_names": [
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e65547f296107a24",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Advocate calls for action to curb \u2018AI tsunami\u2019",
+     "url": "https://resource-recycling.com/e-scrap/2026/10/29/advocate-calls-for-action-to-curb-ai-tsunami/",
+     "source": "Resource Recycling",
+     "published": "2026-10-29T10:00:00+00:00",
+     "published_local": "Oct 29, 6:00 AM",
+     "summary": "A Google circular economy lead says hyperscalers are working to reduce the impact of e-scrap coming from data centers, but some groups say more needs to be done.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation"
+     ],
+     "topic_names": [
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": [
+      {
+       "source": "E-Scrap News",
+       "url": "https://resource-recycling.com/e-scrap/2026/10/29/advocate-calls-for-action-to-curb-ai-tsunami/",
+       "headline": "Advocate calls for action to curb \u2018AI tsunami\u2019",
+       "published_local": "Oct 29, 6:00 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:02048b5fd91b74ab",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "TrashLab Raises $12M to Scale the AI-Native Operating System for Waste Haulers",
+     "url": "https://finance.yahoo.com/technology/ai/articles/trashlab-raises-12m-scale-ai-130000556.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T06:00:00+00:00",
+     "published_local": "Oct 29, 2:00 AM",
+     "summary": "TrashLab, an AI-native operating system for waste haulers, today announced it has raised a $12 million growth round led by early-growth equity firm Ventana, with participation from existing investors ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation"
+     ],
+     "topic_names": [
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Business Wire",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc050eDhxVXNfVVhpd21WOERZNUZtT2gtUGNudEJGUlVYLW1BSUg0M3NyRmlzeTVyYXlBMDhNazRycVJzaXhidGFNRTRmOHMyNTVreHFSa3hZeEc0c0NrWG5qeVE4aGZrQldnTS00VHR1U1pOOURXbkJBQ1R5YjViQks1NVMxejR3R1RzeExGQW1KSVhrNE5DTEZ4WWtKNjlsdjhfTEM4T1JrX05zVW96R1lkOEpaWFlYNFBhTldxa0FROTdrcWZFb0I5dHFPc1JUWmVV?oc=5",
+       "headline": "TrashLab Raises $12M to Scale the AI-Native Operating System for Waste Haulers",
+       "published_local": "Oct 29, 9:00 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:41062fd0ed327684",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Nigerian company wins $200,000 Agfund development prize in Armenia",
+     "url": "https://www.msn.com/en-xl/money/general/nigerian-company-wins-200-000-agfund-development-prize-in-armenia/ar-AA2gkV9q",
+     "source": "AllAfrica on MSN",
+     "published": "2026-10-29T04:15:15+00:00",
+     "published_local": "Oct 29, 12:15 AM",
+     "summary": "Nigerian clean-energy startup D-Olivette Labs has won $200,000 at the 2025 Prince Talal International Prize for Human Development for its AI-powered biodigesters, which convert organic waste into ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation"
+     ],
+     "topic_names": [
+      "Innovation & technology"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:9479189566b3a1e4",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Denali Reports 70% Average Increase in Food Diversion at Stores Adopting Depackaging Technology",
+     "url": "https://wasteadvantagemag.com/denali-reports-70-average-increase-in-food-diversion-at-stores-adopting-depackaging-technology/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T04:00:53+00:00",
+     "published_local": "Oct 29, 12:00 AM",
+     "summary": "Denali, a large recycler of food and organics, reports that grocery stores transitioning from manual food separation to its depackaging technology increased the volume of food diverted from landfill disposal [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "innovation",
+      "landfills",
+      "recycling",
+      "volumes_pricing"
+     ],
+     "topic_names": [
+      "Innovation & technology",
+      "Landfills: litigation, permits, enforcement",
+      "Recycling: commodities, MRFs, EPR",
+      "Volumes & pricing"
+     ],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  },
+  {
+   "key": "labor_safety",
+   "kind": "topic",
+   "title": "Labor, safety & incidents",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:ca9681813e91912f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "30 Year Old Woman Dead After Being Struck By City Sanitation Truck In Bath Beach",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFJkWTNwOW5tanJWbktNclJpTU9VWXRwTjFpMmtUdTdHME5Rb013VVlRN1NvZmw0Qm5GSEtkNmtGQTFydUNlZHk3YmttNHc4anRvSWp3MUpYb3lKUnE1RG9ockRlVFFjSUpIUkpCV0ZQeVB1WTMweWVpdzFwSENJMFpLcUItRmJFSnl4dUJkSjhIcDhNRHg4R0Z1WVhhalVRRURMQ0ZmWmxNeHZ2TlBz?oc=5",
+     "source": "News12 | Long Island",
+     "published": "2026-10-29T17:14:58+00:00",
+     "published_local": "Oct 29, 1:14 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b9f3702b024c6684",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Lithium-ion battery caused fire in NYC Sanitation truck on Staten Island, says FDNY",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUm81U1N5S1o1ZW1tQ3pKY052RmdxMUNHVXkwd0JDcURsSHItM0c3YjNzcXo2aG9fQjFaUy1SUzdPbkJYUFNKdkFXTHl2MDZ3MU5HbWxiXzE3MW1yN2pSdW0yMjd3Z2RUdHphTHVVRXZra0dsdWYza09HLXNHR2pMQ09zOWpweVVwejZYWjgxYUJqLUxTMHdfTkRnTE5waUlDQllGRFN3UDNsX052ak5mN0N1RzNPYmJ6bFdUYXp5ZlI?oc=5",
+     "source": "SILive.com",
+     "published": "2026-10-29T16:54:00+00:00",
+     "published_local": "Oct 29, 12:54 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:369ee67fe7ed9346",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Lithium-ion batteries cause fire inside Fort Campbell garbage truck",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFpvM1l4UWltZU92VlRYbW1MVmZlcTU0R0h3SVZXU19fSk9lVHdob2RQYjB6ZXh3VFYyQllOV21yaXZZa1JtempFaVVUc0ZIS01hN0Y4MWlJdzNaUFhuSzV6aXNxQmZ6MjVLVVY3OVVFMUVfb1BYbmxlVU03NU5mOWVlSDAxcjlVSDdObW9nVE5SX1dldEhxRDRKZTgyMGxXQnR5WVpoWnZnZnYxQmd2OQ?oc=5",
+     "source": "Christian County Now",
+     "published": "2026-10-29T14:54:10+00:00",
+     "published_local": "Oct 29, 10:54 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:30f20c0c77850603",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Brooklyn woman hit and killed by garbage truck at Bay Parkway, NYPD says",
+     "url": "https://gothamist.com/news/brooklyn-woman-hit-and-killed-by-garbage-truck-at-peak-time-for-traffic-deaths-nypd-says",
+     "source": "Gothamist",
+     "published": "2026-10-29T09:22:00+00:00",
+     "published_local": "Oct 29, 5:22 AM",
+     "summary": "At a time of year when traffic deaths rise due to reduced visibility, 30-year-old Siobhan Lynch was struck and killed just after dusk.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety",
+      "regulation_policy"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents",
+      "Regulation, policy & municipal contracts"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "International Business Times UK on MSN",
+       "url": "https://www.msn.com/en-gb/news/other/30-year-old-woman-struck-and-killed-by-garbage-truck-while-crossing-the-street-in-brooklyn/ar-AA2gjQRD",
+       "headline": "30-year-old woman struck and killed by garbage truck while crossing the street in Brooklyn",
+       "published_local": "Oct 28, 10:12 PM"
+      },
+      {
+       "source": "Patch",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV2lGOGYtVE1rdmRsNTNIUkZJU0dCcFFybUNnQ1E3djRTVFFfeFlHVkpjamZfYWliTU55eWFxLVBRNWJZU1QxWHB2YUxGRXBMbTB3QldzYjZBVWR2ZlpNSnVMZm1CSFhfdXFPRURiZlU2UDN6MUpDbFBPNnY1aUNrVEtUYUFMNTFDX0ZWRVAyYkJyUnZYMUHSAacBQVVfeXFMTklPSk9GalZUNW50R1N5T0Rna3cyTjBxbWNSQ1VmLVJkMF9VSExHR1EyNkY5TXZScnJOUjltZG5WWlRCV196YWtDUkxtU2NOSEs5TlpQckM4WXpibFdGT3VJSTM0eHFFbXlDWnJvTFFjaF9NRWV5V3o4YV8zN0FwR1BDbU85bHJvWGIzckQ5U3FDakp3VGRSUjE0ZTB1MWpvdTZEZm1UMUE?oc=5",
+       "headline": "NYC Sanitation Truck Strikes Woman Crossing Street: NYPD",
+       "published_local": "Oct 29, 12:22 PM"
+      },
+      {
+       "source": "Streetsblog New York City",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2dpM0hPTTlzZVNsbWRhaHdudkxYVGxDQzZ0YWpEUk9YY28wQ0NyalNYbzd6MWljT3pTN0ROaFNkQ21Nd2V1WU44Q2dnYlA3NTVaR3NBZDRFM2xadk1vNXVQOGZ4OVl3NWNOOEJYb2s5RWRTMTlqTzAxTmRHNldKX3MtZzBoc2ZuS0VCMjZHS1A1SlVkZGtpOEd0VDFNS3VKNjdGTHh3cDE0Zno2?oc=5",
+       "headline": "DSNY Truck Driver Kills Pedestrian At Notorious Brooklyn Intersection",
+       "published_local": "Oct 29, 10:57 AM"
+      },
+      {
+       "source": "International Business Times UK",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlpWUV9ueEo4cUtJVEFrcEhkTGR5bVRra3FZNkEyZ1kzM3BqQnJQbkdXNXh0SVVCQ0ZUS2laelJHNmJEaW9zcDA5cDIwMk9yNDVJN2RkM2g0X2RWUUxxY1pJSDRHM3NtaEMtT2V1NElxSmZndTMxUlBoT3JrTlM1QnpmeDI?oc=5",
+       "headline": "30-Year-Old Woman Struck and Killed By Garbage Truck While Crossing The Street In Brooklyn",
+       "published_local": "Oct 29, 5:12 AM"
+      },
+      {
+       "source": "ABC7 New York",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0NRUWFyOWlvOFlOQmhRN09JNTMtVldzZzdsazgwWDh1VjluR2ZfZE1Vd01rVmx1YnNxbUh5aUJfRGFiaFV1a2JmZUtBS1htaG9EanlJZWNnckkzazZVS2EzMGpNWXdxNlFPVFFUQUNYWkdJOXQxYXN2LVlyMlVLUWszZjdNU1R2M3fSAY8BQVVfeXFMTWEyTDNPdzkzTk40c09BUm5zS05FYnlxeUFsVU02clY3dTBIX1VjZzRiU2oyQmRhN2FwTmhzRFhQeEpjN0FfM0JXd1FKSF8tU0RwWEFjVHp1WFlBMVFDNWYwN2F2UmVMYVVNMlJGMGE5bTBEQ2pNZHdqMGVxV3l2Um1yOFM2UGxSVzhWNndSVVE?oc=5",
+       "headline": "DSNY truck kills pedestrian on Bay Parkway in Brooklyn",
+       "published_local": "Oct 28, 10:24 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:695174115e4e6695",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Rochester Garbage Truck Kills Man in Wheelchair, Reviving Sidewalk Safety Fears",
+     "url": "https://hoodline.com/2026/10/rochester-garbage-truck-kills-man-in-wheelchair-reviving-sidewalk-safety-fears/",
+     "source": "Hoodline",
+     "published": "2026-10-29T08:30:00+00:00",
+     "published_local": "Oct 29, 4:30 AM",
+     "summary": "A man in a motorized wheelchair died after a Rochester garbage truck turned into him. His name still hasn't been released.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "The National Desk",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNR3N4N3REYWFidzhIOVFMSzA5QnZyTUVzNmNobjBhcEZoSHVWSURIWFlQeEhPc1prM2hmdzNETExzYzgwZGFkbHdadjNJSTUtenpKNzdFemlObUNLQ3djMzlOTkFwYVRqSmtyVk1iQVRIeEpEYVBRcTFyNVB0U0NGLWVsVHdpMVRmU2hpa0xrWEdQbWVRaG5qOHpRZExGMHo4aFdNV2Y2eXZNdGJuZW53Mnk0dmxFSU41Rll4blN4SDktNV9HSUFoTFpjSFpiMHN1S3c4ckFrcElrb0d6dnFvQ2hKREM4VHZpckhuVzNyWVZBOU9xSlkwV1ZtbTd1NTNod2lIeERRbkM?oc=5",
+       "headline": "Man in wheelchair struck and killed by Rochester garbage truck",
+       "published_local": "Oct 28, 9:13 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:eb54249bae5987bf",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Teamsters to resume Orange County strike as talks continue",
+     "url": "https://www.msn.com/en-us/money/human-resources/teamsters-to-resume-orange-county-strike-as-talks-continue/ar-AA2gimWy",
+     "source": "KFI AM 640 on MSN",
+     "published": "2026-10-29T08:15:00+00:00",
+     "published_local": "Oct 29, 4:15 AM",
+     "summary": "Teamsters representing Orange County waste and public works employees plan to resume their strike Thursday after the county declined to change its latest offer.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4ad3d05f3c0abf80",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Man in wheelchair fatally struck by city-owned garbage truck, police say",
+     "url": "https://www.kgns.tv/2026/10/29/man-wheelchair-fatally-struck-by-city-owned-garbage-truck-police-say/",
+     "source": "KGNS-TV",
+     "published": "2026-10-29T01:03:00+00:00",
+     "published_local": "Oct 28, 9:03 PM",
+     "summary": "A man Tuesday by a city-owned and -operated garbage truck, and police are investigating. Rochester police said they responded around 3:30 p.m.",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "labor_safety"
+     ],
+     "topic_names": [
+      "Labor, safety & incidents"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "CBS7",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3Y3Q0RIaGpRblFfWFZLbi1aYUdnZlVvMDdGY09fQUdqMXBEVER4UWRUdlMtUFU0eWYzQkl4ZWR0MlZzOXZGdmxfbUtVVkFoSXRIY3U4YkRsajNEZmZFMnN4WUlqY2lXRktMZlBrTGdfYk0yMWZfUmp5a0MtbEc5YlItd0lzVnAxUERGS3JvcUFCdmRQQmZuOTZKLTZXLVRXZ1BvRzhTTEJ4X1JoZDV5Q0dqNnFSZ29tTjV6dlRrRULSAcABQVVfeXFMTW92N0NESGhqUW5RX1hWS24tWmFHZ2ZVbzA3RmNPX0FHajFwRFREeFFkVHZTLVBVNHlmM0JJeGVkdDJWczl2RnZsX21LVVZBaEl0SGN1OGJEbGozRGZmRTJzeFlJamNpV0ZLTGZQa0xnX2JNMjFmX1JqeWtDLWxHOWJSLXdJc1ZwMVBERktyb3FBQnZkUEJmbjk2Si02Vy1UV2dQb0c4U0xCeF9SaGQ1eUNHajZxUmdvbU41enZUa0VC?oc=5",
+       "headline": "Man in wheelchair fatally struck by city-owned garbage truck, police say",
+       "published_local": "Oct 29, 4:04 AM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "hazardous_medical",
+   "kind": "topic",
+   "title": "Hazardous, medical & special waste",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:41367beb7f8c217b",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Seasonal yard waste drop-off available for Courtenay residents in November",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlcxWklZcE40TF93WlBreFAtT1hkN0xISS05OEtnNHlRdDh2WDY1aThrSWtIcGhyUlJjZVE2alZ3M2owMVRBTXRyT1dNR3BsYjNpMlV5TUwyYUNncFQ2R0RaSGlEVk9oZF82MVRiclgzdy13dUxLWlJkTkR3dkVfU0phRUsyZjAwTDFfdHNIMy1DeERGZ1pvQ2RGVHJLNGVMc2Y5OGRNOA?oc=5",
+     "source": "City of Courtenay",
+     "published": "2026-10-29T16:08:14+00:00",
+     "published_local": "Oct 29, 12:08 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Mojave Desert News",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUFPbk02M3F6VGl3dDlXOHB1QVJRVFpxQWw5SEJYVW8tRHpNV0FYNmYtZUY4LUl1MHBiLW05Z0hlTDB2LUxmSEFhTkJDWnNBT0VEWk9CUlB1MjJwT3lOdWoyNEM2OTIzdEx5UGJhMTVsUEhrMGpvbUtCUzAtaG1XSTRTY0dOVlV5?oc=5",
+       "headline": "Household Hazardous Waste Collection Events in November",
+       "published_local": "Oct 29, 11:03 AM"
+      }
+     ]
+    },
+    {
+     "id": "t:a79df7dd9eacaef3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Medical waste management in home health: What agencies should consider",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2xUUFppR1FKb01EcE5QZGVBck9hdUdNam5TWTJQbkwxako3Nk5YXzc5N1dCeXNYODA4OEU0R2FrNkdvbFZJZFlYUjFrOHVFdHNUbkxvSkpqZGdPX0s4YXJicGZRR3daSGZwU09iLWpNMkVDSG03djdBaUFmTWpRdE1YajQxUTJoSXlHNVJEcXVMV2gxSGVzVllNMWxhdE5GZm1LS1VmMA?oc=5",
+     "source": "McKnights Home Care",
+     "published": "2026-10-29T07:44:51+00:00",
+     "published_local": "Oct 29, 3:44 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:e0060d16124d48bd",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Minnesota officials surveilled activists urging closure of waste incinerator, emails show",
+     "url": "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails",
+     "source": "The Guardian",
+     "published": "2026-10-29T05:02:00+00:00",
+     "published_local": "Oct 29, 1:02 AM",
+     "summary": "Local officials tried to grow close to activist groups and collected information that was then shared with industry ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ca539390d9b523a0",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "How High CO2 Waste Incineration Will Impact Kanadevia Stock Investors",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjB5bVZMcEJjZWNmZnNXVmVPLVMyVl9LSWhQNlZBYm1YS3JOdGRxN0FFRU1NclFSQTA2alJmT1VkU0NyZ2tCUlZwNVJzY3dtV2FMWFp0SlRNdHR2Z3NoQTlFTzFYRjJhb3hEcmxRQ2o4SEpSYzJpYk5oVmVCemRmTFJyUDBINjdjZ01aTXl5WmpQUWVoVmw4NnZIUGcwUmp0Q2wxVDhDT0lacDB1NlE3a1RzMUJoMGU1VU9KeFBWT2hxMmJxU1pNc2w3Q09yYUxDeHF1cGpYd9IB1wFBVV95cUxQRjB5bVZMcEJjZWNmZnNXVmVPLVMyVl9LSWhQNlZBYm1YS3JOdGRxN0FFRU1NclFSQTA2alJmT1VkU0NyZ2tCUlZwNVJzY3dtV2FMWFp0SlRNdHR2Z3NoQTlFTzFYRjJhb3hEcmxRQ2o4SEpSYzJpYk5oVmVCemRmTFJyUDBINjdjZ01aTXl5WmpQUWVoVmw4NnZIUGcwUmp0Q2wxVDhDT0lacDB1NlE3a1RzMUJoMGU1VU9KeFBWT2hxMmJxU1pNc2w3Q09yYUxDeHF1cGpYdw?oc=5",
+     "source": "Simply Wall St",
+     "published": "2026-10-29T02:29:08+00:00",
+     "published_local": "Oct 28, 10:29 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": true,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:aac00bb50883cbe0",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "New hazardous waste collection facility to open in North Kitsap",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFQ3bE1WYUxJUmdvd21IVVpBczBJaXdGRWxvT0JCTHJrWTMzaTB2TkFZLWl3LU9KSThualFyYkZoR2QzWE1GRS1jaklQSkNKY1hRc2tXU3FCbndJcXczRk9HUjRNakFpRzNMZk9GVU8wU0xpemc3R1BaUUZXaXlIcUh6X19BalVlX0JGdm5CUkRVMWpuMktlYXZtaGE5d2Jxbm1TUkhldVVaTTNHQXhhZ1VLLXJ5UFBnZWwzTnhLUVVmUjlCdWVV?oc=5",
+     "source": "Kitsap Sun",
+     "published": "2026-10-28T23:27:00+00:00",
+     "published_local": "Oct 28, 7:27 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:1d82af47ee0966b5",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Don't Close The Dickerson Incinerator",
+     "url": "https://www.themarylandwire.com/p/dont-close-the-dickerson-incinerator",
+     "source": "themarylandwire.com",
+     "published": "2026-10-28T20:01:00+00:00",
+     "published_local": "Oct 28, 4:01 PM",
+     "summary": "The Montgomery County Council votes, tentatively, on November 10, on two resolutions that point in opposite directions: refurbish the Dickerson incinerator and keep it running, or close it and haul ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [
+      "hazardous_medical"
+     ],
+     "topic_names": [
+      "Hazardous, medical & special waste"
+     ],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": [
+      {
+       "source": "The Maryland Wire",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QUzJ5a0ZRa1dTckY3ZVdOZTJ6cThGYVIyMkxaN1JwOGRNWFhXcXVidDc1cXZyOFJTdmN1Vk05QVRKT0N5eFlGSnlsa20tSTBUemRmS2RFcE5felR6RGljSDQ1a2IzNWJYdkxUXzdTbjFsR2hDVldPZVBR?oc=5",
+       "headline": "Don't Close The Dickerson Incinerator",
+       "published_local": "Oct 29, 6:01 AM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "other",
+   "kind": "topic",
+   "title": "Other industry news",
+   "group": "Industry",
+   "items": [
+    {
+     "id": "t:c6c2ae9e0bf90584",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Bringing Visibility and Cost Control to Multifamily Waste: Anchor Utility Launches Anchor Waste",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdEZKbVQySE5IOVVkdExpbTlzQUZ4RFlhT1RSOW5CenU3ZnAzOWlRY2xMa1RCdDBZUjVBaDZJRy1aaldIQzYtbktIRThUZGxPODV0bUNkazBzUmUxRjJrSk1XUnJzamFmNDlHM1JIdFlEODhHVnlwaUl6ZzRjaXgybXd4LWE0WGFpcm5OWkRWYkZwbzlJNVNkdFQ2YlhBc0pPd3pEeXFNclY1U09uVWlISFhCS1ZqSUtFY1J0YkJIX0wxSzduZnZ6cFZEV1ZZbHhRUmwyZmQ0alc?oc=5",
+     "source": "EIN Presswire",
+     "published": "2026-10-29T17:30:00+00:00",
+     "published_local": "Oct 29, 1:30 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:1d91db1d49b4da6f",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Pentakomo waste facility still plagued by problems despite drop in foul odours",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFA5QVdaeHA3SFFZVkUyNjFNVGcxZHBGT2p1Nnd4bGdfT3kwSC0yTzhkWWRkREtRakZyelBGbnFlVFRnUUVVb1pSRXpac2tNemlXcmVVdmNoRV9vWTNKYVQ3VjlPSmR3WUFzU2tSTUxHUnpSbDFEbEdiQUQ2S2VCZm1QYl9KZ1h3UmNmd3QyeEtXckU0SzZHXzVvaHB4S0NEeE5xWl9FVm85N05xUG4tTDFoU3c3b3lWYmNV?oc=5",
+     "source": "Knews, Kathimerini",
+     "published": "2026-10-29T14:47:00+00:00",
+     "published_local": "Oct 29, 10:47 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:631142c87e6efbae",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Bay Area Trash Compactor Helps Cali Restaurants Cut Waste Costs While Supporting Organics Diversion",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnBveThxVTFOTUFoNHVhanBpSHZPdXozUC1xQkxKWWRpM3d0WGd0YV9NYnlXNVA4M3dmM19UUnQtMmFZNUhiWkotTTdPZ0ZQX1U1TG9RSy02ekJkbVRuVGpIcHpGOFBxWHQ3c1c0cktzeUFZcEQtVkhGSkpsUTUzYXhfTmhaOWg5aUhINDlLUnh3MmcyOENwckV3b0VsOUZTbjhINi1XTDQwM3BHTTZFS0hyaXpxaFF4YWM4QmcyaTZ2ZVp1WG1nb0FPd3g?oc=5",
+     "source": "PR Underground",
+     "published": "2026-10-29T14:19:21+00:00",
+     "published_local": "Oct 29, 10:19 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:5a0193d838028c57",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "BioCycle Webinar: Getting the Water Balance Right at Compost Facilities",
+     "url": "https://www.biocycle.net/ecs-compost-facility-water-management-webinar/?utm_source=rss&utm_medium=rss&utm_campaign=ecs-compost-facility-water-management-webinar",
+     "source": "BioCycle",
+     "published": "2026-10-29T14:12:14+00:00",
+     "published_local": "Oct 29, 10:12 AM",
+     "summary": "Feedstock moisture can swing a compost site\u2019s water balance by 1.8 million gallons. Join BioCycle and ECS for a free 30-minute webinar on managing site water.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:c2008502566d2d94",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Experts pinpoint circular economy, agritech, and mobility as Africa\u2019s next climate tech growth frontiers",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS1BcFJUT0JoMk1NVFZSczRiQ3BDM1JSaDNnRC1TcHNSeVJaUkdhY2FTYnZMS2puUG1TYkp1ZFRQY1ZPNjlKN1JvejBkb3VlNmM0NGgxTG1aMm9tRWMyaTItSmg2dDRzSmQ2RHFvcUN2SDM5V1ZLd2RBWlVBQmpRLWFpd1RxMlVVQU9pN1Ruc3pCdi1BdGJiSmlhOURhaXk3YzV4Ml9ZMEl3QXlROHc3OEtmWjFSaXlHclMxLVZGX3hzQldFY1lxNEZxNHVHWXM5eTRpQtIB2gFBVV95cUxQb25zUUhxaVA2c09acVlJSVBCS2VaLTFPMzdTT0JVYjBKaGgwRFZMMXZNTEt6OGFJS1dZOGNHYUNpLXNjbmhNSTdfa0piM1hxNEhDRkJpX3I3LVBuV25fd0VrUmtsdGVfMHpCUDlqWFEySlRJMzRrWG9jTHd5M0VDQzZxTlpYQ2h6Sk40OTkyNXA4MW9CaEhKRms1SUV4RnRsQkE5YXlQU29YLUhzaERXQW9ZUFltd2xCWkp1Q1REVFViUFM1aXVfaFlLX1M1Nmplbk1wXzZvd19PUQ?oc=5",
+     "source": "Businessday NG",
+     "published": "2026-10-29T10:56:50+00:00",
+     "published_local": "Oct 29, 6:56 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:c81773afc9109dc3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Even Experienced Drivers Make This Gas Mileage Mistake \u2014 Here\u2019s What to Avoid",
+     "url": "https://www.aol.com/articles/even-experienced-drivers-gas-mileage-154015000.html",
+     "source": "AOL",
+     "published": "2026-10-29T08:40:00+00:00",
+     "published_local": "Oct 29, 4:40 AM",
+     "summary": "A driver can navigate rush-hour traffic, parallel park on a crowded street, and change a flat tire without breaking a sweat, then waste money at the gas pump without realizing it. One surprisingly ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:7ddaa62b6d408ce7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Garbage truck rolls onto mechanic repairing it in Kableshkovo",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmFxY0MtRHJ1YlNBbU9XQ193LVY2bnNsUUFORGZTYjBWOWpfOWdVbEZIRDJVa01QdDBKczlMOXVkTnRVZ0h5cDlHT2QzS0RtVG9pUk5EN0NMb0ZRU0F3RHNHZnlPa0Zmd2hIcE1TOU45cV8weEFXdnRObWRSQTB6QmVmMzVGLXRsY0xqMW5ybTZCQTlCcG1tZm9zaUd1cWw0ZHJSMnBn0gGrAUFVX3lxTE9wc2gyUC12Mm9uczkwanlyd1lpWDNLSk50WWhjRzUxRy1OckxaOW11dDROY1BjaUpUT2J6Ymx2MVRhbG5ieGMxcWRUM3ViMHJNM2REVm1rbnZod2xIQThwZTUtWDZicFVuVnFqTl9hWEJoLXd1b0IxaHhSekk3eEpNTmgtZnp2UXg4Q3pRT2JzYlZKSGNTb1FjSVhQVFNHTlozVFF6a1R2YjNuaw?oc=5",
+     "source": "BurgasMedia",
+     "published": "2026-10-29T07:48:19+00:00",
+     "published_local": "Oct 29, 3:48 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b14134adaf44e4c8",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Heavy duty jaw crusher processing demolition waste",
+     "url": "https://www.msn.com/en-us/technology/hardware-and-devices/heavy-duty-jaw-crusher-processing-demolition-waste/vi-AA2gkTEC",
+     "source": "Awesome Earthmovers on MSN",
+     "published": "2026-10-29T07:01:01+00:00",
+     "published_local": "Oct 29, 3:01 AM",
+     "summary": "A compact tracked mobile crusher processes rocks, concrete rubble, and construction debris at an outdoor material processing site. The machine features a large feed hopper, a heavy-duty crushing ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:6cdca8bf4dbcd1dc",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "APAC Global Food Tech Awards 2026 spotlights food waste, compliance and functional foods",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWE2OWhNMFpCRjI1VnpJaWNkRlVqbVNZS010SkFVUXNtanpwTGZGUkh0WXlNUnhFQ1MwU2V0WE9oOGFtZTNpcjNFaW0yRVJCamh6dUllbEVmb1ZSbkJadHNIRFhrcnRnZjNzUWNZaDBIMGNTMjE3YkhKRVNIbmNzb2RCNTVkWWxQMzVCMXlvOTVMSzI1X21YcHFwek4yM2ltQkxnWGpIcEd3UFF3RHlCNmpwVGZKbFRXcnpfY0VoRFY5cWRmMVhPMUxWWFpDUnkwUmZj?oc=5",
+     "source": "FoodNavigator.com",
+     "published": "2026-10-29T06:45:23+00:00",
+     "published_local": "Oct 29, 2:45 AM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:b1073def5d27ab83",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Bailey International\u2019s Electronics Division Opens New Headquarters",
+     "url": "https://wasteadvantagemag.com/bailey-internationals-electronics-division-opens-new-headquarters/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T05:10:11+00:00",
+     "published_local": "Oct 29, 1:10 AM",
+     "summary": "Bailey International celebrated the grand opening of Bailey Electronics\u2019 new Victoria headquarters on October 8. The more than 30,000-square-foot facility brings the electronics division together in one location, strengthening collaboration [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:4321f4f7d15fab3c",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Public Food Compost Bins Launching in Somerville, MA",
+     "url": "https://wasteadvantagemag.com/public-food-compost-bins-launching-in-somerville-ma/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T05:00:49+00:00",
+     "published_local": "Oct 29, 1:00 AM",
+     "summary": "The City of Somerville is making it easier for residents to compost their food scraps with 10 new food waste drop-off bins across the city. The bins have been installed citywide [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:da831bacd8b6362a",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Planning for Disruption: Using Scenario Modeling to Build Resiliency in Waste Management Systems",
+     "url": "https://wasteadvantagemag.com/planning-for-disruption-using-scenario-modeling-to-build-resiliency-in-waste-management-systems/",
+     "source": "Waste Advantage",
+     "published": "2026-10-29T04:42:09+00:00",
+     "published_local": "Oct 29, 12:42 AM",
+     "summary": "Blair Shoniker and Elizabeth Duguay Waste management systems are no longer operating in stable or predictable conditions. Across Canada, the U.S. and other jurisdictions, waste system operators, planners and regulators [\u2026]",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:82e2ae4e8e83114e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "ESGold Advances Historic Mine Waste Reclamation With MOU for Up to 300,000 Tonnes of Aggregate Annually",
+     "url": "https://finance.yahoo.com/energy/articles/esgold-advances-historic-mine-waste-113500840.html",
+     "source": "Yahoo Finance",
+     "published": "2026-10-29T04:35:00+00:00",
+     "published_local": "Oct 29, 12:35 AM",
+     "summary": "VANCOUVER, BC / ACCESS Newswire / / . (CSE:ESAU)(OTCQB:ESAUF)(FSE:Z7D) (\"ESGold\" or the \"Company\") is pleased to announce that it has signed a Memorandum of Understanding (\"MOU\") with Culture H.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": true,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:5b9f32bd2d86288e",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Taylorville dump fined $104,000 over illegal toxic waste",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWpwYzVTYmllbW9IWmtxb3JzVjFLX1ROSkdwTV9Ib2o2WG5OdlVjbTNMQlZ0RDYtOWdCaDdoVThkZnl5T0hMRUlBY2YwMkZ4MlNUMzk4bEsyQjlybklRbmJ0S3lfTjR5bEhST19XS0NrUm9EcXlZSU5Nci1qeTR4dGtNNVBmbkJZdWc?oc=5",
+     "source": "B2B News",
+     "published": "2026-10-29T03:26:57+00:00",
+     "published_local": "Oct 28, 11:26 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:86af8da5708c2eb7",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Opinion: Protect public land from Simplot\u2019s toxic waste dump expansion",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVlVfNElUTmVQWjJpOHYya1hXQTdTZDRpYndFM252MzdiRWNWMWpEeHdvdzRsV2dqcEdfeVZ5UWRYNWpLX3lDNFpFTmZfS1VWZTlvN29VeElzQ1ZsLXFqWlZUVVVvSzlqSDFQdVp2aVZCOW1nRUVrNkRkTU1kejlQRE5nWTJ4aFNieF9uVmVUSDg3MmdKRnZHTDY4VnpzMVlKaXJoVHN3Vk95dEQ4M0pZRjdRZ1ZJR2tSczZnWjgycE92YkZEb0hvMmNKcmFLWWNmRVRmQVhJbDZxZXdCdTZUSGNhSzNadEM5NkhFWUNRTWVOMkpZaEdMcE5LcVg4Zw?oc=5",
+     "source": "Post Register",
+     "published": "2026-10-29T02:47:11+00:00",
+     "published_local": "Oct 28, 10:47 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:6640f809e4a90d3b",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Greensboro Says RSVP For Bulk Trash And Take Batteries To Patterson Street",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2hVcEtMNnAyWUV3SHlaN1hRZTR6c0M0RUEzYjhFRzJrVHJUUDdWZXlQdVJpeGpETnJwUE5tYkg5QlUzLWdRMWR0aDBFTmRvVjJLOEJ4UDdUckVQbkd0TlRmamsxektjbFlDVVB4NGlwN0trdzFmMDNwMEo0SXNib3RuN2VlNDM4X2NPaU1pQlRXYjdxaG5SQnhkU0hua1ZaREh4M1VmNzB3RHc?oc=5",
+     "source": "The Rhino Times of Greensboro",
+     "published": "2026-10-29T02:46:58+00:00",
+     "published_local": "Oct 28, 10:46 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:56f47f71c39e7b18",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "How Six Companies Profitably Use Residual Materials",
+     "url": "https://www.all-about-industries.com/how-six-companies-profitably-use-residual-materials-a-2bcd3fefbeed03b4dd819acfff59f04a/",
+     "source": "All-About-Industries",
+     "published": "2026-10-29T02:42:00+00:00",
+     "published_local": "Oct 28, 10:42 PM",
+     "summary": "Waste is turned into valuable raw materials. Modern briquetting systems reduce disposal costs and protect the environment.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:efd4a9d2ba3077cb",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Smurfit Westrock profits narrow in Q3",
+     "url": "https://www.wastetodaymagazine.com/smurfit-westrock-containerboard-packaging-profits-narrower-q3-2026-energy-inflation",
+     "source": "Waste Today",
+     "published": "2026-10-29T02:19:00+00:00",
+     "published_local": "Oct 28, 10:19 PM",
+     "summary": "The containerboard and packaging producer says its North American business enjoyed a profit margin higher than it experienced in other parts of the world.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": [
+      {
+       "source": "Recycling Today",
+       "url": "https://www.recyclingtoday.com/smurfit-westrock-containerboard-packaging-profits-narrower-q3-2026-energy-inflation",
+       "headline": "Smurfit Westrock profits narrow in Q3",
+       "published_local": "Oct 28, 10:19 PM"
+      }
+     ]
+    },
+    {
+     "id": "t:5e8021a11d26aacb",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "ITAD veteran writes book on best practices",
+     "url": "https://www.recyclingtoday.com/steven-napoli-terra-itad-used-electronics-recycling-reuse-book-advice",
+     "source": "Recycling Today",
+     "published": "2026-10-28T23:31:00+00:00",
+     "published_local": "Oct 28, 7:31 PM",
+     "summary": "A book by Steven Napoli, founder of TERRA and Done With IT, will provide advice on what business decision makers should know about the IT asset disposition (ITAD) process.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:2b61642c18b4c1ab",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Hydro breaks ground on Pennsylvania project",
+     "url": "https://www.recyclingtoday.com/hydro-cressona-pennsylvania-aluminum-recycling-extrusion-press-investment",
+     "source": "Recycling Today",
+     "published": "2026-10-28T21:52:00+00:00",
+     "published_local": "Oct 28, 5:52 PM",
+     "summary": "The aluminum producer is investing more than $50 million to install a new extrusion press in Cressona, Pennsylvania.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Trade feed",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:80f2646bbd053cf9",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Tossed too soon? Keeping good food out of the trash",
+     "url": "https://thenewshouse.com/off-campus/tossed-too-soon-keeping-good-food-out-of-the-trash/",
+     "source": "thenewshouse",
+     "published": "2026-10-28T21:01:00+00:00",
+     "published_local": "Oct 28, 5:01 PM",
+     "summary": "Homes aren\u2019t the only source of food waste. The Onondaga Food Rescue Network works with larger suppliers, like farms with extra produce at immediate risk of being tossed, by diverting surpluses to ...",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:0ae093bb096f86cf",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Longmont council backs composting subsidy, holds line on metro districts",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmdVaGJ0dzlKcng1WV9qUGVDZldEMzlpRGFaODZOTFVVMXdTSFFVOHVyMGthczFVSTJMREszT3F1X2N1Tm1NUFFDanluVEVhNnBBMEdHaFNHd0JGdm9XM3k2bXR4M05LcHRmRFY5eGY0TDRkUkpURkRvLWdZQ0ZLRnNFVFhlRlZ5Znpsc2Rxcy1wQVptc2U0WE9yUzlKb2hYRml0MzdpMUFBUFl3RV9WWA?oc=5",
+     "source": "Daily Camera",
+     "published": "2026-10-28T20:55:02+00:00",
+     "published_local": "Oct 28, 4:55 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:ec3ce16aed74a174",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Refill packaging: making the system work at scale",
+     "url": "https://www.msn.com/en-us/news/other/refill-packaging-making-the-system-work-at-scale/ar-AA2gk6ff",
+     "source": "Packaging Gateway on MSN",
+     "published": "2026-10-28T20:51:59+00:00",
+     "published_local": "Oct 28, 4:51 PM",
+     "summary": "Refill packaging can cut waste, but scaling up requires safe design, efficient logistics and a commercially viable reuse system.",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Bing News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:121f9496abbe5f39",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Founder of Black-Owned Energy Company is Now Converting Organic Waste into Diesel Fuel, Electricity, and More",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDZXd2d0RGxJelZoM3JQVGdmNXphNkV0Q0Z1NF81bF9ZMzZBZ3NxNF9ZalhiRzRDQ1NRNVlfVzdKaldhMDhUSVRnZndUMEZHQmR5VmpBQUtHSjdldkN1eW5TdEQ0dUxDQUR5OE5LN0tXV0VkcGtGb0ZBbmw2dHN0MGR0U2cwRnJZV2xSWFFYSDMwdklDMmhPSlktUFFON0dJME1OcllJTU45ZGNleHVjRm5JbXpseG11SWE3bi1Ub3FyeGo0N0xNSkRB0gHPAUFVX3lxTE1yMVYxNnRhZFVtS2NISUZOdVMwc2hobWlRT0h0T1dlUjVCaEFudFMtOFdKenhOeXJUc3VMY3dCUXVxc3d2MkpLZmJPZXNOclJUdTkwUkxsQkhqcE9zWjlSb2dvdDdmWGt0MnNuUzM4SWJQOVBIYXQ5aERsMnVhdDlFQ0hqZEFtc2J4VlVoX3E3QTRGb0pIU0dPNk4wRi1FM2V4V09Bbm1pUkJkX05IaDJ6cW5jTjdvbUZsM01hQlkxNWNrZldETFJ2TGIyUEhHTQ?oc=5",
+     "source": "BlackNews.com",
+     "published": "2026-10-28T20:41:48+00:00",
+     "published_local": "Oct 28, 4:41 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    },
+    {
+     "id": "t:527ba6b289462ab3",
+     "is_new": true,
+     "first_seen": null,
+     "headline": "Don\u2019t trash it, smash it: Give your Halloween pumpkin a second life",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVJ5YUVBYi1jN2tKSFNRa0h0VUJ5bGVMS2poTTBJaEFTNURnbUJqbGhVdTlYQnZSMW5uNjk1YXFuQUFDbEt1MzYwd0tUa1ZSNVdrbDlCR3JTRXJGejFIcG04ZU9veFZCX3BTT3NzdWFZeldWTmVBRl9aenVfdmZEOEczZ29PVGl2b2tYLUtzTzJfOFZLbEpYb0lBQl8wemRaajlJcVdaNkp4R0R4UE5B?oc=5",
+     "source": "WRAL",
+     "published": "2026-10-28T20:18:49+00:00",
+     "published_local": "Oct 28, 4:18 PM",
+     "summary": "",
+     "companies": [],
+     "company_names": [],
+     "topics": [],
+     "topic_names": [],
+     "chatter": false,
+     "origin": "Google News",
+     "kind": "news",
+     "others": []
+    }
+   ]
+  }
+ ]
+}

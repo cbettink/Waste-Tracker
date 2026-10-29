@@ -1,0 +1,325 @@
+# =====================================================================
+#  WASTE NEWS DIGEST - SETTINGS
+#  This is the only file you need to change. Ask Claude to edit it, e.g.
+#  "add Waste Harmonics as a private company" or "add a topic for PFAS".
+#
+#  Keyword rules (used for companies and topics):
+#   - Keywords are case-insensitive:  "landfill" matches "Landfill".
+#   - SHORT ALL-CAPS keywords (6 chars or fewer, e.g. WM, GFL, AI, PET, OCC)
+#     only match in capitals, so "PET" does not match "pet food".
+#   - A trailing * matches any ending:  "recycl*" = recycle, recycling, recycled.
+#  "search" lines are the queries sent to Google News / Bing News.
+# =====================================================================
+
+settings:
+  timezone: America/New_York
+  default_hours: 24        # lookback when you don't say one
+  monday_hours: 72         # Monday runs cover the weekend
+  history_days: 120        # how long to remember stories already shown
+  # SEC asks automated tools to identify themselves. Optionally replace
+  # with "Your Name your@email.com".
+  sec_user_agent: "WasteNewsDigest research tool"
+  # Stories from Google/Bing and general-business feeds must name a tracked
+  # company or contain one of these words, otherwise they are dropped
+  # (Waste Dive, Waste360 etc. are always kept)
+  relevance_keywords: [waste, trash, garbage, landfill*, recycl*, hauler*, hauling, MRF, MRFs, compost*, scrap,
+                       sanitation, refuse, leachate, "landfill gas", "renewable natural gas", RNG, biogas,
+                       "extended producer responsibility", EPR, "recovered fiber", "old corrugated", "C&D",
+                       "construction and demolition", "circular economy", "post-consumer", "recycled content",
+                       DSNY, dumpster*, "transfer station", "yard waste", "bulk pickup", "e-waste", incinerat*,
+                       "waste-to-energy", "materials recovery", "bottle bill", curbside]
+  # Headlines containing any of these words/phrases are dropped as noise
+  # (auto-generated stock-holding pages, and places outside North America).
+  noise_headlines: ["stock forecast", "stock underperforms", "stock outperforms", "stock price today",
+                    "shares sold by", "shares bought by", "buys shares", "sells shares", "purchases shares",
+                    "acquires shares", "acquires new stake", "new position in", "position in waste",
+                    "boosts stake", "raises stake", "lifts stake", "trims stake", "cuts stake", "lowers stake",
+                    "reduces stake", "increases stake", "holdings in", "short interest", "stock quote",
+                    "shares gap", "stock rating", "upgraded at", "downgraded at", "whale activity",
+                    "options activity", "unusual options",
+                    India, Bengaluru, Bangalore, Mumbai, Delhi, Chennai, Hyderabad, Kolkata, Pune,
+                    Karnataka, Kerala, Pakistan, Karachi, Lahore, Bangladesh, Dhaka, "Sri Lanka", Nepal,
+                    Nigeria, Lagos, Kenya, Nairobi, Ghana, "South Africa", Philippines, Manila, Cebu, Vietnam,
+                    Malaysia, Indonesia, Jakarta, Thailand, Bangkok, Singapore, Dubai, UAE, "Saudi", Qatar,
+                    Chandigarh, Punjab, Gujarat, Maharashtra, "Tamil Nadu", Johannesburg, Joburg, Cyprus,
+                    Gambia, "fly-tipping", "fly-tippers", "Pvt Ltd", Malaysian, Selangor, Penang, Goa, Jabalpur,
+                    Ajmer, Pimpri, Kumasi, Durban, Uzbekistan, Tbilisi, Mykolaiv, Ukraine, Trinidad, Tokyo, Japan,
+                    China, Chinese, Australia*, NSW, Wagga, "New Zealand", Fiji, British,
+                    Scotland, Scottish, Wales, Welsh, UK, Leeds, Yorkshire, "Hampshire County Council",
+                    Coventry, Ireland, Irish, Garda, Kerbside, Defra, Italy, Italian, France, Germany,
+                    Spain, Netherlands, Denmark, Sweden, Norway, Poland, EU, Europe*, Brazil]
+  # (avoid names that are also US places: England -> New England, Hampshire -> New Hampshire,
+  #  Mexico -> New Mexico, Britain -> New Britain CT, Manchester NH, London KY)
+  # Outlets to ignore entirely
+  exclude_sources: ["The Times of India", "The Hindu", "Hindustan Times", "Menafn", "MENAFN", "Vietnam.vn",
+                    "SunStar Publishing Inc.", "The Nation Newspaper", "Tech Build Africa",
+                    "MarketBeat", "Cryptopolitan", "Daily The Patriot", "teleSUR English", "Pune Mirror",
+                    "Philenews", "Knews, Kathimerini Cyprus English Edition", BBC, "The Mirror",
+                    "Scottish Daily Express", "Yorkshire Evening Post", "letsrecycle.com", "Circular Online",
+                    "Packaging Scotland", "Malay Mail", "Bhaskar English", "The New Indian Express", "Punekar News",
+                    "The Logical Indian", "Japan Today", "Kun.uz", "Il Sole 24 ORE", "EUWID Recycling and Waste Management",
+                    "Mirage News", "NSW Government", "TimesLIVE", "The Business Standard", "ZAWYA", "FBC News",
+                    "Caerphilly Observer", "Andover Advertiser", "Bitterne Park Info", "eastlondontimes",
+                    "Devdiscourse", "Jagran Josh", "Business Today", "BusinessToday Malaysia", "Ghanaian Times",
+                    "NikVesti", "BM.GE", "L'Unione Sarda", "The Star", "CoinCentral", "TOKENPOST", "OneSafe.io",
+                    "BigGo Finance", "Stock Traders Daily", "LatinAmerican Post", "Noticias Ambientales", "MyJoyOnline", "Moneycontrol",
+                    "Investing.com Italia", "Investing.com Nigeria", "Urban Acres", "The Cool Down"]
+  # Stock-site rewrites and analyst notes: shown in a collapsed "Stock & analyst
+  # chatter" drawer under each company instead of the main list.
+  # Outlet names match from the start, so "Investing.com" also covers "Investing.com UK".
+  chatter_sources: [GuruFocus, TradingView, scanx.trade, "Quiver Quantitative", TipRanks, "Stock Titan",
+                    Pluang, MarketScreener, marketscreener.com, www.marketscreener.com, StreetInsider,
+                    "24/7 Wall St.", "AD HOC NEWS", "Ad Hoc News", "Yahoo Finance", Zacks,
+                    "Zacks Investment Research on MSN", "The Motley Fool", "The Motley Fool on MSN",
+                    "Seeking Alpha", "Simply Wall St", "StreetInsider.com", www.siam.in, "Investing.com", "Investing.com UK", "Insider Monkey",
+                    "Nasdaq", "MarketWatch", Benzinga, "Finviz", "Defense World", "ETF Daily News"]
+  chatter_headlines: ["price target", "stock forecast*", "earnings estimate*", "EPS", "consensus",
+                      "undervalued", "overvalued", "shares rise", "shares fall", "stock rises", "stock falls",
+                      "stock down", "stock up", "SWOT", "earnings call transcript", "earnings flash", "BRIEF-",
+                      "reiterates", "rating on", "dealer positioning", "Class A", "shares pull back",
+                      "stock analysis", "dividend", "short interest"]
+  # ...but a stock-site story whose headline has one of these words is real news, not chatter
+  hard_news_words: [Teamsters, union, strike, lawsuit, sue*, settle*, acquire*, acquisition, merger, divest*,
+                    "take-private", buyout, landfill*, contract, permit, EPA, fine*, penalty, investigation,
+                    CEO, CFO, resign*, appoint*, recall, fire, explosion, killed, plant, facility, opens, closes]
+
+# ---------------------------------------------------------------------
+# COMPANIES  (group: core / peer / private - controls report order)
+#   aliases:  names, brands and subsidiaries that tag a story to the company
+#             (matched with the capitalization you write, so "Waste Management"
+#             does not match the everyday phrase "waste management")
+#   exclude:  phrases to ignore (e.g. generic "Solid Waste Management")
+#   sec_cik / sec_forms: SEC filings to pull (public companies only)
+# ---------------------------------------------------------------------
+companies:
+  - key: WM
+    name: Waste Management (WM)
+    group: core
+    sec_cik: 823768
+    sec_forms: [8-K, 10-K, 10-Q, "425", S-4]
+    aliases: ["Waste Management", "WM", "WM Renewable Energy", "WM Healthcare Solutions",
+              "WM Recycle America", "WM Phoenix Open"]
+    exclude: ["Solid Waste Management", "Waste Management District", "Waste Management Authority",
+              "Waste Management Department", "Department of Waste Management", "Waste Management Division",
+              "Office of Waste Management", "Integrated Waste Management", "Waste Management Plan",
+              "Waste Management Agency", "Waste Management Board", "Waste Management Commission",
+              "Waste Management Services District", "Bureau of Waste Management", "Waste Management Program",
+              "Waste Management Facility", "Waste Management Association", "Hazardous Waste Management",
+              "Waste Management Center", "Waste Management Unit", "Waste Management Fee",
+              "Waste Management System", "Waste Management Systems", "Waste Management Solutions",
+              "Waste Management Strategy", "Waste Management Strategies", "Waste Management Practices",
+              "Waste Management Industry", "Waste Management Market", "Waste Management Sector",
+              "Waste Management Services Market", "Waste Management Week", "Waste Management Conference",
+              "Waste Management Act", "Waste Management Policy", "Waste Management Rules",
+              "Waste Management Limited", "Waste Management Ltd", "Waste Management Pvt", "Waste Management Co. Ltd"]
+    search: ['"Waste Management Inc" OR "WM Renewable Energy" OR "WM Healthcare Solutions"',
+             '"Waste Management" (WM OR NYSE) landfill OR hauler OR recycling',
+             '"WM" "Waste Management" contract OR acquisition OR earnings']
+
+  - key: RSG
+    name: Republic Services (RSG)
+    group: core
+    sec_cik: 1060391
+    sec_forms: [8-K, 10-K, 10-Q, "425", S-4]
+    aliases: ["Republic Services", "Republic Polymer Center", "Polymer Center", "Republic's Polymer",
+              "US Ecology", "Blue Polymers", "Republic Services Renewable Energy", "RSG"]
+    exclude: []
+    search: ['"Republic Services"', '"US Ecology" OR "Polymer Center" Republic']
+
+  - key: WCN
+    name: Waste Connections (WCN)
+    group: core
+    sec_cik: 1318220
+    sec_forms: [8-K, 10-K, 10-Q, "425", S-4]
+    aliases: ["Waste Connections", "Chiquita Canyon", "R360 Environmental", "WCN"]
+    exclude: []
+    search: ['"Waste Connections"', '"Chiquita Canyon"']
+
+  - key: CWST
+    name: Casella Waste Systems (CWST)
+    group: peer
+    sec_cik: 911177
+    sec_forms: [8-K, 10-K, 10-Q]
+    aliases: ["Casella", "CWST"]
+    exclude: []
+    search: ['"Casella Waste" OR "Casella Resource"', 'Casella landfill OR recycling OR hauling']
+
+  - key: GFL
+    name: GFL Environmental (GFL)
+    group: peer
+    sec_cik: 1780232
+    sec_forms: [6-K, 40-F, SC TO-T, SC 13E3]   # foreign filer: no 8-Ks
+    aliases: ["GFL Environmental", "GFL", "GFL Infrastructure", "Green For Life Environmental"]
+    exclude: []
+    search: ['"GFL Environmental"', 'GFL landfill OR hauler OR "take-private"']
+
+  - key: CLH
+    name: Clean Harbors (CLH)
+    group: peer
+    sec_cik: 822818
+    sec_forms: [8-K, 10-K, 10-Q]
+    aliases: ["Clean Harbors", "Safety-Kleen", "HydroChemPSC", "CLH"]
+    exclude: []
+    search: ['"Clean Harbors" OR "Safety-Kleen"']
+
+  - key: SRCL
+    name: Stericycle (part of WM since Nov 2024)
+    group: peer
+    aliases: ["Stericycle", "Shred-it"]
+    exclude: []
+    search: ['Stericycle OR "Shred-it"']
+
+  - key: WIN
+    name: WIN Waste Innovations
+    group: private
+    aliases: ["WIN Waste", "WIN Waste Innovations", "Wheelabrator"]
+    exclude: []
+    search: ['"WIN Waste Innovations" OR "WIN Waste" OR Wheelabrator']
+
+  - key: RUMPKE
+    name: Rumpke
+    group: private
+    aliases: ["Rumpke"]
+    exclude: []
+    search: ['Rumpke']
+
+  - key: WASTEPRO
+    name: Waste Pro
+    group: private
+    aliases: ["Waste Pro USA", "Waste Pro"]
+    exclude: []
+    search: ['"Waste Pro"']
+
+  - key: MERIDIAN
+    name: Meridian Waste Solutions
+    group: private
+    aliases: ["Meridian Waste", "Meridian Waste Solutions"]
+    exclude: []
+    search: ['"Meridian Waste"']
+
+# ---------------------------------------------------------------------
+# INDUSTRY TOPICS  (report shows them in this order)
+#   keywords: words that tag a story to the topic
+#   search:   Google/Bing News queries that hunt for these stories,
+#             including local outlets
+# ---------------------------------------------------------------------
+topics:
+  - key: landfills
+    name: "Landfills: litigation, permits, enforcement"
+    keywords: [landfill*, leachate, "dump site", odor, odors, odour, "notice of violation", "consent decree",
+               "transfer station", "cell expansion", "solid waste permit", "Chiquita Canyon"]
+    search: ['landfill lawsuit', 'landfill expansion', 'landfill permit', 'landfill closure OR closing',
+             'landfill odor OR smell complaints', 'landfill leachate OR PFAS', 'landfill fine OR violation OR enforcement',
+             'landfill fire', '"transfer station" permit OR proposal', 'new landfill proposed']
+
+  - key: recycling
+    name: "Recycling: commodities, MRFs, EPR"
+    keywords: [recycl*, MRF, MRFs, "materials recovery", OCC, "old corrugated", "extended producer responsibility",
+               EPR, contamination, "single-stream", PET, HDPE, "aluminum can*", "bottle bill", "recovered fiber",
+               "recycled content", "curbside"]
+    search: ['"materials recovery facility"', 'recycling facility opens OR closes OR closure',
+             '"extended producer responsibility" packaging', 'OCC OR "old corrugated containers" prices',
+             'recycled PET OR rPET prices', 'recycling contamination', '"bottle bill"', 'curbside recycling program ends OR cuts']
+
+  - key: renewable_energy
+    name: "Renewable energy: RNG, landfill gas, RINs"
+    keywords: ["renewable natural gas", RNG, "landfill gas", biogas, RIN, RINs, "D3 RIN*", "45Z", "renewable fuel standard",
+               RFS, "gas-to-energy", "waste-to-energy", "anaerobic digest*", "biomethane", "renewable energy"]
+    search: ['"landfill gas" project', '"renewable natural gas" landfill', 'RIN prices D3 OR cellulosic',
+             '"renewable fuel standard" EPA', '"waste-to-energy"', 'anaerobic digester food waste']
+
+  - key: volumes_pricing
+    name: "Volumes & pricing"
+    keywords: [volume*, "special waste", "C&D", "construction and demolition", "price increase*", "rate increase*",
+               "rate hike*", "trash rates", "garbage rates", "trash fee*", "garbage fee*", tonnage, "housing starts",
+               "industrial activity", "landfill volume*", "pricing", "solid waste fee*", "trash sticker*",
+               "sticker price", "sticker system", "tipping fee*", "collection fee*", "pickup fee*"]
+    search: ['trash rates increase', 'garbage collection rate hike', '"special waste" volumes',
+             '"construction and demolition" debris waste', 'landfill tonnage']
+
+  - key: regulation_policy
+    name: "Regulation, policy & municipal contracts"
+    keywords: [EPA, legislation, "bill would", ordinance, regulation*, rule, franchise, RFP, "request for proposals",
+               "contract award*", "trash contract", "garbage contract", "waste contract", "hauling contract",
+               "flow control", "city council", "county commission*", "methane rule", "state law", "trash bid*",
+               "trash service", "trash collection", "garbage collection", "trash pickup", "garbage pickup",
+               "recycling collection", "sanitation department", DSNY, "hauler", "select board", "town board"]
+    search: ['city council trash contract', 'garbage hauler contract RFP', '"solid waste" franchise',
+             'EPA landfill methane rule', '"solid waste" legislation', 'waste hauler contract approved']
+
+  - key: mna
+    name: "M&A and private equity"
+    keywords: [acqui*, merger*, divest*, "private equity", "take-private", buyout, "tuck-in", "deal to buy",
+               "agreed to buy", "sold to", "sale of"]
+    search: ['waste company acquisition', 'acquires waste hauler OR "waste services"', 'recycling company acquired',
+             'landfill acquisition OR sold', 'private equity waste management deal']
+
+  - key: innovation
+    name: "Innovation & technology"
+    keywords: [automation, robot*, AI, "artificial intelligence", "optical sort*", "electric truck*", "electric garbage",
+               "electric refuse", EV, EVs, CNG, autonomous, technology, startup, "pilot program"]
+    search: ['AI recycling sorting robot', 'electric garbage truck', 'CNG refuse trucks', 'waste technology startup']
+
+  - key: labor_safety
+    name: "Labor, safety & incidents"
+    keywords: [strike, union, Teamsters, OSHA, killed, fatal, fatality, injured, injury, "driver shortage", safety,
+               fire, blaze, explosion, crash, "lithium battery", "lithium-ion", kill*, dead, death, struck, pedestrian]
+    search: ['garbage truck crash', 'sanitation worker killed OR injured', 'Teamsters waste OR sanitation strike',
+             'recycling facility fire', 'lithium battery fire garbage truck']
+
+  - key: hazardous_medical
+    name: "Hazardous, medical & special waste"
+    keywords: ["hazardous waste", "medical waste", "biohazard", incinerat*, "used oil", "re-refin*", PFAS,
+               "coal ash", "coal combustion"]
+    search: ['"hazardous waste" facility', '"medical waste"']
+
+# ---------------------------------------------------------------------
+# SOURCES  (enabled: true/false to switch any of them on or off)
+# ---------------------------------------------------------------------
+sources:
+  trade_feeds:
+    enabled: true
+    # require_match: true = only keep stories that name a tracked company or use
+    # one of the waste words in settings > relevance_keywords (for general-business feeds)
+    feeds:
+      - {name: Waste Dive, url: "https://www.wastedive.com/feeds/news/"}
+      - {name: Waste360, url: "https://www.waste360.com/rss.xml"}
+      - {name: Waste Today, url: "https://www.wastetodaymagazine.com/rss/"}
+      - {name: Recycling Today, url: "https://www.recyclingtoday.com/rss/"}
+      - {name: Resource Recycling, url: "https://resource-recycling.com/feed/"}
+      - {name: E-Scrap News, url: "https://resource-recycling.com/e-scrap/feed/"}
+      - {name: BioCycle, url: "https://www.biocycle.net/feed/"}
+      - {name: Waste Advantage, url: "https://wasteadvantagemag.com/feed/"}
+      - {name: Packaging Dive, url: "https://www.packagingdive.com/feeds/news/", require_match: true}
+      - {name: Utility Dive, url: "https://www.utilitydive.com/feeds/news/", require_match: true}
+      - {name: Construction Dive, url: "https://www.constructiondive.com/feeds/news/", require_match: true}
+
+  google_news:
+    enabled: true
+    delay_seconds: 1.0
+    extra_search: ['"solid waste" county OR city', 'garbage OR trash hauler', 'site:wastedive.com',
+                   'site:waste360.com OR site:wastetodaymagazine.com OR site:recyclingtoday.com']
+
+  bing_news:
+    enabled: true
+    delay_seconds: 1.0
+    extra_search: []
+
+  gdelt:
+    # Off by default: GDELT rate-limits the shared cloud network (HTTP 429).
+    # It may work if you run the tool from a different network.
+    enabled: false
+    # GDELT allows one request every 5 seconds, so keep this list short
+    search: ['landfill (lawsuit OR expansion OR permit OR odor OR closure OR fine)',
+             '("Waste Management" OR "Republic Services" OR "Waste Connections")',
+             '("Casella" OR "GFL Environmental" OR "Clean Harbors" OR "Rumpke" OR "Waste Pro")',
+             '("recycling facility" OR "materials recovery facility" OR "extended producer responsibility")']
+
+  sec_edgar:
+    enabled: true
+
+  federal_register:
+    enabled: true
+    agency: environmental-protection-agency
+    types: [RULE, PRORULE]   # final and proposed rules (skips routine notices)
+    terms: [landfill, "municipal solid waste", "renewable fuel standard", PFAS, recycling, "coal combustion residuals"]

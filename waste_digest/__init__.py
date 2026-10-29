@@ -1,0 +1,1 @@
+"""Waste industry news digest."""
