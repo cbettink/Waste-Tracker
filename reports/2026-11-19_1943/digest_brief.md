@@ -1,0 +1,403 @@
+# Digest Thu Nov 19, 2026, 7:43 PM EST (last 48h)
+
+## Waste Management (WM)
+- NEW [t:ac34c35692ddc381] PureCycle, WM strike PP supply deal | Plastics News | Nov 19, 11:55 AM
+- NEW [t:4357454ba8265d36] Waste Management stock: WM enters polypropylene supply deal | ad-hoc-news.de | Nov 19, 10:31 AM
+- NEW (chatter) [t:a079c4526479b337] Waste Connections, Inc. (WCN): Why This Waste Management Stock Remains on Investors’ Radar | Yahoo Finance | Nov 19, 9:46 AM
+- NEW (chatter) [t:65ad055a5608d6a5] In HelloNation, Furniture Disposal Rules Explained by Waste Management Expert David Button of City of South San Francisco | Yahoo Finance | Nov 19, 8:11 AM | Can furniture go in the trash bin? A HelloNation article answers this question by explaining why bulky items like sofas, mattresses, and large appliances should never be placed in standard garbage ...
+- NEW [t:7daa039212e7b0a4] Clean on Paper, Cascading Crisis on Ground: The Stark Paradox of Waste Management in Jammu & Kashmir | Kashmir News Service | Nov 19, 7:02 AM
+- NEW [t:168f00ec60c4b4c2] PureCycle, WM Forge Major Plastic Recycling Deal | PlasticsToday | Nov 19, 5:58 AM | Multi-year agreement will deliver nearly 25 million pounds of recycled polypropylene annually starting in November 2026.
+- NEW [t:ee634f5ce7ecd61c] PureCycle, WM strike feedstock agreement | Recycling Today | Nov 19, 4:43 AM | America’s largest waste and recycling services company will supply PureCycle with nearly 25 million pounds of PP per year over a multiyear period.
+- NEW (chatter) [t:503182f839bc20c7] PureCycle Technologies, Inc. Enters Multi-Year Feedstock Agreement with WM | MarketScreener | Nov 19, 2:44 AM | PureCycle Technologies, Inc. announced that it has entered into a long-term feedstock agreement with WM. WM will supply PureCycle Technologies, Inc. with nearly 25 million pounds per year of waste ...
+- NEW [t:5107791278d351d9] Agiliti Group acquires Forward Waste Management in deal supported by PKF Smith Cooper | Consultancy.uk | Nov 19, 12:59 AM
+- NEW [t:53e36cb7d0cb05b5] Calvert Weighs Recycling Plant as WM Warns of Lost Revenue - - | SoMD Chronicle | Nov 18, 8:00 PM
+- NEW (chatter) [t:981ef3217be59bb7] Here's How Much $100 Invested In Waste Management 15 Years Ago Would Be Worth Today | Benzinga | Nov 18, 6:01 PM
+- NEW [t:1131ddd9d15f688e] SWANA Webinar Recap: How AI is Transforming the Future of Waste Management | Waste360 | Nov 18, 6:00 AM | From recycling sorting lines to collection routes, AI is reshaping how the waste industry operates.
+- NEW [t:8bc40c87ad1ac780] Waste Management stock: EUR 220.40, down 0.68% premarket | ad-hoc-news.de | Nov 18, 2:32 AM
+- NEW [t:85bd79e24072de98] Waste Management: The Hidden Fire Risk Buried in Your Junk Drawer | The Rochester Post (.gov) | Nov 18, 1:04 AM
+
+## Republic Services (RSG)
+- [t:29bad2586d323183] Republic Services, Inc. (RSG) Stock Price, News, Quote & History | Yahoo! Finance Canada | Nov 19, 6:21 AM
+- NEW (chatter) [t:06e362606fb03075] Where Does Republic Services (RSG) Value Sit After Its 92% Run? | Yahoo Finance Singapore | Nov 19, 5:14 AM
+- [t:25f8df889811625f] Dumfries trash switches to Republic Services Dec. 1 | Potomac Local News | Nov 18, 6:00 AM
+- NEW (chatter) [t:a5349618c4513cdb] Is Republic Services Stock A Mistake At Its High? | Yahoo Finance | Nov 17, 11:00 PM | The stock rose 20.6% before dividends over the year to November 17, 2026. Profit grew far more slowly.
+
+## Waste Connections (WCN)
+- NEW [t:f96c71d0d3115864] Industrial Demand and Backlog Put Waste Connections, Inc. in Focus on the TSX | kalkine.ca | Nov 19, 12:32 PM
+- NEW (chatter) [t:605d141ffe64f5c7] Bernstein Reaffirms Their Buy Rating on Waste Connections (WCN) | The Globe and Mail | Nov 19, 9:57 AM
+- (chatter) [t:0032dcc18688b041] Waste Connections, Inc. (WCN) Stock Forecasts | Yahoo Finance | Nov 19, 2:35 AM
+- NEW [t:761b7dd9cf776fa2] Hotel Rooms Extended For Residents Impacted By Chiquita Canyon Landfill Geyser Incident | Hometown Station (+1 outlets) | Nov 19, 1:21 AM | Hotel room reservations for Val Verde residents impacted by the Chiquita Canyon Landfill explosion have been extended.
+- [t:a88eca6a738e03b8] Geyser erupts in methane gas release at Chiquita Canyon landfill | NBC Los Angeles on MSN | Nov 19, 12:15 AM | Los Angeles Rams star receiver Puka Nacua was suspended for three games Thursday for violating the NFL’s personal conduct policy, but he may not miss any additional playing time as a result. Nacua is ...
+- NEW [t:99a0521bd986f6b5] Assemblymember Pilar Schiavo calls for stronger oversight of Chiquita Canyon Landfill | Spectrum News | Nov 18, 11:00 PM
+- NEW [t:0feb4e4c2a6e9d18] Black Substance Gushes After Geyser Explosion at Chiquita Canyon Landfill | News.com.au (+4 outlets) | Nov 18, 9:47 PM
+- [t:7f7097b7bcbd59df] Community near Chiquita Canyon expressed explosion concerns last month, neighbors say | NBC Los Angeles on MSN (+1 outlets) | Nov 18, 6:17 PM | A driver was arrested for driving under the influence after crashing into a homeless encampment in Canoga Park early Thursday, leaving one person dead and one other injured. The crash was reported at ...
+- NEW [t:a02d513e0a37771c] How Strong Is Waste Connections’ (TSX:WCN) Order Quality Right Now? | Kalkine Media | Nov 18, 5:28 PM
+- NEW (chatter) [t:362885754420081d] Waste Connections Inc. stock rises Wednesday, outperforms market | MarketWatch | Nov 18, 4:36 PM
+- [t:6a5289f328f53d6b] Chiquita Canyon Landfill Eruption Triggers LA County Health Response | cwibc.co.id (+1 outlets) | Nov 18, 4:13 PM
+- NEW [t:15cb3945f8d87940] Garbage out: Avalanches of 'trash juice' threaten Chiquita Canyon | KCRW | Nov 18, 3:00 PM
+- NEW [t:2cdc27e40bdcba26] Who gets a hotel room after the Chiquita Canyon landfill geyser? Nearest Val Verde streets, for 3 nights | Nacionale | Nov 18, 2:19 PM
+- NEW [t:bb6885832b418f19] Residents Fear Health Issues from Chiquita Canyon Landfill Geyser | MyNewsLA.com | Nov 18, 9:27 AM
+- NEW [t:8122c33c245b041e] Chiquita Canyon Landfill Gas Release Draws County Relocation Order | Around Prague | Nov 18, 6:30 AM
+- NEW [t:d3f8cd70bee72fb3] Chiquita Canyon Landfill erupts with geyser of rotting debris | KTLA | Nov 18, 2:24 AM
+- [t:041953405b749542] Energy Stocks Slid As Landfill Methane Leak Hit Waste Connections | Finimize | Nov 18, 12:59 AM
+- NEW [t:93fe2852d9ae8d48] What Really Happened When The Chiquita Canyon Landfill Blew Its Top | ИФЗ РАН | Nov 18, 12:22 AM
+- NEW [t:931437facc5028b4] Chiquita Canyon Brings In Hundreds Of Employees To Prepare For Upcoming Storm Following Geyser Incident | Hometown Station (+1 outlets) | Nov 18, 12:16 AM | Hundreds of additional staff have been brought to Chiquita Canyon to prepare for the upcoming storm that is expected to bring an inch of precipitation to the Castaic area following the geyser incident ...
+- NEW [t:1462e818932b6844] Chiquita Canyon Landfill Gas Eruption Sends Workers to Hospitals as LA County Orders Hotel Stays for Residents | inkl | Nov 17, 11:00 PM
+- NEW [t:418f97ff480cc5c0] Chiquita Canyon landfill gas eruption prompts hotel stays, air purifiers and refuge centers for nearby residents | Medical Daily | Nov 17, 10:51 PM
+- NEW [t:3060ec7ea90b5e5b] Smoke spews from landfill in California after gas release – video | The Guardian | Nov 17, 9:43 PM | The Los Angeles county fire department said a release of gas at the Chiquita Canyon landfill in Castaic, California, sent smoke billowing into the air and prompted an evacuation ...
+- NEW [t:f432cc2a0212726b] Chiquita Canyon Landfill Eruption Sends Residents Fleeing, Renewing Calls for Emergency Action | SSBCrack | Nov 17, 9:40 PM
+- NEW (chatter) [t:0735f8ec1e166ab6] Why is Waste Connections stock tumbling today? By Investing.com | Investing.com Australia | Nov 17, 9:37 PM
+- [t:230a81a582f38161] ‘We panicked.' Neighbors near Chiquita Canyon demand state of emergency | NBC Los Angeles | Nov 17, 9:15 PM
+- [t:9587efa558b553c6] State, county officials respond to gas explosion at Chiquita Canyon Landfill | Santa Clarita Valley Signal | Nov 17, 8:47 PM
+- [t:5d0e9f22c16bd700] Residents, elected officials call for emergency over Chiquita Canyon gas geyser | Press Telegram (+1 outlets) | Nov 17, 8:42 PM
+- [t:b4a009a062aa6b8f] LA Public Health, fire chief under fire over Chiquita Canyon explosion | FOX 11 Los Angeles | Nov 17, 8:39 PM
+- [t:0dde36f392a71fb3] Residents speak out after Chiquita Canyon Landfill methane gas explosion | CBS News | Nov 17, 8:36 PM
+
+## Casella Waste Systems (CWST)
+- NEW [t:014cd1581e18bccf] Casella Waste Systems, Inc. (CWST) Stock Price, News, Quote & History | Yahoo! Finance Canada | Nov 19, 4:58 PM
+- NEW (chatter) [t:be17344c4fbb8bc0] An officer of Casella Waste Systems (CWST) proposes selling 7,000 common shares. | Stock Titan | Nov 19, 4:44 PM
+- NEW [t:8a0d65ba3282a011] Casella Waste Systems appoints Clean Harbors co-CEO to board | TradingView | Nov 19, 4:22 PM
+- NEW (chatter) [t:f09bf593d7ac11ed] Casella's board leader will leave the lead role Jan. 1 and remain on the board. | Stock Titan | Nov 19, 4:10 PM
+- NEW [t:56f8af1ffabacd51] Casella Waste Systems Appoints Michael Battles as Lead Independent Director | quiverquant (+2 outlets) | Nov 19, 8:24 AM | Casella Waste Systems appoints Michael L. Battles as Lead Independent Director, enhancing board oversight and strategic focus.
+- NEW [t:1ebb23e4c3177ec1] Casella Waste Systems, Inc. Announces Board Leadership Transition | Markets Insider (+2 outlets) | Nov 19, 3:10 AM | Casella Waste Systems, Inc. (Nasdaq: CWST), a regional solid waste, recycling and resource management services company, announced today that its Board of Directors has appointed Michael L. Battles, a ...
+- NEW [t:e52ec1f53b7fbbe2] Casella Waste Systems Stock: Price Action, Valuation and Momentum | Kalkine India | Nov 19, 2:17 AM
+- (chatter) [t:71e8d4350a4a4c8c] Is Casella Waste Systems Inc (CWST) a Bargain After 3.4% Drop? G | GuruFocus | Nov 17, 8:20 PM
+
+## GFL Environmental (GFL)
+- NEW [t:a27e0460a4d834fc] What Does GFL Environmental's (TSX:GFL) Full Series A Preferred Conversion Mean for Shareholders? | Kalkine Media | Nov 19, 4:12 PM
+- NEW (chatter) [t:870774b4d54eaf37] Is GFL Environmental Inc (GFL) a Bargain After 3.4% Drop? GF Value Says Undervalued | GuruFocus | Nov 18, 6:47 PM
+- NEW (chatter) [t:619eee15bce1c216] What Does GFL Environmental Inc. (TSX:GFL) Bring to the Dividend Stocks Group? | Kalkine Media | Nov 18, 5:55 PM
+- NEW [t:fcf6a9a03e61f516] GFL Environmental falls 3.19% in Wednesday's session | Global Banking & Finance Review | Nov 18, 5:35 PM
+- NEW [t:72a8e6f35bda9092] Why Is TSX Completion Index Watching GFL Environmental (TSX:GFL) Today? | Kalkine Media | Nov 18, 3:53 PM
+- NEW [t:1e408f74b218d550] How Is GFL Environmental Inc. (TSX:GFL) Simplifying Its Capital Structure Now? | Kalkine Media | Nov 18, 11:00 AM
+- NEW (chatter) [t:a84c698cf4c53cc0] This Insider Has Just Sold Shares In GFL Environmental | Simply Wall St | Nov 18, 5:29 AM
+
+## Clean Harbors (CLH)
+- NEW [t:007c48598b0d076c] Wrapped Clean Harbors Tokenized Stock (xStock): Funding, Investors, Team and Key Events | CryptoRank | Nov 19, 5:58 PM
+- NEW [t:fcf5534d6efab9af] Clean Harbors to Present at 2026 Goldman Sachs Industrials and Materials Conference | FT Markets (+1 outlets) | Nov 19, 12:30 AM | Clean Harbors will webcast the event live at 10:10 a.m. EST.
+- (chatter) [t:68f1de7817d5f56c] Clean Harbors, Inc. (CLH) Stock Forecasts | Yahoo Finance | Nov 18, 3:17 PM
+- NEW (chatter) [t:14d701aef9808d5d] Clean Harbors Shares Fall 1.1% on Day of Texas Plant Explosion | www.tokenpost.com | Nov 18, 12:47 PM
+- NEW [t:8b6e10f326badf2c] Investigators reveal cause of Clean Harbors facility explosion near Deer Park | FOX 26 Houston | Nov 18, 12:46 PM
+- NEW [t:2ec12aa238c6e4e8] Fire marshal reveals possible cause of Clean Harbors Deer Park explosion | FOX 26 Houston | Nov 18, 12:04 PM
+- NEW [t:00ae7a0cdf125aee] Fire Breaks Out At Clean Harbors Environmental Facility In La Porte | onscene (+36 outlets) | Nov 18, 11:15 AM | An industrial fire broke out at the Clean Harbors Environmental facility in La Porte, Texas, Tuesday evening, prompting an emergency response and sending one employee to a local hospital. On November ...
+- NEW [t:6861020b76836449] Clean Harbors Reports Explosion and Fire at Deer Park Waste Facility | Tank Transport | Nov 18, 7:53 AM | The Clean Harbors explosion at its Deer Park waste facility prompted an emergency response. Waste-delivery impacts remain unconfirmed.
+- NEW [t:9ebecc6c4fe161b2] Explosion at Clean Harbors hazardous waste plant preceded by two earlier fires, investigators say | Seeking Alpha | Nov 18, 4:37 AM | Clean Harbors shares fell following an explosion and fire at the company's hazardous waste facility near Houston, Texas.
+- NEW [t:b0d309568e3bc8c4] When will we know what caused the Clean Harbors explosion? Possibly in a day; full findings take months | Nacionale | Nov 18, 2:24 AM
+- NEW [t:ed6618d88545de68] Clean Harbors explosion: Emergency crews respond to fire at Deer Park facility after tank explodes, officials say | ABC13 Houston | Nov 18, 2:11 AM
+- NEW [t:e0a9a3207001a6ea] Harris County Judge Lina Hidalgo, other officials give update after Clean Harbors explosion, fire | KHOU | Nov 18, 1:47 AM
+- NEW [t:f55c3c5959760e07] What caused the Clean Harbors explosion in Deer Park? Not known yet; here is who investigates | Nacionale | Nov 18, 1:23 AM
+- NEW [t:227e1b51dfb862ac] Clean Harbors Deer Park has reported some sort of explosion incident has occurred at its facility. A | Click2Houston | Nov 18, 12:35 AM
+- NEW [t:2da6cbe2a93bcf6d] What is the Clean Harbors plant in Deer Park, and what does it burn? A hazardous waste incinerator | Nacionale | Nov 18, 12:26 AM
+- NEW [t:a3a08d1d9afc7baa] Crews Battling Potential Tank Fire After Explosion At Deer Park Clean Harbors Facility | NewsRadio 740 KTRH | Nov 18, 12:17 AM
+- NEW [t:3d03a24f8c815d06] Clean Harbors explosion | HCFMO says the hazardous waste facility had 2 minor fires in past week | KHOU on MSN (+2 outlets) | Nov 17, 11:32 PM | The Harris County Fire Marshal's Office said the facility had two minor fires in the week before an explosion Tuesday night.
+- NEW [t:1725c18ad509f357] What sparked the Clean Harbors explosion? Investigators say key questions remain | Yahoo (+2 outlets) | Nov 17, 11:32 PM | The fire marshal's office said the explosion and fire at the Clean Harbors facility on November 17 happened when hydrocarbon vapors in a treatment vessel caught fire around 8:50 p.m. They said there ...
+- NEW [t:7dbcba0a74349971] Clean Harbors explosion, fire prompts emergency response; no shelter-in-place orders issued | KHOU | Nov 17, 11:24 PM
+- NEW [t:c4d03409f8a07d46] Loud boom heard in Deer Park as Clean Harbors reports incident | cedarnews.net | Nov 17, 10:21 PM
+- NEW [t:0d1d249dcc967b20] Fire contained after explosion at Clean Harbors facility near Deer Park | FOX 26 Houston | Nov 17, 10:01 PM
+- NEW [t:5011165d0fc1fe6d] Clean Harbors explosion leaves one worker injured; containment efforts continue overnight | Yahoo | Nov 17, 10:01 PM
+
+## Rumpke
+- NEW [t:529743ba8f609736] Rumpke Trash Service Holiday Notification | My County Link | Nov 19, 11:50 AM
+- NEW [t:5a35267f75977126] Rumpke to maintain normal trash and recycling collection schedule on Thanksgiving | The City of Covington, KY - Official Government Website (+2 outlets) | Nov 18, 11:01 AM | Rumpke Waste & Recycling will continue its normal trash and recycling collection schedule for Covington residents on Thanksgiving Day this year. Residents are reminded to place their carts at the curb ...
+
+## Waste Pro
+- NEW [t:9aae57b09a0b1a3d] Waste Pro Awards $50,000 to Five Local Drivers | Miami Community Newspapers (+1 outlets) | Nov 19, 2:34 AM | Getting your Trinity Audio player ready... Five Central Florida drivers have each earned Waste Pro’s $10,000 Driver Safety Award, a combined $50,000, for three years of putting safety first and ...
+- NEW [t:039a4ce4faee216b] Cape Coral approves FCC Environmental as new trash hauler despite Waste Pro lawsuit | gulfcoastnewsnow (+3 outlets) | Nov 18, 11:03 AM | Cape Coral City Council selected FCC Environmental as its new solid waste vendor, with the contract set to begin next October, while Waste Pro challenges the decision in court.
+- NEW [t:bfa5d173b86eb8c6] Women of Waste Pro: Lisa Rubino, Corporate Customer Support Specialist | Waste Advantage | Nov 18, 1:02 AM | Every community depends on the work of people like Lisa Rubino, whose nearly three decades in the solid waste industry reflect a deep commitment to making a positive difference in […]
+
+## Meridian Waste Solutions
+- NEW [t:843175311d1b1c72] Meridian Waste announces holiday garbage collection schedule | Queen City Newsfeed | Nov 19, 2:58 PM
+- NEW [t:89c342aa3fdab14c] Meridian Waste releases holiday garbage schedule | WTOK | Nov 19, 10:55 AM
+
+## Landfills: litigation, permits, enforcement
+- NEW [t:cb01eed05465543c] What should become of the Hampton Park landfill site, candidates have their say | Berwick Star News | Nov 19, 6:02 PM
+- NEW [t:ca67cbedd23a3b41] Independence Landfill Closed | Sierra Wave | Nov 19, 1:02 PM
+- NEW [t:65f439e0fbd55763] Shoosmith report leaves lingering questions about funding for landfill cleanup | VPM | Nov 19, 11:00 AM
+- NEW [t:4744462290f2be01] Innovative Wicomico County Project Will Convert Landfill Methane to Renewable Natural Gas | Conduit Street Blog | Nov 19, 9:57 AM
+- NEW [t:37af8414b95f25d4] These 2 things will be banned from N.C. landfills, starting Dec. 1 | 828 News Now | Nov 19, 8:46 AM
+- NEW [t:5ff5bd8cff7a1e35] Crews Run Into Pressurized Pocket While Drilling New Gas Well at Landfill | Occupational Health & Safety | Nov 19, 8:34 AM
+- NEW [t:24cbde672cc2fb6a] Linn County plans to send some trash to landfills outside the county | KGAN on MSN (+1 outlets) | Nov 19, 8:27 AM | The Cedar Rapids-Linn County Solid Waste Agency hopes to begin shipping about 100,000 tons of waste a year to landfills outside the county starting in July 2027.Five landfills have responded to the ...
+- NEW [t:2f0d640937d96e1c] Shoosmith landfill funding could run out this fiscal year. Then what? | WTVR.com | Nov 19, 7:55 AM | Virginia officials say available funding to operate, maintain and close the Shoosmith landfill could be depleted by the end of the current fiscal year.
+- NEW [t:0f9ad10ede1e2a10] Lower Saucon Beats Bethlehem Landfill in Court, Expansion Odds Shrink | Hoodline (+2 outlets) | Nov 19, 6:47 AM | Lower Saucon Township just won another round against Bethlehem Landfill in court. Expansion plans may be running out of room.
+- NEW [t:8ff9657f175c8f3d] Dewan Rakyat today: RON95 quality, waste landfills among key issues | The Sun Malaysia | Nov 19, 3:01 AM
+- NEW [t:a84ac65e7235dd5d] PFAS contamination from capped landfill impacting Shaftsbury residents and officials | Bennington Banner (+1 outlets) | Nov 19, 2:37 AM | SHAFTSBURY – The town is dealing with a burgeoning, and expensive, problem with PFAS contamination of residents’ wells, apparently originating from the capped landfill near the Department of Public ...
+- NEW [t:6f618fba36f28e21] Cumilla landfill revamp raises hopes for cleaner environment | The Daily Star | Nov 19, 1:03 AM
+- NEW [t:05b26b2a41df4c52] Thanksgiving holiday schedule: trash, landfill and collection station closures | KVIA | Nov 18, 10:32 PM
+- NEW [t:a94e94b2d14dc276] Batangas board reviews pollution complaints, possible landfill suspension | Philippine Information Agency | Nov 18, 10:04 PM
+- NEW [t:17c9dff22f5ac328] County weighs Buena Vista Landfill redevelopment as environmental concerns emerge | Good Times | Santa Cruz California's Leading Free Weekly (+2 outlets) | Nov 18, 10:03 PM
+- NEW [t:02e45fbee01223ee] Health alert issued after trash geyser erupts at landfill in CA | NJ.com (+11 outlets) | Nov 18, 9:30 PM | A methane gas geyser erupted at a California landfill, prompting health officials to order operators to house affected nearby residents.
+- NEW [t:ce8cf369c322edd3] The Landfill Geyser Is Capped, but California Still Owes Castaic Answers | PJ Media | Nov 18, 8:16 PM
+- NEW [t:83f986f5b902c598] Another big crowd weighs in on landfill | Tucson Local Media | Nov 18, 7:20 PM
+- NEW [t:2a404ff929a06b6a] Food Waste Composting Machine Market To 2035: Landfill Bans and Disposal Costs Fuel Growth - News and Statistics | IndexBox | Nov 18, 7:06 PM
+- NEW [t:c532c6900a0fc737] Refuse-Derived Fuel (RDF) Production From Mined Landfill Waste: Opportunities and Bottlenecks | Newswav | Nov 18, 7:00 PM
+- [t:326017919f50712b] Residents fear health issues from landfill geyser, despite public assurances | Spectrum News | Nov 18, 5:42 PM | Six workers from the facility were taken to a hospital for evaluation, but none appear to have suffered any serious injuries ...
+- NEW [t:ab1f9e3b27bbf6e8] From yellow stickers to farm animals, how the Kelowna Superstore keeps 600,000 pounds of food from the landfill | Castanet | Nov 18, 5:39 PM
+- NEW [t:294e5a89702be0a5] Gering’s Garbage, Kimball’s Gain? Landfill deal offers revenue and expansion | westernnebraskaobserver.com (+1 outlets) | Nov 18, 4:59 PM | The Kimball City Council approved an agreement Oct. 20 that would allow Gering to bring its garbage to Kimball when Gering’s landfill fills up. In return, Gering would pay Kimball $18 for every ton ...
+- NEW [t:a103060fe37beaba] Landfill Gas Release Prompts Emergency Health Order in California | Environmental Protection Online | Nov 18, 4:35 PM
+- [t:84c41b8884679903] East Springfield crews join about 20 departments at Apex Landfill fire | dailydispatch.com (+1 outlets) | Nov 18, 2:39 PM
+- NEW [t:2462a76aefcdab6a] Collection worker injuries down, but landfill injuries up in 2025 | Waste Dive | Nov 18, 2:27 PM | MRF workers experienced the highest illness rate of waste industry groups, but experienced fewer injuries compared to the previous year, according to annual data from the Bureau of Labor Statistics.
+- NEW [t:7ca5ad67eedc8e90] Cherokee Landfill Fire | KCAU 9 News | Nov 18, 12:39 PM
+- NEW [t:26e34c7d47967756] After years of complaints and little action, Avenal residents sue the City landfill | Hanford Sentinel | Nov 18, 12:30 PM
+- NEW [t:b43e0ff7974ea237] RCRA forced thousands of landfills to close. What happened to them? | Waste Dive | Nov 18, 12:12 PM | The federal law raised landfill standards but left it up to states to manage thousands of dumps closed without consistent standards. Now, many sites are left unmonitored despite public health risks.
+- NEW [t:086dd350c4e27b66] Prosecutors Investigate Rodrigo Chaves Over Turrúcares Landfill Offer | The Tico Times | Nov 18, 12:00 PM
+- NEW [t:a7b5bffaffdb7171] Princeton Wants $1.6M More For Landfill Cap Repairs After Bids Come In High | Patch | Nov 18, 11:01 AM
+- NEW [t:8eae71d5206bd5d0] Plumes of smoke erupt from California landfill | WKYC (+1 outlets) | Nov 18, 10:54 AM
+- NEW [t:8f73a3e097977272] Explosion at California landfill raises air quality concerns among residents | 41NBC News | Nov 18, 10:15 AM
+- NEW [t:0df1063534874590] Rotting trash geyser erupts from LA landfill as residents flee | The Post Millennial | Nov 18, 9:50 AM
+- NEW [t:173189171b693aa5] Radioactive Waste In Your Landfill? Maryland Attorney General Pushes Back On NRC Proposal | The BayNet | Nov 18, 9:00 AM
+- NEW [t:3e87acdd57f17b66] How Ontario’s Bill 140 could trash some recyclables and build more landfills | Waste360 | Nov 18, 6:00 AM | The Ford government’s latest omnibus bill rewrites the rules for the Blue Box program and makes more space for landfills and garbage incinerators.
+- [t:f2a3f4f9610b8483] Large plume of gas billows out of California landfill | Stamford Advocate | Nov 18, 5:05 AM
+- NEW [t:e50f6ae3a96b08f6] CK Requests More Time To Review Dresden Landfill Proposals | CKXS FM | Nov 18, 4:06 AM
+- NEW [t:ee4353fab37efda2] Drilling at California Landfill Triggers Gas and Waste Release, Evacuation Advisory | SSBCrack | Nov 18, 3:55 AM
+- NEW [t:73517c35a23eb5be] Will skip hearing, Fed governor says NSA computer network hit by outage California landfill gas plume raises alarm Plant employee accused of Illinois bomb | The Arkansas Democrat-Gazette | Nov 18, 3:50 AM
+- NEW [t:34736b530c834167] The Thung 70 landfill is overloaded with thousands of tons of untreated waste. | Báo Nghệ An | Nov 18, 2:33 AM
+- NEW [t:d0c9388009dd85eb] Cherokee Fire Department extinguishes two landfill fires | Yahoo | Nov 17, 11:23 PM
+- [t:e989efba3a9c579a] Philadelphia's trash, Chester's burden: Residents demand change as city weighs new waste contracts | CBS News on MSN | Nov 17, 10:33 PM | Chester residents who live near the Reworld incinerator say odors and pollution have diminished their quality of life for decades, and they want a voice in Philadelphia's upcoming waste contract ...
+- NEW [t:0b899e26dba5de4a] Philadelphia trash contracts: landfills vs. incineration | WHYY | Nov 17, 10:30 PM | A city consultant rated landfilling and incineration nearly equally. But the city’s evaluation of bids did not compare three companies’ toxic pollution levels.
+- NEW [t:dc66dff3c144f8d9] More than half of SA’s landfill sites fail environmental compliance checks | Mail & Guardian | Nov 17, 10:00 PM
+- NEW [t:ae285ef3983aa142] Garbage Geyser Shoots 500 Feet Into the Air at California Landfill | Le·gal In·sur·rec·tion | Nov 17, 9:00 PM
+- NEW [t:31b4337cf241eae3] RAW: CA: FAMILIES CONCERNED OVER LANDFILL EXPLOSION/GAS | Local 3 News | Nov 17, 8:55 PM
+- [t:8c14239155a177b1] HUD Funding Freeze Complicates Anguilla Landfill Closure Plan, Waste Management Board Hears | St. Thomas Source | Nov 17, 8:50 PM
+- [t:c34bf4766a72c37f] Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill | Los Angeles Times | Nov 17, 8:44 PM
+- [t:fa0601532e29417f] $3 million landfill pond aims to save Ada County millions in hauling costs | Idaho News 6 | Nov 17, 8:17 PM
+- NEW [t:6c9cf1e19104e23c] Officials seek dismissals in school funding, landfill and zoning lawsuits | Independent Journal Review | Nov 17, 7:47 PM | USA Waste and Recycling and its subsidiary are opposing Pike County’s effort to dismiss their federal lawsuit, which alleges the county breached an agreement to grant a landfill franchise after ...
+
+## Recycling: commodities, MRFs, EPR
+- NEW [t:a4f2dca4bbe558ca] Tourism, Water Pledges, Recycled PET: Week in Sustainability | Mexico Business News | Nov 19, 7:09 PM
+- NEW [t:905574a12395e010] Dubuque Metropolitan Area Solid Waste Agency brings back light recycling program | superhits106.com | Nov 19, 5:33 PM
+- NEW [t:2e4f7c17ac260bbe] Endless opens new metal recycling facility in East Tāmaki | Times.co.nz | Nov 19, 3:03 PM
+- NEW [t:194bf59ab34c8a47] Holiday Lights Recycling Kicks Off In Glen Ellyn | Patch | Nov 19, 2:10 PM
+- NEW [t:af7d99f72522cae4] Battery Believed to Have Sparked Fire at Burlington County Recycling Center; Officials Urge Proper Disposal | TAPinto | Nov 19, 1:00 PM
+- NEW [t:83c4d2107b4cd378] Golden Group International Shares Waste and Recycling Planning Guidance for Holiday Events | IndyStar | Nov 19, 12:18 PM
+- NEW [t:f5db536c67ce0c9d] Three strikes for recycling offenders in Greymouth | 1News | Nov 19, 12:13 PM
+- NEW [t:966a6c655560723a] Audi establishes circular economy business unit | Recycling Today | Nov 19, 12:13 PM | Starting in 2027, Audi Circular Solutions will combine the purchase of used vehicles and components, vehicle dismantling, used parts sales and access to recycled raw materials for the automaker’s supply chain.
+- NEW [t:e9c4e9e082c2587c] Fire Crews Return to PADNOS Recycling Center in Howell | WHMI | Nov 19, 11:44 AM
+- NEW [t:886a97148a22b439] The EPR Juggling Act: Agency Enforcement, Pending Litigation, And A Bond-Conditioned Reprieve For NAW Members | JD Supra | Nov 19, 11:32 AM
+- NEW [t:135d7b8fdee86a54] Large fire at railroad tie recycling facility prompts evacuations, school closures in Alabama | WVTM Channel 13 on MSN (+10 outlets) | Nov 19, 11:19 AM | Residents in part of Attalla were ordered to evacuate Thursday as a fire burned at a railroad tie recycling facility.
+- NEW [t:74771cc1a7693af3] Is RCRA’s waste and recycling system ready for a manufacturing boom? | Waste Dive | Nov 19, 11:06 AM | RCRA’s rollout was turbulent for manufacturers and environmental services providers. Hazardous waste and scrap companies are prepping for new demand, and awaiting details about EPA reform plans.
+- NEW [t:805d88169da34af6] Cox Enterprises newest supporter of TRP’s Recycling Participation Fund | Recycling Today | Nov 19, 11:06 AM | The fund is aimed at increasing residential recycling and recovering valuable materials for U.S. manufacturing.
+- NEW [t:cf3f3e0d06774752] KIRO 7 Tracks Recycling With AirTags, Finds Items Reach Processing Facilities | Hoodline | Nov 19, 10:30 AM | AirTags stuck inside recycling bins in King, Pierce and Snohomish counties tracked cans and cardboard all the way to their final stops.
+- NEW [t:8301c3cb4b565d51] A mixed bag for mixed-color recycled HDPE in October | Plastics News | Nov 19, 10:27 AM
+- NEW [t:37ce20feb1ef35a4] Thrift’s seat at the textile EPR table | Resource Recycling | Nov 19, 10:20 AM | Under California’s textile EPR law, every Goodwill in the state counts as a producer, even when new goods are under 1% of sales.
+- NEW [t:f020c9761808f10e] ‘Keep at it’: Advice for maintaining recyclability status under SB 343 | Packaging Dive (+1 outlets) | Nov 19, 10:08 AM | Cartons’ non-recyclable status under California’s “truth in labeling” law was reversed this summer, and molded fiber producers are working to achieve the same. “Keep focused on the prize,” advises a Tetra Pak sustainability leader.
+- NEW [t:9ec4b6527e49309f] Fly Ash Filler Strengthens Solid Masonry Blocks Made With Recycled Concrete Aggregates | Bioengineer.org | Nov 19, 9:40 AM
+- NEW [t:f136fd9af60d8ef3] Commentary | What’s in the box? How packaging EPR laws are changing the due diligence playbook | Recycling Today | Nov 19, 9:26 AM | State packaging laws are turning into real costs and real liabilities, and deal teams are taking notice.
+- NEW [t:58884f0c1a262b8d] NWRA Announces 2026 Chapter Leadership Award Recipients | Waste360 (+1 outlets) | Nov 19, 9:24 AM | The National Waste & Recycling Association (NWRA) is pleased to announce the recipients of its 2026 chapter leadership awards, honoring outstanding individuals whose long-term contributions have strengthened and advanced their state or regional chapters.
+- NEW [t:6fdeebf38026dc54] The Recycling Partnership names chief growth officer | Recycling Today | Nov 19, 8:30 AM | Charles “Chad” D. Dillard II brings 17 years of experience and will lead the organization’s revenue strategy.
+- NEW [t:d829ab308463168b] 'TIS THE SEASON TO RECYCLE | Kent Co. DPW releases holiday recycling guide | Yahoo | Nov 19, 8:10 AM | Foam plastic like Styrofoam or plastic film like bubble wrap and shipping envelopes can only be recycled at special drop-off locations, which can be found on DPW's website. Festive lights can be ...
+- NEW [t:c313655943efb60b] Fond du Lac Thanksgiving holiday closings and trash schedule | USA TODAY | Nov 19, 8:02 AM | Fond du Lac city offices, transit and the Senior Center close Nov. 26-27, and garbage and recycling pickup shifts for some residents.
+- NEW [t:a6feb65b8c824a2a] Agecroft recycled sand meets concrete standard | Construction Briefing | Nov 19, 7:27 AM
+- NEW [t:14b0f428e8e31781] Redwood Materials builds battery sorting line with vision system | Recycling Today (+1 outlets) | Nov 19, 6:30 AM | The company says that just months after going online its model, which incorporates computer vision and machine learning to classify batteries by chemistry before they reach a rotary calciner, is operating at more than 98 percent accuracy.
+- NEW [t:ec616547a794cf04] Ecomaine receives $10,000 grant for explorecycling | Recycling Today | Nov 19, 6:30 AM | The grant from the Portland Regional Chamber of Commerce will help launch a new recycling education center.
+- NEW [t:bf1f11a8b428543d] New Roadmap Targets 57% Cut in PET Emissions by 2050 | Waste360 | Nov 19, 6:00 AM | Solutions to slash PET plastic’s greenhouse gas emissions (GHG) already exist, but reaching net-zero won't hinge on a single technology or process. Instead, the challenge lies in uniting an interconnected supply chain to deploy these methods in lockstep.
+- NEW [t:e34fe54a641a6ab0] What Eureka Recycling Learned After Its $12 Million MRF Upgrade | Waste360 | Nov 19, 6:00 AM | A year after adding four optical sorters and related equipment, the Minneapolis nonprofit reports cleaner paper and PET, leaner staffing and greater market resilience — along with new maintenance demands and a payback dependent on several moving parts.
+- NEW [t:ea5127468caf6c17] Recycling policy moves toward implementation | Resource Recycling | Nov 19, 6:00 AM | US EPR programs for packaging are starting up amid legal and operational uncertainty, said APR's Kate Bailey during a recent industry event.
+- NEW [t:d46dd99177efd5e5] Lautenbach Recycling Opens Bellingham C&D Drop-Off to Homeowners and Contractors | Yahoo Finance (+1 outlets) | Nov 19, 5:20 AM | Lautenbach Recycling's Bellingham facility now accepts construction and demolition debris from homeowners, do-it-yourselfers and contractors alike, giving Bellingham its first local option for ...
+- NEW [t:ad755e860b684893] Thirty-eight plastic producers fined for failing to use enough recycled content | Recycling Today | Nov 19, 4:57 AM | Fines for the companies totaled a combined $246,548, based on their sales in Washington and use of recycled plastics.
+- NEW [t:4bc0d26f0bfaf5c2] Lagoa opens new Volta recycling kiosk offering refunds for drinks containers | Portugal Resident | Nov 19, 4:36 AM
+- NEW [t:6b7cef43263aa666] Barrhead curbside recycling off to slow start | Town and Country Today | Nov 19, 4:00 AM | The curbside recycling program is part of a province-wide initiative by the Alberta Recycling Agency via its Extended Producer Responsibility (EPR). The agency announced the program in the fall of ...
+- NEW [t:3f2a93c9eb0c72fd] Israeli startup secures $2.5M to recycle industrial gas waste instead of burning it | CTech | Nov 19, 3:36 AM
+- NEW [t:1e0307cece57097f] Sing Holdings has eyes on Chuan Grove after Northern Gaia's record profit; LHN keeps capital recycling steady | The Edge Singapore | Nov 19, 3:33 AM | Listed since 2007, Sing Holdings has an established track record of development experience across a wide spectrum of properties ...
+- NEW [t:c043d11c0bd3dfc9] Groundbreaking £20m plant that recycles supermarket plastic opens doors in Corby | Northamptonshire Telegraph | Nov 19, 1:00 AM
+- NEW [t:566f3b9c2ec81d67] Providence, RI Recycling Rates Improve After Roll Out of New Carts, Education | Waste Advantage | Nov 19, 12:00 AM | Nearly a year after Providence started to roll out new trash and recycling bins, recycling rates have significantly improved, according to Mayor Brett Smiley’s office. The city started rolling out […]
+- NEW [t:5a1f0824eec53b95] NWRA, ENFINITE, and ETC Announce Inaugural Industrial Waste Exchange | Waste Advantage (+1 outlets) | Nov 19, 12:00 AM | The National Waste & Recycling Association (NWRA), ENFINITE: The Industrial Liquid Recyclers Association (ENFINITE), and Environmental Technology Council (ETC) announced the launch of the inaugural Industrial Waste Exchange, a new conference […]
+- NEW [t:53860e018c30029e] Escondido, CA Recycling Facility Doubles Capacity To Turn Food Waste Into Fuel | Waste Advantage | Nov 19, 12:00 AM | A waste recycling facility in Escondido is doubling its capacity to turn food scraps and green waste into renewable natural gas, with a grand opening scheduled for Tuesday, Nov. 24. […]
+- NEW [t:2ee81c68370b98c1] Recycled & refined: Guzzini designer homeware | DEVELOP3D | Nov 18, 10:40 PM | Guzzini combines recycled plastics with contemporary design to create stylish, durable homewares for modern living ...
+- NEW [t:a2af9ebb5c603991] New recycling drop-off center opens to serve northwest Allen County residents | The Journal Gazette | Nov 18, 7:00 PM
+- NEW [t:fe42231d9445da22] Clean the Sky - Hard-to-Recycle Waste Solutions | Trend Hunter | Nov 18, 6:56 PM
+- NEW [t:edf03ade52a60edd] SEIL Accelerates Global Expansion with Total Food Packaging Solutions | Milwaukee Journal Sentinel | Nov 18, 6:04 PM | Korean manufacturer SEIL brings Tamper Evident containers, custom PET, PP and PLA designs and recycled paper containers ...
+- NEW [t:7aa9b35bf3deca12] Thanksgiving Holiday Impact on Garbage, Recycling, and Yard Waste Collection | RaleighNC.gov | Nov 18, 5:38 PM
+- NEW [t:52e922dc4c2c2dd9] EGA Spectro Alloys receives expansion project equipment | Recycling Today | Nov 18, 5:25 PM | The nonferrous metals recycling company says new billet making equipment has arrived at its Rosemount, Minnesota, site.
+- NEW [t:9e78c2b2ee79d54b] Durango city council approves sewer, water, trash and recycling increases | The Durango Herald (+1 outlets) | Nov 18, 4:00 PM | Durango City Council approved increases to sewer and water rates as well as the cost for trash and recycling services, which will raise the average monthly residential bill by $18.54 in 2027. The ...
+- NEW [t:4186775e9fbc8118] Greenwave updates financials, reports loss | Recycling Today | Nov 18, 3:59 PM | The metals recycling company lost nearly $5 million in this year’s third quarter while its revenue rose by more than 20 percent year on year.
+- NEW [t:183f8602ad4cfc7f] Here’s How L.A. Plans to Lower Trash and Recycling Bills | LAmag | Nov 18, 2:02 PM
+- NEW [t:4a656154ed31ff32] Former recycling plant with Ohio EPA violations shut down. Ex-employees say it isn’t enough | NBC4 WCMH-TV | Nov 18, 2:00 PM
+- NEW [t:cbad8531d77c26ff] Environmental impairment insurance helps recyclers manage pollution risks | Recycling Product News | Nov 18, 12:07 PM
+- NEW [t:bb9fa0f56bd0c9c6] Solar Panel Recycling expands U.S. operations with new California facility | Recycling Product News | Nov 18, 11:41 AM
+- NEW [t:e74677b7f1f92f9e] Stena Recycling buys Polish paper recycler Surimet, lifts sites to 17 | Dealroom | Nov 18, 11:08 AM
+- NEW [t:5677ce29d346b424] Recycled Demolition Waste Yields Resilient Subgrade Performance Despite Significant Particle Breakage | BIOENGINEER (+1 outlets) | Nov 18, 11:01 AM | A comprehensive review reveals that recycled construction and demolition waste achieves lower post-construction settlement than conventional fillers, provided particle breakage and moisture ...
+- NEW [t:aa0448ba93ff49a7] The 'Lego' truck that's trying to fix Vancouver's recycling problem | Bowen Island Undercurrent | Nov 18, 11:01 AM | Recycling Alternative's trucks promise to collect flexible plastics in Vancouver. Getting them on the road has been a bumpy ride.
+- NEW [t:9095dddaf23acecd] Lessons from Washington’s PCR law, 3 years into enforcement | Waste Dive (+2 outlets) | Nov 18, 11:00 AM | The policy is successfully spurring the use of recycled plastic, even as thresholds and categories increase, said APR’s Kate Bailey. But some companies, such as Ocean Spray, continue to use no PCR and face penalties.
+- NEW [t:3e4aaecc86efe0dc] Solarcycle, Korea Zinc merge in critical mineral venture | Resource Recycling | Nov 18, 9:00 AM | Leadership hopes the new company, Jupiter, will give US firms a central place for e-scrap and ITAD recycling and processing.
+- NEW [t:57d689684c4ef19e] Large structure fire at recycling plant in Tennessee | KYMA | Nov 18, 8:28 AM
+- NEW [t:a8bc317320f23cf3] Government departments ‘miss 70% recycling target’ despite waste reductions | Packaging News | Nov 18, 8:13 AM
+- NEW [t:c071d5eb80415321] RECYCLING BOXES DELAYED FOR TOWN OF LEWISTON | Buffalo News | Nov 18, 7:20 AM
+- NEW [t:cb8d0268b14a8725] WWF and ILSR Launch $75,000–$250,000 Grant Program for Residential Composting Outreach | BioCycle | Nov 18, 6:34 AM | WWF and ILSR are offering $75,000–250,000 grants for residential composting outreach projects focused on participation, contamination and behavior change.
+- NEW [t:2fc4f28ce7840004] Dallas Gives Up About $3 Million Over Three Years to Keep Its Recycling Plant Contract Running | Waste360 | Nov 18, 6:00 AM | The Dallas City Council voted Nov. 10 to forgo about $3 million in recycling revenue over three years so the company that sorts the city’s curbside recycling can keep the plant running.
+- [t:1aba0c33b2fc72c0] New details released after fire at Jackson recycling facility | WBBJ-TV (+3 outlets) | Nov 18, 5:40 AM | The Jackson Fire Department has released a statement in regard to the major structure fire that occurred at SEB Recycling on Tuesday.
+- NEW [t:ed579430e8975931] What Actually Makes Curbside Organics Affordable? | BioCycle | Nov 18, 5:38 AM | A new NRDC analysis finds curbside organics costs depend on participation, collection design and processing access, with case studies from Austin, Boise, Edina and other communities.
+- NEW [t:31c4ed72648b25ce] Sarimbun Recycling Park redevelopment: No significant impact with safeguards in place, says NEA study | 联合早报 | Nov 18, 5:25 AM
+- NEW [t:f674e89165d05120] Food Waste Diversion Cuts Emissions, but Could Increase Microplastics in Soils | BioCycle | Nov 18, 5:07 AM | A University of Vermont study examines how food waste diversion through composting and anaerobic digestion can reduce emissions while increasing microplastic contamination in soils.
+- NEW [t:eefe0efa45f362f3] Burlington may tighten recycling rules as tax revenue drops | Burlington Free Press | Nov 18, 4:56 AM
+- NEW [t:c60f47e7b76e60c2] Circulose resumes recycling of discarded cotton textiles, appoints interim CEO | Recycling Today | Nov 18, 4:00 AM | The company says it will continue supplying fashion brands and fiber producers with high-quality recycled raw material at commercial scale.
+- NEW [t:88a4d41bba0e2eca] EREF Releases Interactive Waste & Recycling Industry Map | Waste Advantage | Nov 18, 1:59 AM | How has the waste and recycling industry changed in your state? Where are employment, businesses, and economic activity concentrated?
+- NEW [t:d0215f6b3792d6fc] Western Kenosha County, WI Municipalities Seeking to Form Solid Waste and Recycling Consortium to Pursue State Grant | Waste Advantage | Nov 18, 1:45 AM | Some Western Kenosha County municipalities may seek hundreds of thousands of dollars of state grant money by forming a new collective entity for solid waste and recycling services. Currently, Paddock […]
+- [t:bde9d4b7c5f98e09] Solar recycling 2.0 | pv magazine USA | Nov 18, 1:37 AM | Millions of solar panels will soon reach the end of their useful lives across the globe, not least in the United States where companies are in a race to deploy novel processes to capture and monetize ...
+- NEW [t:1ef238b4aa39ac0d] Johnston County, NC’s Pesticide Container Recycling Program Tops 300,000 Pounds | Waste Advantage | Nov 18, 1:34 AM | Since 1998, Johnston County has recycled more than 300,000 pounds of plastic pesticide containers. “That is well over a million two-and-a-half-gallon jugs,” Tim Britton told County Commissioners. “If you were […]
+- NEW [t:9cf8d89f5a80e963] THM installs shredder in Montenegro | Recycling Today | Nov 17, 11:43 PM | A shredder produced by German equipment maker THM Recycling Solutions GmbH is processing end-of-life tires in Montenegro.
+- NEW [t:7c7823b7c1b86b5f] Trinity residents concerned about oil contamination after garbage truck explodes in the neighborhood | NewsBreak: Local News & Alerts | Nov 17, 10:20 PM
+- [t:32e6edc83a948604] Dudley Recycling & Convenience Center to Close November 19-20 for Repaving | Goldsboro Daily News | Nov 17, 9:59 PM
+- [t:6d7490580a10c21d] I-TEAM: Toledo residents losing curbside recycling; will pay same refuse fee | WTVG | Nov 17, 9:02 PM
+- NEW [t:3a48ddf3aac97520] A 1.2 million ton market absorbs ground up scrap tires every year, and molded mats and flooring beat out playground mulch for the top share | EcoPortal.net | Nov 17, 8:50 PM | Scrap tires feed a 1.2 million ton recycling market where molded mats and flooring, not playground mulch, take the largest share of ground rubber.
+
+## Renewable energy: RNG, landfill gas, RINs
+- NEW [t:3dd43f9bb89c5a96] California facility turns 1,000 tons of daily organic waste into renewable gas | The Times of India on MSN | Nov 19, 9:30 AM | A bioenergy facility in Rialto, California, is giving food waste and sewage treatment by-products a second use by converting them into renewable natural gas and useful soil products. Designed to ...
+- NEW [t:cdb4e556d4f06f13] Hydron Energy Showcases Innovative RNG Technology at Bailey Landfill | Yahoo Finance | Nov 19, 5:25 AM | Hydron Energy is advancing its renewable natural gas (RNG) technology through its demonstration project at Bailey Landfill in Chilliwack, British Columbia, in collaboration with FortisBC and the City ...
+- NEW [t:e71e06dc706f97c7] Turning food and farm waste into energy: Can biogas help build a circular economy? | Augusta Free Press | Nov 19, 4:18 AM | A dairy farm collects manure every day. A vegetable processor may pay to dispose of tons of peels, pulp, and rejected produce.
+- NEW [t:c4cd3415638d88c9] Davao City approves P88.7M bond for waste-to-energy plant | SunStar | Nov 19, 2:06 AM | Davao City Council approves ₱88.7 million for a DOE performance bond and adopts bidding rules for its Japanese-funded waste-to-energy project.
+- NEW [t:9e71e74713561e42] A R$258 million investment launches Pernambuco plant producing 108,000 cubic meters of biomethane a day from waste | en.clickpetroleoegas | Nov 18, 9:18 PM | The operation at Ecoparque Jaboatão turns biogas from urban waste into renewable fuel. Months after opening, output was nearing 100,000 cubic meters a day, while production remains connected to the ...
+- NEW [t:64fd4b9df653a0d9] Montauk reports increased RNG production for Q3 | Biomass Magazine | Nov 18, 7:55 PM
+- NEW [t:9ed664853600b8fe] Bishkek to build second waste-to-energy plant with 2,000-ton daily capacity | PravdaReport | Nov 18, 1:25 PM
+- NEW [t:6a73a167663fd43a] Gas Holders Market To 2035: Biogas and Grid Balancing Fuel Growth - News and Statistics | IndexBox | Nov 18, 5:06 AM
+- NEW [t:f0800d0c840ee499] Modeling the Best Use of Biogas: Lessons from Three Case Studies | BioCycle | Nov 18, 5:05 AM | Case studies from Gainesville, Des Moines and Fort Wayne show how wastewater utilities use bioenergy modeling to evaluate co-digestion, CHP, RNG, project economics and operational risk.
+- NEW [t:5f950d90a6edc843] Wuhan's AI-powered waste-to-energy project featured at COP31 | China Daily Global Edition (+1 outlets) | Nov 18, 3:16 AM
+- NEW [t:98b4beee4600fce1] Davao City Council adopts bidding documents for waste-to-energy facility | Mindanao Times | Nov 18, 3:07 AM
+- [t:38f0c5115295f06f] CGTN Spanish: Where Does Our Waste Go? A Behind-the-Scenes Look at a Waste-to-Energy Incineration Plant in Shenzhen | ACROFAN USA | Nov 17, 9:31 PM
+- [t:5fa87261f3a89661] Montauk Renewables (MNTK): Cost Inflation and Covenant Risk Cloud the RNG Growth Story | AlphaStreet | Nov 17, 7:57 PM
+
+## Volumes & pricing
+- NEW [t:1880984381455e50] Norman OK Wastewater, Trash Rate Hikes Proposed for 2027 | Hoodline | Nov 19, 2:52 PM
+- NEW [t:620c28931940ff73] Piedmont residents to see $2 increase in monthly garbage fees | The Anniston Star | Nov 19, 2:30 PM
+- NEW [t:6f2df85ed720ccb0] Gumbs wants three garbage collection fees tied to building permits | SMN News | Nov 19, 1:48 PM
+- NEW [t:43d2ba09e44ca8d5] County OKs trash rate hike, new Public Records Act policy | Ledger Dispatch | Nov 19, 1:23 PM
+- NEW [t:b9577c29aae93f01] FCC Environmental’s trash rates increasing in Buncombe County | 828 News Now | Nov 19, 11:31 AM
+- NEW [t:a93e8b452b71494d] Norman Eyes Trash And Sewer Rate Hikes, Could Send Vote To April Ballot | Hoodline | Nov 19, 6:46 AM | Norman residents could soon be paying more to flush their toilets and roll out their trash cans, after city leaders floated a package of wastewater and solid-waste rate increases during a City Council ...
+- NEW [t:da23d3ce9f04fd6f] E-scrap feedstock competition mixed amid investments | Resource Recycling | Nov 19, 6:00 AM | New facilities are coming online across three continents, but disclosed intake volumes and purchasing terms offer little evidence that refiners are competing more aggressively for electronic scrap.
+- NEW [t:84c8ef0b49074fc4] New Braunfels council weighs solid waste rate increases | Herald-Zeitung | Nov 18, 4:32 PM
+- NEW [t:d81e3b48b22d2673] Norman City Council discuss proposed rate increase for wastewater, solid waste | Norman Transcript | Nov 18, 4:22 PM
+- NEW [t:b8e58face25f15cb] Bloomington proposes nearly 50% increase in trash fees | The Herald-Times | Nov 18, 3:50 PM
+- NEW [t:d5c74e03df79e0bd] Piedmont City Council Approves Garbage Rate Increase, Bridge Repair and Reviews Monthly Department Reports | Calhoun Journal | Nov 18, 3:24 PM
+- NEW [t:2c6541928410cffa] MCG plans C&D plant at Aravalli biodiversity park to clear waste mounds, residents fear ecological damage | Hindustan Times on MSN | Nov 18, 1:10 PM | Officials said the proposed plant would operate for two years to process at least 300,000 tonnes of construction debris at the ecologically sensitive site, where illegal dumping has left four massive ...
+- NEW [t:7f52f9be1f6bfd2c] MCG makes registration mandatory for C&D waste disposal in Gurugram | Hindustan Times on MSN | Nov 18, 1:10 PM | The Gurugram civic body said projects already underway but without an approved waste management plan will be given seven days to submit their plans through the portal ...
+- NEW [t:18e9412110a15a27] Castlegar garbage rates to go up $32 in 2027 | Castlegar News | Nov 18, 8:42 AM
+- NEW [t:3b5f2bf06e618383] Bloomington's Thomson on trash fee, preserving housing, gun laws | Indiana Public Media | Nov 18, 6:33 AM
+- NEW [t:978ee37f49ef9d58] Norman officials discuss proposed rate increases for wastewater, garbage services | OU Daily | Nov 17, 10:45 PM
+
+## Regulation, policy & municipal contracts
+- NEW [t:145b0ab77d3acac8] Peoria trash pickup delayed due to Thanksgiving holiday | Yahoo (+1 outlets) | Nov 19, 4:57 PM
+- NEW [t:0c01b044cf0d9688] The City of Midland releases trash pickup schedule for Thanksgiving week | CBS7 | Nov 19, 3:28 PM
+- NEW [t:9809a12dfa2cf982] Spewing trash: AI tool mixes Port Hardy garbage collection schedule with P.G. | My Prince George Now | Nov 19, 3:00 PM
+- NEW [t:b7b9eafaa53f18d0] Here's how Thanksgiving will affect trash pickup in Memphis | localmemphis.com | Nov 19, 11:15 AM
+- NEW [t:28d2284d89dae374] Hartselle garbage collection schedule adjusted for Thanksgiving | Hartselle Enquirer | Nov 19, 11:00 AM
+- NEW [t:a12276187b543c1e] Metro explores underground trash collection system for downtown Nashville | WKRN News 2 | Nov 19, 10:51 AM | Many downtown Nashville businesses are currently paying thousands for trash pickup each month. With this system in place, Kupin said it would be a benefit. “My understanding is Roosevelt Island in New ...
+- NEW [t:974fa4a8a4bb32f1] Madison releases information on trash pickup for Thanksgiving and Black Friday | WKOW | Nov 19, 10:01 AM
+- NEW [t:457f6f288c2d62b9] Hawthorne Council Withholds $95K From Garbage Hauler Over Missed Pickups | Hoodline | Nov 19, 8:28 AM | Hawthorne council members just said no to a $95,100 garbage bill. The trash company stays on the job, for now.
+- NEW [t:8e52449c23de98f6] EPA Rule: Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Texas; Control of Emissions From Existing Municipal Solid Waste Landfills | Federal Register | Nov 19 | Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is approving the CAA section 111(d) State plan submitted by the State of Texas for sources subject to the Municipal Solid Waste (MSW) Landfills Emission Guidelines (EG).
+- NEW [t:8b2fd1a872b7901a] Junk Hauler Prioritizes Construction Debris Removal for Contractors | The Detroit News (+1 outlets) | Nov 19, 4:00 AM | CHILLIWACK, BC - November 19, 2026 - PRESSADVANTAGE - Fraser Valley Junk Solutions has named Construction Debris ...
+- NEW [t:0a372cbc08b54cf5] City Council stops Parker administration from signing new contract with Chester trash incinerator | PhillyVoice (+11 outlets) | Nov 19, 3:20 AM | The Committee on the Environment instead passed legislation that only allows the city to send its trash to landfills.
+- NEW [t:2885cba9259beea1] Philadelphia City Council committee rejects controversial contract with Reworld incinerator | WHYY (+1 outlets) | Nov 18, 11:11 PM | Council’s environment committee removed Reworld from a waste disposal contract bill before sending it to a full council vote.
+- NEW [t:1221c2f01f2ccf23] GMC launches command centre in Guwahati to track garbage collection vehicles | India Today NE (+1 outlets) | Nov 18, 10:43 PM
+- NEW [t:4270646e5da82230] Local and Green with Darcy DuMont: FAQ: Amherst waste hauler proposal | Amherst Bulletin | Nov 18, 7:57 PM
+- NEW [t:37d535b7ff097cd1] Holiday Garbage Collection Schedules | The Harrodsburg Herald | Nov 18, 7:23 PM
+- NEW [t:2109f7683c098cce] Electrification of garbage collection vehicles, reducing emissions and labor for workers | news.laodong (+1 outlets) | Nov 18, 5:54 PM | URENCO is gradually putting electric vehicles into operation, aiming to reduce emissions, build a greener waste collection system and reduce ...
+- NEW [t:ac5fcdefa2d045a0] Trash pickup pains are starting to fester in Barrington | EastBayRI.com | Nov 18, 1:03 PM
+- NEW [t:0dbd0b14f5b58e17] Norman residents could see a utility increase after city leaders propose changes | KOKH Fox 25 on MSN | Nov 18, 11:20 AM | Norman homeowners could soon be asked to pay more for wastewater and trash service as city leaders consider utility rate increases that could go before voters as soon as April.The Norman City Council ...
+- NEW [t:156588058d0090c0] Cape Council awards solid waste contract to FCC Environmental Services | Cape Coral Breeze | Nov 18, 11:01 AM | The Cape Coral City Council awarded the municipality’s solid waste collections contract to FCC Environmental Services Florida, LLC during its special meeting Wednesday, minutes before the new elected ...
+- NEW [t:57170d8c01b574f2] Cherry Valley trash collection rescheduled for Thursday | Wynne Progress | Nov 18, 10:55 AM
+- NEW [t:efd76ddc8be473b1] Forisha steps down from Early City Council; contracts approved for purchases of fire, trash trucks | Brownwood News | Nov 18, 9:33 AM
+- NEW [t:a887a2fd841e7547] Neshoba County Holiday Garbage Collection Schedule | Kicks96news.com - Central Mississippi News 24/7 | Nov 18, 8:30 AM
+- NEW [t:2aba5e744c1f61b0] EPA Proposed Rule: Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS | Federal Register | Nov 18 | Pursuant to the Federal Clean Air Act (CAA or Act), the U.S.
+- NEW [t:cea8e8bf724b0956] EPA Proposed Rule: Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard | Federal Register | Nov 18 | Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S.
+- NEW [t:419c4556e3e8ec6e] Ohio Maps Out 88 Strategies For Building Its Organics Infrastructure | BioCycle | Nov 18, 6:34 AM | Ohio EPA’s new statewide organics plan outlines 87 strategies covering food scraps, composting, AD, permitting, processing capacity, markets and infrastructure.
+- NEW [t:408db97ca32dc4aa] Staunton shifts trash pickup, closes facilities for Thanksgiving | The News Leader | Staunton, VA | Nov 18, 4:41 AM
+- NEW [t:7bac28f3a1bc1969] Milltown’s trash collection rates to increase | madisoncourier.com | Nov 18, 2:14 AM | Milltown will see its first trash collection rate increase in five years, effective in January, following a new three-year contract with Sweetland Waste Removal that reflects rising landfill, fuel and ...
+- NEW [t:63d9ebc7afda6602] Oakland Trash Collection Rules for Commercial Property Owners | Hoodline | Nov 17, 8:24 PM
+
+## M&A and private equity
+- NEW [t:07029a6db6c17602] Agri-Cycle Expands Into New Regions Through Multiple Acquisitions | Waste Advantage (+8 outlets) | Nov 19, 12:00 AM | Agri-Cycle, one of the country’s leading vertically integrated organics management companies, backed by Closed Loop Partners’ Private Equity group, announced acquisitions of several organics recyclers across the U.S., including Food […]
+- [t:afd78224efefd607] Interstate Waste acquires NJ dumpster rental company | Waste360 | Nov 18, 6:00 AM | Interstate Waste Service Inc. is collecting more business with its acquisition of a New Jersey-based full-service dumpster rental company.
+
+## Innovation & technology
+- NEW [t:043ecc65ad91b832] The AI tsunami | Resource Recycling | Nov 19, 12:00 PM | AI data centers and the devices they make obsolete could generate 8.6 to 13.1 million metric tons of e-waste a year by 2030. Part 1 of a four-part white paper measures that footprint.
+- NEW [t:f620ea1d35ba9329] What Comes Next for Technology in the Skilled Trades | Waste Advantage | Nov 19, 12:57 AM | Kyle Spencer In 2026, talks of artificial intelligence (AI) and automation have dominated the skilled trades industry, and for good reasons. AI has introduced new ways to handle administrative […]
+- NEW (chatter) [t:8870ef41d1ebae76] Papaya's AI Automates Health Claims Adjudication with FWA Agents and Saves 8% to 15% of Claim Costs | Yahoo Finance | Nov 18, 12:30 PM | Papaya Insurtech today launched Papaya Claim AI in Southeast Asia: agentic AI that adjudicates health insurance claims and screens each one for fraud, waste and abuse (FWA) before payment, as Asia ...
+- NEW [t:6826a36a8b101ab5] Blancco launches AI ITAD assessment tool | Resource Recycling | Nov 18, 6:00 AM | Circulate combines diagnostic results with customer-defined grading rules and resale estimates to guide disposition decisions.
+
+## Labor, safety & incidents
+- NEW [t:88000b1d22d7054b] Garbage truck fire caused by ‘suspected’ lithium-ion battery | Nunatsiaq News | Nov 19, 3:56 PM
+- NEW [t:fc754d79f35ff538] Fishermen Spent 12 Years Hauling Up Bones of a Giant Killer Whale Relative That Lived 2 Million Years Ago | Discover Magazine | Nov 19, 2:30 AM | Learn how fossils recovered from the North Sea show that giant orcas could hunt large prey more than 2 million years ago.
+- NEW [t:2d78f510b851d32f] Multiple vehicles on fire at East Dublin recycling facility, crews on scene, EMA director says | 13WMAZ on MSN (+3 outlets) | Nov 19, 1:54 AM | EMA Director Bill Laird says that the fire was called in at around 6:30 a.m.
+- NEW [t:6b21a49d846e126e] 2 killed in crash with cattle hauler in southwest Colorado | CBS News | Nov 18, 9:32 PM | Two people were killed in a collision with a cattle hauler in southwestern Colorado on Wednesday. According to the Colorado State Patrol, the crash happened at San Miguel County Road 23R and Highway ...
+- NEW [t:74721ac63c758c0a] Local Residential Waste Collection Driver Honored for Protecting Home from Fire Sparked by Rechargeable Batteries | OCFL Newsroom | Nov 18, 9:33 AM
+- NEW [t:1a1224227d69a676] Mauldin Garbage Truck Dragged Him 10 Feet, Pest Control Worker's Lawsuit Claims | Hoodline (+1 outlets) | Nov 18, 9:28 AM | A Spartanburg County man says a Mauldin garbage truck dragged him 10 feet and hurled him onto the road. Now he's suing.
+- NEW [t:1653db0634b403e6] The Walkaround: The Most Important 10 Minutes of the Shift | Waste Advantage | Nov 18, 5:52 AM | The walkaround is the simplest safety tool we have. It needs no special equipment, only time and attention.
+- NEW [t:b3a081f393ec0b2f] Kent City Council approves pedestrian safety projects, reviews 2027 garbage rate increase & more | iLoveKent | Nov 18, 4:09 AM | At its Nov. 17, 2026, Committee of the Whole and City Council meetings, the City of Kent reviewed several key utility updates, infrastructure investments, and c ...
+- NEW [t:18377a4b2a001fec] Worker injured after falling from garbage truck in DeKalb County | WOWO | Nov 18, 3:00 AM
+
+## Hazardous, medical & special waste
+- NEW [t:964ac89857390e38] WMABA and DEQ to Hold Webinar for Hazardous Waste Management | www.fenderbender.com | Nov 19, 4:09 AM
+- NEW [t:5ca466bfc677a0d9] PIMS medical waste sale prompts action | The Express Tribune | Nov 18, 10:09 PM
+- NEW [t:557b536925e83ad3] Hazardous Waste to be Detonated at Iowa Army Ammunition Plant Friday | Western Iowa Today 96.5 KSOM KS 95.7 (+1 outlets) | Nov 18, 5:56 PM | (Middletown, IA) — Hazardous waste will be detonated in a controlled explosion tomorrow at the Iowa Army Ammunition Plan in southeastern Iowa. Justine Barati, with U.S.
+- NEW [t:1f8a343f6f01df7a] UBH incinerator improves waste management in hospitals | Herald.co.zw | Nov 18, 5:05 PM
+- NEW [t:9a2df188d0a33591] Second cell at hazardous waste facility nearly operational, Tellus says | Kalgoorlie Miner | Nov 18, 1:01 PM
+- NEW [t:12acb377066bf285] Hong Kong incinerator contractor sacks 9 workers, fines subcontractor HK$810,000 | South China Morning Post | Nov 18, 5:34 AM
+- NEW [t:d155c6abbfc37afb] Blast Reported At TX Hazardous Waste Plant | WIOD | Nov 18, 1:53 AM
+- NEW [t:1ef49bc9ee3092c1] From anaesthetic gases to medical waste: How hospitals can make surgery greener | The Week | Nov 18, 12:47 AM | India’s guidelines for green and climate-resilient health care facilities also encourage the use of reusable equipment, provided it can be safely reprocessed ...
+- NEW [t:6e3ba5c04232b45c] NGT Acts on Hazardous Waste in Himachal | jeevanutsahnews.in | Nov 18, 12:11 AM
+- [t:08c303997a245018] Hepatitis B and C Prevalence Among Medical Waste Handlers in Ethiopia | Bioengineer.org | Nov 17, 9:31 PM
+- [t:a4859e0a74f3f7e3] Redlands Hazardous Waste Drop-Off Site Holiday Closures Announced | Patch | Nov 17, 7:48 PM
+
+## Other industry news
+- NEW (chatter) [t:66dc0fc236455610] Form 144 CASELLA WASTE SYSTEMS Filed by: Sayward Shelley E. | StreetInsider | Nov 19, 4:45 PM
+- NEW [t:7f6d60b16248286b] Waste Dive’s RCRA 50th anniversary reading list | Waste Dive | Nov 19, 4:06 PM
+- NEW [t:60077ed4ffcaec89] Column: Green Up the holidays: Simple ways to reduce holiday waste | Current Publishing | Nov 19, 2:49 PM
+- NEW [t:586351a2e6035e70] Food Waste Prevention Week momentum carries into the holidays | Washington State Department of Ecology (.gov) | Nov 19, 2:04 PM
+- NEW [t:036ab3718ecb58a8] Tesla In Autopilot Mode Hits Tractor-Trailer, Garbage Truck On Route 206 In Montgomery: Police | Patch | Nov 19, 1:57 PM
+- NEW [t:52ef51e74a277dee] Broader corruption alleged at Sheng Thao trial, as ex-East Bay councilman admits ‘I was embarrassed, and I panicked and I lied’ | The Mercury News | Nov 19, 11:18 AM | The revelation came as Azevedo detailed a $2,000 bribe he said he accepted from Andy Duong of California Waste Solutions.
+- NEW [t:ff3bc674fe08877e] Flying plywood smashes through I-10 windshield | FOX 10 Phoenix on MSN | Nov 19, 11:10 AM | After three surgeries and a wired jaw, a 35-year-old victim's family hired a private investigator to track down the white pickup truck hauling plywood near Buckeye on Nov. 10. FOX 10's Brian Webb has ...
+- NEW [t:ba62fe9d20fd28ea] Kenosha Thanksgiving Waste Collection Schedule for 2026 | Kenosha.com | Nov 19, 10:50 AM
+- NEW [t:82c4b99fe5598c02] Deputies Say a Texas Man Trapped a Repo Driver, Then Shot Out the Tow Truck’s Tires | MotorBiscuit | Nov 19, 10:00 AM | Bexar County deputies say a Texas man shut his gate on a repo driver hauling away his pickup, then fired a shotgun into the tow truck's tires.
+- NEW [t:0fe0b37966163ab2] Connecticut redemption rate slips 8 points in Q2 | Resource Recycling | Nov 19, 9:44 AM | Connecticut’s beverage container redemption rate fell nearly 8 percentage points in the second quarter of 2026, from 86.6% to 79% compared with the same period last year. It is the first quarterly reversal since the state doubled its deposit from 5 cents to 10 cents on Jan. 1, 2024.
+- NEW [t:a7092e216037da2e] Derbyshire council to keep waste centre open after new evidence and thousands of concerns | Derbyshire Times | Nov 19, 9:43 AM
+- NEW [t:45dc59b924aafee4] A West Virginia county could soon become a nuclear waste dump against its will | Esquire on MSN | Nov 19, 8:49 AM | The state’s energy office decided not to consult with residents, which is just stellar governing all around.
+- NEW [t:31a13856871bf77b] Mehsana sanitation workers report assault and casteist slurs over firecracker waste | Mirror Now on MSN | Nov 19, 6:13 AM | Two municipal sanitation workers in Mehsana have filed a police complaint alleging they were assaulted and subjected to casteist abuse by four residents following a dispute over Diwali firecracker ...
+- NEW [t:d2e613a77cc66a9f] Trump touts aggressive US critical mineral goals | Resource Recycling | Nov 19, 6:00 AM | Experts, data indicate that the nation’s mineral independence aspirations may be farther away than the administration hopes.
+- NEW [t:2c7d1acecb8a7adb] Concrete Floor Diagnostics: How to Predict And Prevent Failure in Waste Facilities | Waste Advantage | Nov 19, 5:00 AM | When using ground-penetrating radar, stress-wave methods, thermography, maturity monitoring, and load testing, these technologies turn floor rehabilitation from a reaction to visible damage into a data-driven engineering process. By Chris […]
+- NEW [t:ca6b94efc4bb471e] A Viral Post Put Global Blade Waste at 110,000 Tonnes a Year by 2030. The Main Studies Put It Higher. | energynewsbeat.co | Nov 19, 4:36 AM | Peter Clack's widely shared figures on wind-turbine blades don't match the leading forecasts. End-of-life costs for wind, solar and gas plants look modest once they are spread over a lifetime of ...
+- NEW [t:14b9a26ed2c5618f] Green Seal announces inaugural leadership award winners | Recycling Today | Nov 19, 4:30 AM | The nine honorees include manufacturers and government purchasing organizations.
+- NEW [t:a634f89875158771] Bharat Now Rich Country But Poor Sanitation Negated Growth In Other Fields : Supreme Court | Live Law | Nov 19, 3:55 AM
+- NEW [t:4766bdb31d4c2717] Summit Scapes Construction Highlights Debris Hauling and Junk Removal Services | USA TODAY | Nov 19, 3:42 AM | MANLIUS, NY – November 19, 2026 – PRESSADVANTAGE – ...
+- NEW [t:c96774138bd4c262] Vehicle Rolls Over Following Collision with Pro Waste Truck on East Lake Road | Erie News Now | Nov 19, 3:35 AM | A vehicle and a Pro Waste truck collided at East Lake Road and Lowry Road in Erie before 10 a.m., causing the vehicle to roll onto its driver’s side. State ...
+- NEW [t:ef7f2248f4816a6f] Thai floods expose waste pollution in ‘garbage dump’ region | The Straits Times (+2 outlets) | Nov 19, 2:45 AM
+- NEW [t:d4c07a4155485d2a] Activists investigate suspected million-tonne waste dump in Sa Kaeo | Nation Thailand | Nov 19, 2:19 AM
+- NEW [t:2e779c34bb8b8731] Turning Waste Into Green Economic Prosperity | ednews.africa | Nov 19, 1:20 AM
+- NEW [t:1378058252bed128] Orange County solid waste board approves truck purchase, 2027 county agreement | Dubois County Herald | Nov 19, 1:00 AM
+- NEW [t:318b7c4f1cd5d838] Jospong explores Turkish partnerships to turn waste into energy, advances plastic-to-fuel pilot | CitiNewsroom.com | Nov 19, 12:25 AM
+- NEW [t:b784cb334ccab7d9] Waste: Assoambiente, management costs are growing, 340 euros annually per family (2) | jiji press | Nov 18, 11:43 PM
+- NEW [t:6b397ac58f102dfa] A Geyser of Rotting Garbage in LA Defines California Today | California Globe | Nov 18, 10:16 PM
+- NEW [t:40feec64074524a1] Lawrence County Solid Waste Management District reschedules December Board Meeting | WBIW | Nov 18, 9:55 PM
+- NEW [t:6b6aba85ff4b1590] La Crosse’s Yard Waste site closing for season on Nov. 24 | WIZM 92.3FM 106.7FM 1410AM (+1 outlets) | Nov 18, 8:27 PM
+- NEW [t:f84cea41a3131464] Polk County Solid Waste 2026 Thanksgiving Day Closures and Residential Collection Schedule | Polk County Government (.gov) | Nov 18, 5:28 PM
+- NEW [t:dabc54fcb4e3ea74] Yaphank project to turn food waste into biofuels stalled amid lawsuits, liens | Newsday | Nov 18, 4:00 PM | The $120 million Yaphank project to convert food waste into biofuels is stalled due to lawsuits and liens over alleged unpaid bills.
+- NEW [t:c510bb62082decbd] $2.6m Marlborough fly pilot targets grape marc waste bill | B2B News | Nov 18, 3:39 PM
+- NEW [t:fc93f4b0a805eeb0] Retrofitting Carbon Capture on Energy-from-Waste: Making the Systems Connect | JD Supra | Nov 18, 3:30 PM
+- NEW [t:608f1525f421f6c7] Blackstone scoops up ultrasonic inspections company DarkVision; Macquarie to shop Win Waste, sources say | PEI Private Equity | Nov 18, 12:58 PM
+- NEW [t:8e6b0ede49f9fd50] Regional board dissolves Solid Waste Committee | Energeticcity | Nov 18, 12:48 PM
+- NEW [t:52842c99f6e5005c] A. O. Smith Reports Progress in Emissions, Water and Waste Reduction | Contractor | Nov 18, 11:01 AM | The company’s latest sustainability report also highlights heat pump water heater expansion, certified water-treatment products and employee development.
+- NEW [t:5fdb5e53cad48ba9] Food Support Beyond Reduced Food Loss: Thinking About Local Connections Through 'Delivering Surplus' | note | Nov 18, 10:45 AM | Reducing food waste and ensuring food reaches those who need it. Both are desirable changes, but they do not always progress together.Stores review their purchasing to reduce unsold items.
+- NEW [t:1959902acb403826] Can’d Aid announces Crush It Crusade grant recipients | Recycling Today | Nov 18, 10:30 AM | The grants will support more than 48 community events across 14 states.
+- NEW [t:4f9b924ddb6d67e1] Safer Soils for All coalition forms to preserve compost review process | Waste Today | Nov 18, 10:17 AM | Safer Soils for All is urging the U.S. Department of Agriculture to preserve the existing substance-by-substance national list review process for synthetic compost feedstocks.
+- NEW [t:03f40c931172b633] California trash geyser cleared, air normal, officials say | WORLD News Group | Nov 18, 10:04 AM
+- NEW [t:a2b154beae721704] Higher trash costs mean change needed in Atchison | MSC News | Nov 18, 9:46 AM
+- NEW [t:7c56f0815e9078ea] Certification scorecard — week of Nov. 16 | Resource Recycling | Nov 18, 9:41 AM | The following facilities have achieved, renewed or otherwise regained industry certifications.
+- NEW [t:c3987c8bc3963aa6] ‘Plume’ of decomposing garbage and gas prompts emergency health order for LA county residents | The Guardian | Nov 18, 9:40 AM
+- NEW [t:1572cbb5a71b6a27] Turning trash into treasure | Plastech | Nov 18, 9:31 AM
+- NEW [t:4f092d8ccf06466f] 'Trash geyser' rains foul-smelling sewage upon California | Metro.co.uk | Nov 18, 9:25 AM
+- NEW [t:2aa942f2053427b3] Christchurch company raising fly larvae to turn wine industry waste into animal feed | Otago Daily Times | Nov 18, 9:20 AM | Scientists are trialling a new way to turn wine and aquaculture industry waste into high-quality protein for animal feed. A three-year pilot will test whether black soldier flies can convert organic ...
+- NEW [t:f2090507bda00922] PyroGenesis Secures NTPC Waste to Hydrogen Project Contract | Fuel Cells Works | Nov 18, 8:53 AM
+- NEW [t:c08520c68aeec11a] Werk-Brau releases new bucket for soft conditions | Waste Today | Nov 18, 8:22 AM | The bucket's open-topped design can enhance efficiency and profitability when working with materials like sand, silt, topsoil and dirt.
+- NEW [t:2e378abff1fb7229] Hawai‘i Offers $400,000 to Offset Compost Purchase and Transportation Costs | BioCycle | Nov 18, 6:35 AM | Hawai‘i’s FY2027 Compost Reimbursement Program offers $400,000 to reimburse farmers and landscapers for up to 50% of compost purchase and transportation costs.
+- NEW [t:1d68e8bc2ea5a7d1] Philadelphia is deciding whether to bury or burn its trash. What are the risks? | WHYY | Nov 18, 6:34 AM
+- NEW [t:60597a80df017c1d] RERF stipend program supports veteran education | Recycling Today | Nov 18, 6:30 AM | This year, two veterans received stipends for the first time since the program launched in 2013.
+- NEW [t:cc76e0eedc64f78c] Illegal dump operator made £71k from 1,200 tonnes of waste at former airfield | Sudbury Mercury | Nov 18, 6:10 AM
+- NEW [t:c89ea9418a371a76] USCC’s First Compensation Report Shows Growth, Higher Pay and Data Gaps | BioCycle | Nov 18, 5:04 AM | USCC’s first compensation report finds composting employment, establishments and wages rising, while limited survey participation and NAICS reporting gaps complicate industry benchmarking.
+- NEW [t:36cef687a5f8701f] Waste to Energy Market Size to Reach US$ 296.73 Billion by 2035 | | openPR.com | Nov 18, 4:02 AM
+- NEW [t:ac11572a14841e06] Deschutes County encourages residents to celebrate the holidays with less waste | Deschutes County, OR (.gov) | Nov 18, 3:00 AM
+- NEW [t:4cc62c98fc780a3b] Former Freepoint Eco-Systems Workers Speak Out About Hazardous Working Conditions at Suspended Plastic Waste Plant, Demand Justice | earthworks.org | Nov 18, 3:00 AM
+- NEW [t:7bf7d4df8c9996fd] Organic waste finds new life as fuel, electricity and manure under Swachh Bharat Mission | DD News | Nov 18, 1:31 AM
+- NEW [t:f8e43c035cd3ab48] Food Waste Management Market Size to Reach USD 174.87 Billion | openPR.com | Nov 18, 1:14 AM
+- NEW [t:5fa47ee14b0597f2] Las Piñas residents can soon trade trash for groceries | Manila Bulletin | Nov 18, 12:32 AM
+- NEW [t:53849ad8944f4f03] Two-Stage Digestion Significantly Increases Methane Yield From Kitchen Waste | Bioengineer.org | Nov 17, 11:46 PM
+- NEW [t:d277c343e6d1e67b] Bennettsville construction debris site cited for violating state waste law | WPDE | Nov 17, 11:43 PM
+- NEW [t:8992d21a7f90b90d] Casper plans Solid Waste, balefill facility improvements | Oil City News | Nov 17, 11:06 PM
+- [t:6734e66da170def5] Piedmont Raises Garbage Rate - WEIS | Local & Area News, Sports, & Weather | weisradio.com | Nov 17, 10:06 PM

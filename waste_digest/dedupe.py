@@ -118,9 +118,13 @@ def _content_words(c: Cluster) -> set[str]:
 
 
 def merge_related(clusters: list[Cluster], skip_words: set[str] = frozenset()) -> list[Cluster]:
-    # stock chatter is left alone: its Title Case headlines make names unreliable
-    eligible = [c for c in clusters if not all(a.chatter for a in c.articles)]
-    rest = [c for c in clusters if all(a.chatter for a in c.articles)]
+    # stock chatter is left alone (its Title Case headlines make names unreliable), and so are
+    # filings and EPA rules: they are primary documents and must not swallow news coverage
+    def mergeable(c: Cluster) -> bool:
+        return not all(a.chatter for a in c.articles) and all(a.kind == "news" for a in c.articles)
+
+    eligible = [c for c in clusters if mergeable(c)]
+    rest = [c for c in clusters if not mergeable(c)]
     return _merge(eligible, skip_words) + rest
 
 

@@ -54,3 +54,15 @@ def test_merge_related_local_coverage():
     titles = {c.primary.title: len(c.articles) for c in merged}
     assert any("Bunnell" in t and n == 3 for t, n in titles.items())
     assert titles["Major change coming to Brooklyn trash collection"] == 1
+
+
+def test_merge_related_leaves_regulations_alone():
+    from waste_digest.dedupe import merge_related
+    rule = art("EPA Rule: Approval of Texas Air Quality Plans for Harris County Facilities", "https://fr.gov/1",
+               origin="Federal Register")
+    rule.kind = "regulation"
+    arts = [rule,
+            art("Explosion at hazardous waste facility in Harris County injures worker", "https://a.com/1"),
+            art("Why did the Harris County facility explode? Investigators find earlier fires", "https://b.com/2")]
+    merged = merge_related(cluster_articles(arts))
+    assert any(c.primary.kind == "regulation" and len(c.articles) == 1 for c in merged)
